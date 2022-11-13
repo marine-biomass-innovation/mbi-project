@@ -76,6 +76,6 @@ author2:
 
     Open `_data/authors.yml` to edit this text.
 
-  picture:           https://placehold.it/128x128
-  twitter:           <username>
-  github:            <username>
+  # picture:           https://placehold.it/128x128
+  # twitter:           <username>
+  # github:            <username>
