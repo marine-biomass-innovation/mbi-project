@@ -42,7 +42,7 @@ keywords:              [marine, biomass, innovation, indigenous, Mi'kmaw, sustai
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+logo:                  /assets/icons/icon-512x512.png # /assets/img/logo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -100,12 +100,12 @@ paginate_path:         /blog/:num/
  
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/matt-hanns-schroeter-7RTiJ6WBdjA-unsplash-sq.jpg
-accent_color:          rgb(238,238,238)  # rgb(79,177,186)
+accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(238,238,238)  # rgb(25,55,71)
+theme_color:           rgb(25,55,71)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
