@@ -1,6 +1,4 @@
 ---
 layout: grid
-title: First Blog Post
+title: Home
 ---
-
-Test blog post
