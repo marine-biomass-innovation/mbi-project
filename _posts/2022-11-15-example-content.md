@@ -2,7 +2,6 @@
 layout: post
 title: First blog post
 image: /assets/img/blog/darklogo.png
-categories: [test, blog]
 tags: [test, blog]
 ---
 
