@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Etuaptmumk
-image: /assets/img/blog/etuaptmumk.png
+image: /assets/img/etuaptmumk_puzzle.png
 tags: [etuaptmumk, blog]
 author: author3
 ---
 # What is Etuaptmumk
 
-![Welcome Page](assets/img/Welcome_Page.svg)
+![puzzle](assets/img/etuaptmumk_puzzle.png)
 
 > "We do not throw away or relinquish ideas or concepts if we can find good in them, we keep the good for the mutual benefit of all."
 
