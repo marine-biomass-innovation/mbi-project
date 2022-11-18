@@ -7,8 +7,6 @@ author: author3
 ---
 # What is Etuaptmumk
 
-![puzzle](/assets/img/etuaptmumk_puzzle.png)
-
 *Please note that this is my own (Ivan J. White) interpretation of Etuaptmumk informed through personal experience, reflections, and reading/researching its application in other fields. I experience it from a very different perspective in relation to its creator for the most part. Elder Albert Marshall was able to conceptualize this concept despite the weight of surviving residential school and I cannot fathom how much patience, courage and wisdom that had to have taken.*
 
 **Etuaptmumk** (Ay-doo-ap-duh-mumk) is knowledge coexistence for the benefit of all people. It rejects the idea of dominance and bias of perspectives to allow for this coexistence. It rejects the idea of tokenism and the integration of perspectives to allow for this coexistence. To practice Etuaptmumk we all have to see that our knowledge can overlap but remain distinct.  It is a philosophical concept, not a research method, that guides Indigenous and non-Indigenous people to work together and question if their respect for each other's perspectives is stronger than their reliance on their own viewpoint.
