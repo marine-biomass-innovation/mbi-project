@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Etuaptmumk
-image: assets/img/etuaptmumk_puzzle.png
+image: assets/img/etuaptmumk.png
 tags: [etuaptmumk, blog]
 author: author3
 ---
 # What is Etuaptmumk
-![etuaptmumk_puzzle](assets/img/etuaptmumk_puzzle.png)
+![etuaptmumk](assets/img/etuaptmumk.png)
 > "We do not throw away or relinquish ideas or concepts if we can find good in them, we keep the good for the mutual benefit of all."
 
 *Please note that this is my own (Ivan J. White) interpretation of Etuaptmumk informed through personal experience, reflections, and reading/researching its application in other fields. I experience it from a very different perspective in relation to its creator for the most part. Elder Albert Marshall was able to conceptualize this concept despite the weight of surviving residential school and I cannot fathom how much patience, courage and wisdom that had to have taken.*
