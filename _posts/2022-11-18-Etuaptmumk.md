@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Etuaptmumk
+image: assets/img/etuaptmumk_puzzle.png
+tags: [etuaptmumk, blog]
+author: author3
 ---
 # What is Etuaptmumk
 ![etuaptmumk_puzzle](assets/img/etuaptmumk_puzzle.png)
