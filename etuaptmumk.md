@@ -2,9 +2,6 @@
 title: Etuaptmumk
 layout: page
 ---
-# What is Etuaptmumk?
-
-
 **Etuaptmumk** (Ay-doo-ap-duh-mumk) is knowledge coexistence for the benefit of all people. It rejects the idea of dominance and bias of perspectives to allow for this coexistence. It rejects the idea of tokenism and the integration of perspectives to allow for this coexistence. To practice Etuaptmumk we all have to see that our knowledge can overlap but remain distinct.  It is a philosophical concept, not a research method, that guides Indigenous and non-Indigenous people to work together and question if their respect for each other's perspectives is stronger than their reliance on their own viewpoint.
 
 ![puzzle](/assets/img/etuaptmumk_puzzle.png)
