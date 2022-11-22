@@ -2,6 +2,9 @@
 title: Research Teams
 ---
 
+1. this ordered seed list will be replaced by the toc
+{:toc}
+
 The MBI project is highly collaborative with research partners around the world. The researchers on this project are split across eight 'work packages', each with their own focus, goals and methodologies.
 
 ![Work Package Structure](assets/img/MBI_WPT_structure.png)
