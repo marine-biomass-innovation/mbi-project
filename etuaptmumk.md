@@ -1,6 +1,5 @@
 ---
 title: Etuaptmumk
-author: author3
 ---
 ![puzzle](/assets/img/etuaptmumk_puzzle.png)
 
@@ -28,4 +27,7 @@ I personally understand Etuaptmumk through three equal tenets, or pillars:
 * **Inclusion**, allowing people and their ideas and ideology to be heard and explored impartially and without bias towards their own perspective as "the right and only way" forward;
 * **Sharing**, expecting no return except the mere continuation of a relationship, which we understand as essential to a successful community and the foundation for positive and enriching relationships.  
 
-Generally, Western views seek to understand how the universe works, and then, and I say this with the utmost respect, try to find control or domain over those things that we think we understand. Indigenous views come from participation in the universes relationships and how we can understand them insofar as we can protect and preserve those relationships for future generations.  
+Generally, Western views seek to understand how the universe works, and then, and I say this with the utmost respect, try to find control or domain over those things that we think we understand. Indigenous views come from participation in the universes relationships and how we can understand them insofar as we can protect and preserve those relationships for future generations.
+
+## About
+> Ivan J. White (he/him) is an emissary for his culture, heritage, and people and is currently serving his second term as St. George’s Councilor of Qalipu First Nation. He works as the Indigenous Education Specialist for Memorial University in St. John’s.
