@@ -1,6 +1,5 @@
 ---
 title: Etuaptmumk
-image: /assets/img/etuaptmumk_puzzle.png
 author: author3
 ---
 ![puzzle](/assets/img/etuaptmumk_puzzle.png)
