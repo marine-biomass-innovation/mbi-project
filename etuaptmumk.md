@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Etuaptmumk
 image: /assets/img/etuaptmumk_puzzle.png
 tags: [etuaptmumk, blog]
