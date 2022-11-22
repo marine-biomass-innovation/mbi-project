@@ -1,10 +1,10 @@
 ---
-layout: page
 title: Etuaptmumk
 image: /assets/img/etuaptmumk_puzzle.png
-tags: [etuaptmumk, blog]
 author: author3
 ---
+![puzzle](/assets/img/etuaptmumk_puzzle.png)
+
 # What is Etuaptmumk
 
 *Please note that this is my own (Ivan J. White) interpretation of Etuaptmumk informed through personal experience, reflections, and reading/researching its application in other fields. I experience it from a very different perspective in relation to its creator for the most part. Elder Albert Marshall was able to conceptualize this concept despite the weight of surviving residential school and I cannot fathom how much patience, courage and wisdom that had to have taken.*
