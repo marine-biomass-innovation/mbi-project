@@ -2,14 +2,12 @@
 title: Etuaptmumk
 layout: page
 ---
-![puzzle](/assets/img/etuaptmumk_puzzle.png)
+# What is Etuaptmumk?
 
-# What is Etuaptmumk
-
-> *Please note that this is my own (Ivan J. White) interpretation of Etuaptmumk informed through personal experience, reflections, and reading/researching its application in other fields. I experience it from a very different perspective in relation to its creator for the most part. Elder Albert Marshall was able to conceptualize this concept despite the weight of surviving residential school and I cannot fathom how much patience, courage and wisdom that had to have taken.*
 
 **Etuaptmumk** (Ay-doo-ap-duh-mumk) is knowledge coexistence for the benefit of all people. It rejects the idea of dominance and bias of perspectives to allow for this coexistence. It rejects the idea of tokenism and the integration of perspectives to allow for this coexistence. To practice Etuaptmumk we all have to see that our knowledge can overlap but remain distinct.  It is a philosophical concept, not a research method, that guides Indigenous and non-Indigenous people to work together and question if their respect for each other's perspectives is stronger than their reliance on their own viewpoint.
 
+![puzzle](/assets/img/etuaptmumk_puzzle.png)
 > "We do not throw away or relinquish ideas or concepts if we can find good in them, we keep the good for the mutual benefit of all."
 
 Etuaptmumk is a fundamental piece of the MBI project. It provides a path to allow all MBI partners to practice and show that respect, relationship, reverence, reciprocity, ritual, repetition and responsibility can, and should, exist alongside the scientific method (hypothesis), data collection, and testing, model theory and construction. The principle brings everyone in the project to a place where they can begin to practice the seven sacred gifts of life which are love, respect, courage, honesty, wisdom, humility and truth.  (_See More on the Mi'kmaw understanding of the Seven Sacred Gifts of Life through the [Teachings of Elder Murdena Marshall w/ Graphics by Tom Johnson)](http://www.integrativescience.ca/uploads/activities/Murdena-Seven-Sacred-Gifts.pdf)_ 
@@ -31,4 +29,5 @@ I personally understand Etuaptmumk through three equal tenets, or pillars:
 Generally, Western views seek to understand how the universe works, and then, and I say this with the utmost respect, try to find control or domain over those things that we think we understand. Indigenous views come from participation in the universes relationships and how we can understand them insofar as we can protect and preserve those relationships for future generations.
 
 ## About
-> Ivan J. White (he/him) is an emissary for his culture, heritage, and people and is currently serving his second term as St. George’s Councilor of Qalipu First Nation. He works as the Indigenous Education Specialist for Memorial University in St. John’s.
+> Ivan J. White (he/him) is an emissary for his culture, heritage, and people and is currently serving his second term as St. George’s Councilor of Qalipu First Nation. He works as the Indigenous Education Specialist for Memorial University in St. John’s. 
+> > *Please note that this is my own (Ivan J. White) interpretation of Etuaptmumk informed through personal experience, reflections, and reading/researching its application in other fields. I experience it from a very different perspective in relation to its creator for the most part. Elder Albert Marshall was able to conceptualize this concept despite the weight of surviving residential school and I cannot fathom how much patience, courage and wisdom that had to have taken.*
