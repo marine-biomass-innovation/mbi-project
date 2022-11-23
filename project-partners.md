@@ -5,12 +5,12 @@ title: Project Partners
 * this ordered seed list will be replaced by the toc
 {:toc}
 
-## Mi'kmaw Project Partners
+# Mi'kmaw Project Partners
 Without the Mi'kmaw Project Partners, this
 
 
 
-### Bay St. George
+## Bay St. George
 
 Bay St. George is a unique area on the southwest corner of Newfoundland, with vibrant Mi'kmaw communities surrounding the ocean and a picturesque landscape nearly as beautiful as its people. The long rich history of Mi'kmaw use and occupancy of Newfoundland starts in Bay St. George. This portion of the island was visible, and navigable by the sea in ocean-going canoes, from Cape Breton. 
 
@@ -18,7 +18,7 @@ Bay St. George is a unique area on the southwest corner of Newfoundland, with vi
 
   
 
-#### Flat Bay Band
+### Flat Bay Band
 
 Flat Bay Band/No'kmaq Village is a non-profit village council encompassing the Mi’kmaw communities of Flat Bay East, West & St. Teresa. The Band is over 50 years old and is the oldest surviving band in the province outside of the Miawpukek First Nation, which Flat Bay helped form. Historically, Flat Bay Mi’kmaq managed their community affairs through a process whereby the most senior and knowledgeable person would take charge of dealing with the resolution process; this remains the case to this day. Flat Bay is the only community in Canada that self-governs without a government budget or municipal support such as a town council, or local service district. For the past 50 years, Flat Bay has avoided colonial-style government, where policies are developed, passed down, and imposed on the people. The unique system originates from the Mi'kmaw of Flat Bay and is carried out by the Band Council. 
 
@@ -28,7 +28,7 @@ The Flat Bay Band mission is to maintain a self-governance structure, to deliver
 
 
 
-#### Benoit First Nation 
+### Benoit First Nation 
 
 Benoit First Nation is a L’nui’suti Regional Cultural and Language Band. Benoit First Nation was established in 2005 to revive the original Port au Port Indian Band from the 1970s under a new name. The Band provides regional and local Lnu'k/Mi'kmaq programming and activities in culture, language, traditions, and more. Benoit First Nation works to strengthen their community and educate their children, exposing them to the true Mi'kmaw history of the region. The Band also works to provide Elder support and food security for vulnerable households. Although supportive of regional cooperation, involvement, interaction, communication, sharing, and partnerships, Benoit First Nation is an independent regional Lnu'k/Mi'kmaq Community.  
 
@@ -38,7 +38,7 @@ As a result of being penciled out of the 1949 Confederation with Canada along wi
 
 
 
-#### Indian Head First Nation 
+### Indian Head First Nation 
 
 Indian Head First Nation (IHFN) is a First Nation Band that includes both status and non-status Mi'kmaq who are from, or, have a familial connection to Nujio'qonik (Bay St. George), specifically the Stephenville, Stephenville Crossing, and Kippens area.  
 
@@ -48,7 +48,7 @@ The community was first known as L'ans Savage. Later it was changed to be called
 
 
 
-#### St. George’s Band 
+### St. George’s Band 
 
 The St. George’s Indian Band is a non-profit Mi’kmaq organization established in 1989 and incorporated in 2003. The Band is comprised of a Chief, Vice-Chief, secretary, treasurer, four directors, an Elder, and a youth representative who are elected in a democratic process every four years. As a First Nation’s Band Council, the St. George’s Indian Band strives to promote cultural awareness and a sense of pride in Mi’kmaq heritage. Band priorities include education, health, economic development, improved housing, cultural enhancement, tourism, and recreation.  
 
@@ -58,7 +58,7 @@ The Band currently represents approximately 1700 members inside the province of 
 
 
 
-#### Three Rivers Mi’kmaq Band 
+### Three Rivers Mi’kmaq Band 
 
 People living in the stretch of Bay St. George South from Heatherton to Highlands are represented by the Three Rivers Mi'kmaq Band Chief and Council. The Band serves the communities of Heatherton, Robinsons, Cartyville, McKay’s, Jeffrey’s, St. David’s, St. Fintan’s, Loch Leven, and Highlands. The Band’s mandate is to help lead communities toward sustainability and a brighter future.  
 
@@ -68,8 +68,77 @@ The Band strives to provide food hampers for seniors, do wellness checks, purcha
 
 
 
-### Bay of Islands
+## Bay of Islands
 
 The Bay of Islands is a mountainous region in Western Newfoundland with longstanding connection to Mi'kmaw culture. A sheltered bay with ample fishing opportunity and easy access to excellent inland hunting grounds has provided a safe haven and bounty for all those who have chosen to call the Bay of Islands home.  
 
 ![Bay of Islands](assets/img/BOI.png)
+
+
+
+### Elmastukwek First Nation (Benoit's Cove Indian Band)
+
+Benoit’s Cove Indian Band has been incorporated since 1992 and is one of the original Bands of the Federation of Newfoundland Indians (FNI). In recent years the Band has been known as Elmastukwek First Nation (Bay of Islands First Nation). Elmastukwek First Nation is located on the West Coast of Newfoundland on the southern shore of the Bay of Islands, extending from Halfway Point to Lark Harbour. The Band consists of both status and self-identifying members living inside or originally from the Band’s boundaries with a bloodline connection to the Band.  
+
+With the formation of Qalipu Mi’kmaq First Nation, the local Band became a lesser priority in the community and was inactive for more than 10 years. During this period of inactivity, there was a loss of sense of identity and recognition as a historical Indigenous community. In March 2022, a new generation of Indigenous community members took on the task of reviving the once thriving Band to bring back gatherings and educational teachings to the local communities. The current membership of Elmastukwek First Nation is over 1,200. The Band’s governing structure consists of a Chief, Vice Chief, Treasurer, Secretary, and Member at Large. The Band is committed to the restoration and preservation of their traditional ways, and to protecting Mother Earth as guided by the seven sacred teachings: Wisdom, Honesty, Respect, Bravery, Truth, Humility and Love. Consistent with the Band’s commitment to restoring and preserving its traditions and protecting mother earth, it has sought and participated in several different activities to meet these objectives.  
+
+
+
+## Great Northern Peninsula 
+
+The Great Northern Peninsula (GNP) is the largest and longest peninsula in Newfoundland, ranging from Bonne Bay to Cape Bauld, roughly 17,500 square km in size. The region has connections to many Indigenous groups, both past, and present, including Mi’kmaq, Beothuk, Inuit, Southern Inuit, and Innu. The peninsula is divided by the Long Range Mountains which run almost its entire length. On either side of the peninsula, there are many fishing ports deeply ingrained with Indigenous history. Unfortunately, many of the historic fishing communities on the GNP have been resettled over the past 100 years. There are numerous historical sites located along the coast, including UNESCO World Heritage Sites in St. Anthony and Gros Morne National Park.  
+
+![Great Northern Penisula](assets/img/NORPEN.png)
+
+
+### Mekap’sk (Northern Peninsula) Mi’kmaq Band 
+
+The Northern Peninsula (Mekap’sk) Mi’kmaq Band includes members living on the Great Northern Peninsula of Newfoundland or members having connections to the GNP. Mekap’sk is a non-profit Mi’kmaq organization that was incorporated in 2015, although the band was operational a few years before this date. The band has a Chief, a Vice-Chief, and four directors. It encompasses roughly 600 kilometers of territory which essentially includes everything north of Deer Lake; the eastern side of the Northern Peninsula, and the southern side of the Bonne Bay area. In March 2018, the Band filed a Section 35 with the provincial and federal governments. The Section 35 land claim included all of the GNP; the research for this case is still ongoing.  
+
+Band members of Mekap’sk include First Nations People, both status and non-status members of Qalipu First Nation. Many people living on the GNP became disenfranchised under the 2013 Federal Supplemental Agreement, which made rulings on the eligibility criteria to be status-holding members of Qalipu First Nation. Many Mekap’sk members are also members of the Newfoundland Indigenous Peoples Alliance. Mekap’sk members are very proud of their land and area; they strive to ensure it is valued and protected. Mekap’sk members also work to ensure that all groups or bodies that are using their area do so in the proper manner by respecting the land and waters.
+
+# Industry Project Partners
+Without the Mi'kmaw Project Partners, this
+
+## ABRI-Tech 
+
+## Carino Processing 
+
+## Clearwater Seafoods 
+
+## Kean Marine 
+
+## Newfoundland Aquaculture Industry Association (NAIA) 
+
+## Newfoundland Seaweed Company 
+
+## North Atlantic Aquaponics/Growing for Life 
+
+## Ocean Frontiers Institute 
+
+## Qalipu Development Corporation 
+
+## St. Anthony Basin Resources Incorporated (SABRI)
+
+# Academic Project Partners
+Without the Mi'kmaw Project Partners, this
+
+## Australian National University (Australia) 
+
+## Cape Breton University (Canada) 
+
+## Dalhousie University (Canada) 
+
+## Grenfell Campus (Canada) 
+
+## Memorial University of Newfoundland (Canada) 
+
+## Mount Saint Vincent University (Canada) 
+
+## RIKEN (Japan) 
+
+## University of Bari Aldo Moro (Italy) 
+
+## University of Limerick (Ireland) 
+
+## University of Waterloo (Canada) 
