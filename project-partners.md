@@ -6,7 +6,7 @@ title: Project Partners
 {:toc}
 
 # Mi'kmaw Project Partners
-Without the Mi'kmaw Project Partners, this
+Invaluable to their local communities, Mi'kmaw community partners are at the core the the MBI Project. Etuaptmumk is founded on the principal that all ways of knowing are coexistant. Following Etuaptmumk is to practice and show that respect, relationship, reverence, reciprocity, ritual, repetition and responsibility can, and should, exist alongside the scientific method (hypothesis), data collection, and testing, model theory and construction. Colloboration, inclusion and sharing with community partners ensures accountibility of the MBI project research team to practice Etuaptmumk and to good in the local communituies the project is working in.
 
 
 
@@ -100,45 +100,27 @@ Band members of Mekap’sk include First Nations People, both status and non-sta
 # Industry Project Partners
 Without the Mi'kmaw Project Partners, this
 
-## ABRI-Tech 
-
-## Carino Processing 
-
-## Clearwater Seafoods 
-
-## Kean Marine 
-
-## Newfoundland Aquaculture Industry Association (NAIA) 
-
-## Newfoundland Seaweed Company 
-
-## North Atlantic Aquaponics/Growing for Life 
-
-## Ocean Frontiers Institute 
-
-## Qalipu Development Corporation 
-
-## St. Anthony Basin Resources Incorporated (SABRI)
+- **ABRI-Tech** 
+- **Carino Processing** 
+- **Clearwater Seafoods** 
+- **Kean Marine**
+- **Newfoundland Aquaculture Industry Association** (NAIA)
+- **Newfoundland Seaweed Company**
+- **North Atlantic Aquaponics/Growing for Life**
+- **Ocean Frontiers Institute**
+- **Qalipu Development Corporation** (QDC)
+- **St. Anthony Basin Resources Incorporated** (SABRI)
 
 # Academic Project Partners
 Without the Mi'kmaw Project Partners, this
 
-## Australian National University (Australia) 
-
-## Cape Breton University (Canada) 
-
-## Dalhousie University (Canada) 
-
-## Grenfell Campus (Canada) 
-
-## Memorial University of Newfoundland (Canada) 
-
-## Mount Saint Vincent University (Canada) 
-
-## RIKEN (Japan) 
-
-## University of Bari Aldo Moro (Italy) 
-
-## University of Limerick (Ireland) 
-
-## University of Waterloo (Canada) 
+- **Australian National University** (Australia) 
+- **Cape Breton University** (Canada) 
+- **Dalhousie University** (Canada) 
+- **Grenfell Campus** (Canada) 
+- **Memorial University of Newfoundland** (Canada) 
+- **Mount Saint Vincent University** (Canada) 
+- **RIKEN** (Japan) 
+- **University of Bari Aldo Moro** (Italy) 
+- **University of Limerick** (Ireland) 
+- **University of Waterloo** (Canada) 
