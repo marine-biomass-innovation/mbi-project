@@ -2,7 +2,7 @@
 layout: post
 title: Mi'kmaw in Newfoundland
 image: /assets/img/mgosseart.jpg
-tags: [mikmaw, blog, newfoundland, history, culture, mikmaw in newfoundland, indian, aboriginal, indigenous]
+tags: [mikmaw, blog, newfoundland, history, culture, indigenous, aboriginal]
 author: author4
 ---
 > Source: Artist: Marcus Gosse, Title: "Ktaqmkuk (Newfoundland) - A Part of Mi'kma'ki (Mi'kmaq Territory)"(© 2017).
