@@ -77,31 +77,7 @@ author2:
 
   # picture:           https://placehold.it/128x128
   # twitter:           <username>
-  # github:            <username>
-  
-author7:
-  name:              Akseli Virratvuori
-  email:             <akseli@grenfell.mun.ca>
-  about:             Akseli Virratvuori (he/him) is a PHD Candidate with the Department of Folklore, Memorial University of Newfoundland. Akseli works as a Research Assistant under Work Package 7. 
-picture:             https://media-exp1.licdn.com/dms/image/D4E03AQHoj2Y-7Dok0A/profile-displayphoto-shrink_800_800/0/1645022976327?e=1674691200&v=beta&t=7qPlQKRKchB8p6K0QUgA2lkwZ6tv4Yzr5Ty97ZnPfpc 
- 
-author6:
-  name:              Zachary Robson
-  email:             <zrobson@grenfell.mun.ca>
-  about:             Zachary Robson (he/him) has an MBA with a concentration in entrepreneurship from the University of New Brunswick and a bachelor of arts from St. Thomas University. Most of Zachary’s working life has been spent in management consulting where he worked with many different private, public and not-for-profit clients on a variety of different engagements. Zachary works as the Project Manager for the Marine Biomass Innovation Project.
-  picture:           https://media-exp1.licdn.com/dms/image/C4E03AQGBDvHJRmBNBw/profile-displayphoto-shrink_400_400/0/1635354983074?e=1674691200&v=beta&t=GpEFYSe4b2UZF6tijAjIYMj41en7hlvtT3MLqjMbIh4
-  
-author5:
-  name:              Owen Bursey
-  email:             <obursey@grenfell.mun.ca>
-  about:             Owen lives in the middle of the Great Northern Peninsula in Hawkes Bay. He is a Member of the Northern Peninsula (Mekap’sk) Mi’kmaq Band and the Newfoundland Indigenous People’s Alliance. Owen tries to live an Indigenous lifestyle where enjoys many outdoor activities including hunting, fishing, and camping. A fish and wildlife technician by trade, Owen works as the Indigenous Community Liaison for the Great Northern Peninsula.
-  picture:           https://scontent.fyqm1-1.fna.fbcdn.net/v/t39.30808-6/298791248_2967238176902909_5178893574491156229_n.jpg?stp=cp6_dst-jpg&_nc_cat=106&ccb=1-7&_nc_sid=0debeb&_nc_ohc=30CW7DuIg7MAX9f6cjQ&_nc_ht=scontent.fyqm1-1.fna&oh=00_AfCkqRgosfNa7fn43VpO--fhurhBPFpz9W9bDI8FI86KiA&oe=638497F2
-  
-author4:
-  name:              Kathryn White
-  email:             <kathrynw@grenfell.mun.ca>
-  about:             Kathryn White (she/her) currently lives in Corner Brook, N.L. Her family originates from the Bay St. George area. Growing up, she spent much time listening to stories and learning things on the land from her grandfather, a drum and canoe maker from Stephenville Crossing. She strives to be a good listener and to take in teachings from all those around her. She has worked in various community engagement and outreach roles wihtin the Qalipu First Nation Mi’kmaw community. Kathryn works as the Indigenous Community Liasion (Bay of Islands) for the Marine Biomass Innovation Project. 
-  picture:           https://media-exp1.licdn.com/dms/image/D4D03AQEuiDUAOG94tA/profile-displayphoto-shrink_400_400/0/1665590369157?e=1674691200&v=beta&t=KnF7eXx0YaWmH_xSjfyV5eKmd00A9xRoEWPDWPHvLc4 Kathryn works as the Indigenous Community Liasion (Bay of Islands) for the Marine Biomass Innovation Project.
+  # github:            <username> 
   
 author3:
   name:              Ivan J. White
@@ -109,3 +85,26 @@ author3:
   about:             Ivan J. White (he/him) is an emissary for his culture, heritage, and people and is currently serving his second term as St. George’s Councilor of Qalipu First Nation. Ivan works as the Indigenous Education Specialist for Memorial University in St. John's.
   picture:           https://qalipu.ca/qalipu/wp-content/uploads/2016/01/ivan_white_3957_llpike-200x300.jpg
   
+author4:
+  name:              Kathryn White
+  email:             <kathrynw@grenfell.mun.ca>
+  about:             Kathryn White (she/her) currently lives in Corner Brook, N.L. Her family originates from the Bay St. George area. Growing up, she spent much time listening to stories and learning things on the land from her grandfather, a drum and canoe maker from Stephenville Crossing. She strives to be a good listener and to take in teachings from all those around her. She has worked in various community engagement and outreach roles wihtin the Qalipu First Nation Mi’kmaw community. Kathryn works as the Indigenous Community Liasion (Bay of Islands) for the Marine Biomass Innovation Project. 
+  picture:           https://media-exp1.licdn.com/dms/image/D4D03AQEuiDUAOG94tA/profile-displayphoto-shrink_400_400/0/1665590369157?e=1674691200&v=beta&t=KnF7eXx0YaWmH_xSjfyV5eKmd00A9xRoEWPDWPHvLc4 Kathryn works as the Indigenous Community Liasion (Bay of Islands) for the Marine Biomass Innovation Project.
+  
+author5:
+  name:              Owen Bursey
+  email:             <obursey@grenfell.mun.ca>
+  about:             Owen lives in the middle of the Great Northern Peninsula in Hawkes Bay. He is a Member of the Northern Peninsula (Mekap’sk) Mi’kmaq Band and the Newfoundland Indigenous People’s Alliance. Owen tries to live an Indigenous lifestyle where enjoys many outdoor activities including hunting, fishing, and camping. A fish and wildlife technician by trade, Owen works as the Indigenous Community Liaison for the Great Northern Peninsula.
+  picture:           https://scontent.fyqm1-1.fna.fbcdn.net/v/t39.30808-6/298791248_2967238176902909_5178893574491156229_n.jpg?stp=cp6_dst-jpg&_nc_cat=106&ccb=1-7&_nc_sid=0debeb&_nc_ohc=30CW7DuIg7MAX9f6cjQ&_nc_ht=scontent.fyqm1-1.fna&oh=00_AfCkqRgosfNa7fn43VpO--fhurhBPFpz9W9bDI8FI86KiA&oe=638497F2
+  
+author6:
+  name:              Zachary Robson
+  email:             <zrobson@grenfell.mun.ca>
+  about:             Zachary Robson (he/him) has an MBA with a concentration in entrepreneurship from the University of New Brunswick and a bachelor of arts from St. Thomas University. Most of Zachary’s working life has been spent in management consulting where he worked with many different private, public and not-for-profit clients on a variety of different engagements. Zachary works as the Project Manager for the Marine Biomass Innovation Project.
+  picture:           https://media-exp1.licdn.com/dms/image/C4E03AQGBDvHJRmBNBw/profile-displayphoto-shrink_400_400/0/1635354983074?e=1674691200&v=beta&t=GpEFYSe4b2UZF6tijAjIYMj41en7hlvtT3MLqjMbIh4
+ 
+author7:
+  name:              Akseli Virratvuori
+  email:             <akseli@grenfell.mun.ca>
+  about:             Akseli Virratvuori (he/him) is a PHD Candidate with the Department of Folklore, Memorial University of Newfoundland. Akseli works as a Research Assistant under Work Package 7. 
+  picture:             https://media-exp1.licdn.com/dms/image/D4E03AQHoj2Y-7Dok0A/profile-displayphoto-shrink_800_800/0/1645022976327?e=1674691200&v=beta&t=7qPlQKRKchB8p6K0QUgA2lkwZ6tv4Yzr5Ty97ZnPfpc
