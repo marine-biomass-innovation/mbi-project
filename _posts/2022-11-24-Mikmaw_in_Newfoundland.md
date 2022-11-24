@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mi'kmaw in Newfoundland
-image: /assets/img/gosseart.png
+image: /assets/img/mgosseart.jpg
 tags: [mikmaw, blog, newfoundland, history, culture, mikmaw in newfoundland, indian, aboriginal, indigenous]
 author: author4
 ---
