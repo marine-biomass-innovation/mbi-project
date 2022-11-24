@@ -49,7 +49,7 @@ A strong relationship of collaboration will also be required within and between 
 
 # Roles and Responsibilities
 | Role | Responsibility |
-| --- | ----------- |
+| :--- | :----------- |
 | **Nominated Principal Investigator (PI)** | The PI has primary responsibility for the overall intellectual direction of the research and is accountable, with the host institution (MUN), for overall coordination of the grant’s overall financial and administrative aspects. |
 | **Co-principal Investigator (Co-PI)**  | The Co-PI assumes project leadership when the PI is not available. Shares intellectual leadership with the PI and other team members; plays a significant role in planning and conducting the research.  |
 | **Project Management Committee (PMC)** | The PMC exists to ensure oversight, reporting, and integration, with the ultimate responsibility to ensure the success of the MBI Project. The PMC meets to establish policy, receive project status updates, ensure decisions and research activities align with the project’s scope, schedule, and budget, and monitor progress against goals to ensure accountability.  |
