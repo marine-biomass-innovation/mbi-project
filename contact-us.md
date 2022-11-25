@@ -7,7 +7,7 @@ Send us an email at [mbi@grenfell.mun.ca](mailto:mbi@grenfell.mun.ca)
 
 ### Looking for a specific project staff member?
 
-**Zachary Robson** - Project Manager | [zrobson@grenfell.mun.ca](mailto:zrobson@grenfell.mun.ca)
+**Zachary Robson** Project Manager | [zrobson@grenfell.mun.ca](mailto:zrobson@grenfell.mun.ca)
 
 **Kathryn White** - Indigenous Community Liasion (Bay of Islands) | [kathrynw@grenfell.mun.ca](mailto:kathrynw@grenfell.mun.ca) | (709) 639-6537
 
