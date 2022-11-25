@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why have the MBI Project in Newfoundland?
+title: Contextualizing MBI and the Newfoundland Fishery
 image: /assets/img/cod.jpg
 tags: [fishery, blog]
 author: author7
