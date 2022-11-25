@@ -3,7 +3,7 @@
 # Change `author1` to your shortname.
 author1:
   name:              MBI Project
-  email:             admin@mbiproject.ca
+  email:             mbi@grenfell.mun.ca
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
