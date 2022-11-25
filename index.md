@@ -12,5 +12,3 @@ selected_posts:
 
 # Newest Blog Posts
 <!--posts-->
-<!--projects-->
-<!--posts_list-->
