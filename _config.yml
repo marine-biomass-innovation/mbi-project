@@ -48,7 +48,7 @@ logo:                  /assets/img/logo.png
 author:
   # Used by `jekyll-feed`:
   name:                MBI Project
-  email:               admin@mbiproject.ca
+  email:               mbi@grenfell.mun.ca
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
