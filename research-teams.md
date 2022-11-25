@@ -10,7 +10,7 @@ The MBI project is highly collaborative with research partners around the world.
 ![Work Package Structure](assets/img/MBI_WPT_structure.png)
 
 ## Work Package Teams
-![Work Package 1 Team](assets/img/WPT1.png)
+![Work Package 1 Team](/assets/img/WPT1.png)
 
 ### WPT 1
 Assessment of the socio-economic and community development context for product innovation. The purpose of this work package is to develop an understanding of the economic and cultural histories of coastal communities, especially in relation to fish waste. The Chiefs from Mi’kmaw partner communities and the Indigenous Community Liaisons are all key members of the WP1 research team. 
