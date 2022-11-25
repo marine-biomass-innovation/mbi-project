@@ -98,7 +98,6 @@ The Northern Peninsula (Mekap’sk) Mi’kmaq Band includes members living on th
 Band members of Mekap’sk include First Nations People, both status and non-status members of Qalipu First Nation. Many people living on the GNP became disenfranchised under the 2013 Federal Supplemental Agreement, which made rulings on the eligibility criteria to be status-holding members of Qalipu First Nation. Many Mekap’sk members are also members of the Newfoundland Indigenous Peoples Alliance. Mekap’sk members are very proud of their land and area; they strive to ensure it is valued and protected. Mekap’sk members also work to ensure that all groups or bodies that are using their area do so in the proper manner by respecting the land and waters.
 
 # Industry Project Partners
-Without the Mi'kmaw Project Partners, this
 
 - **ABRI-Tech** 
 - **Carino Processing** 
@@ -112,7 +111,6 @@ Without the Mi'kmaw Project Partners, this
 - **St. Anthony Basin Resources Incorporated** (SABRI)
 
 # Academic Project Partners
-Without the Mi'kmaw Project Partners, this
 
 - **Australian National University** (Australia) 
 - **Cape Breton University** (Canada) 
