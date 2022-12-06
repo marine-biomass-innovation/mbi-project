@@ -81,11 +81,6 @@ The Great Northern Peninsula (GNP) is the largest and longest peninsula in Newfo
 ![Great Northern Penisula](assets/img/NORPEN.png)
 
 
-### Mekap’sk (Northern Peninsula) Mi’kmaq Band 
-
-The Northern Peninsula (Mekap’sk) Mi’kmaq Band includes members living on the Great Northern Peninsula of Newfoundland or members having connections to the GNP. Mekap’sk is a non-profit Mi’kmaq organization that was incorporated in 2015, although the band was operational a few years before this date. The band has a Chief, a Vice-Chief, and four directors. It encompasses roughly 600 kilometers of territory which essentially includes everything north of Deer Lake; the eastern side of the Northern Peninsula, and the southern side of the Bonne Bay area. In March 2018, the Band filed a Section 35 with the provincial and federal governments. The Section 35 land claim included all of the GNP; the research for this case is still ongoing.  
-
-Band members of Mekap’sk include First Nations People, both status and non-status members of Qalipu First Nation. Many people living on the GNP became disenfranchised under the 2013 Federal Supplemental Agreement, which made rulings on the eligibility criteria to be status-holding members of Qalipu First Nation. Many Mekap’sk members are also members of the Newfoundland Indigenous Peoples Alliance. Mekap’sk members are very proud of their land and area; they strive to ensure it is valued and protected. Mekap’sk members also work to ensure that all groups or bodies that are using their area do so in the proper manner by respecting the land and waters.
 
 # Industry Project Partners
 
