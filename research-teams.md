@@ -65,7 +65,7 @@ The goals will be to investigate the development, formulation and testing of fun
 
 **WPT4 Objectives:**
 1. Develop marine-based functional foods or nutraceuticals.
-2. Develop nano-biofertilizer using residues identified by WPT1, and secondary by-products identified in WPT2.
+2. Develop and evaluate nano-biofertilizer on high value crops under controlled environment using residues identified by WPT1, and secondary by-products identified in WPT2.
 3. Devlop recommendations for industry and community stakeholders regarding marine biomass for sustainable agriculture production for improved food security in rural, coastal and Indigenous communities.
 4. Develop fishery residues as feed ingredients for aquaculture.
 5. Develop bio-materials and biosensors from marine-based organisms such as eels.
