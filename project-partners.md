@@ -38,16 +38,6 @@ As a result of being penciled out of the 1949 Confederation with Canada along wi
 
 
 
-### Indian Head First Nation 
-
-Indian Head First Nation (IHFN) is a First Nation Band that includes both status and non-status Mi'kmaq who are from, or, have a familial connection to Nujio'qonik (Bay St. George), specifically the Stephenville, Stephenville Crossing, and Kippens area.  
-
-Indian Head has existed for hundreds of years and was mentioned in the writings of W.E. Cormack on his historic journey across Newfoundland in the early 1800s. In 1822, Cormack listed 150 Mi'kmaq living at Indian Head with the family names of Benoit, Alexander, Lucoos, Young, Marche, LeBlanc, Gallant, Gabriel and Cormier.  
-
-The community was first known as L'ans Savage. Later it was changed to be called Indian Head, and then finally, Stephenville. Mi'kmaq, Montagnais, and Beothuk all have fished, camped and lived in the area from at least the early 1500s and earlier. 
-
-
-
 ### St. George’s Band 
 
 The St. George’s Indian Band is a non-profit Mi’kmaq organization established in 1989 and incorporated in 2003. The Band is comprised of a Chief, Vice-Chief, secretary, treasurer, four directors, an Elder, and a youth representative who are elected in a democratic process every four years. As a First Nation’s Band Council, the St. George’s Indian Band strives to promote cultural awareness and a sense of pride in Mi’kmaq heritage. Band priorities include education, health, economic development, improved housing, cultural enhancement, tourism, and recreation.  
