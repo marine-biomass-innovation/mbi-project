@@ -2,7 +2,7 @@
 title: Etuaptmumk
 layout: page
 ---
-**Etuaptmumk** (Ay-doo-ap-duh-mumk) is knowledge coexistence for the benefit of all people. It rejects the idea of dominance and bias of perspectives to allow for this coexistence. It rejects the idea of tokenism and the integration of perspectives to allow for this coexistence. To practice Etuaptmumk we all have to see that our knowledge can overlap but remain distinct.  It is a philosophical concept, not a research method, that guides Indigenous and non-Indigenous people to work together and question if their respect for each other's perspectives is stronger than their reliance on their own viewpoint.
+**Etuaptmumk** (Ay-doo-ap-duh-mumk) is knowledge coexistence for the benefit of all people. It is a Mi'kmaw Guiding Principle coined and developed by Mi'kmaq Elders and knowledge keepers Albert and Mardena Marshall. It rejects the idea of dominance, tokenism, bias, and the integration of perspectives to allow for coexistence. To practice Etuaptmumk we all have to see that our knowledge systems can overlap. however, also remain distinct.  It is a philosophical concept, not a research method, that guides Indigenous and non-Indigenous people to work together and question if their respect for each other's perspectives is stronger than their reliance on their own viewpoint.
 
 ![puzzle](/assets/img/etuaptmumk_puzzle.png)
 > "We do not throw away or relinquish ideas or concepts if we can find good in them, we keep the good for the mutual benefit of all."
