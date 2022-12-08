@@ -114,7 +114,7 @@ Facilitate interconnection between other work packages, following Memorial Unive
 **WPT7 Objectives:**
 1. Design, implement and support effective and meaningful public engagement activities with particular emphasis on Indigenous community participation, while adhering to Memorial University's Public Engagement Framework.
 2. Design, implement and support knowledge exchange and mobilization activities for diverse audiences within and across project regions.
-3. Conduct and support overall project and WPT assessment, monitoring, and evaliuation acitivieis that will ensure continuous project improvement and attainment of project goals and WPT objectives.
+3. Conduct and support overall project and WPT assessment, monitoring, and evaluation activities that will ensure continuous project improvement and attainment of project goals and WPT objectives.
 
 
 
