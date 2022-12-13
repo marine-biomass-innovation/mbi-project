@@ -79,30 +79,3 @@ With the formation of Qalipu Mi’kmaq First Nation, the local Band became a les
 The Great Northern Peninsula (GNP) is the largest and longest peninsula in Newfoundland, ranging from Bonne Bay to Cape Bauld, roughly 17,500 square km in size. The region has connections to many Indigenous groups, both past, and present, including Mi’kmaq, Beothuk, Inuit, Southern Inuit, and Innu. The peninsula is divided by the Long Range Mountains which run almost its entire length. On either side of the peninsula, there are many fishing ports deeply ingrained with Indigenous history. Unfortunately, many of the historic fishing communities on the GNP have been resettled over the past 100 years. There are numerous historical sites located along the coast, including UNESCO World Heritage Sites in St. Anthony and Gros Morne National Park.  
 
 ![Great Northern Penisula](assets/img/NORPEN.png)
-
-
-
-# Industry Project Partners
-
-- **ABRI-Tech** 
-- **Carino Processing** 
-- **Clearwater Seafoods** 
-- **Kean Marine**
-- **Newfoundland Aquaculture Industry Association** (NAIA)
-- **Newfoundland Seaweed Company**
-- **North Atlantic Aquaponics/Growing for Life**
-- **Ocean Frontiers Institute**
-- **Qalipu Development Corporation** (QDC)
-- **St. Anthony Basin Resources Incorporated** (SABRI)
-
-# Academic Project Partners
-
-- **Australian National University** (Australia) 
-- **Cape Breton University** (Canada) 
-- **Dalhousie University** (Canada) 
-- **Memorial University of Newfoundland (Grenfell Campus & St. John's Campus)** (Canada) 
-- **Mount Saint Vincent University** (Canada) 
-- **RIKEN** (Japan) 
-- **University of Bari Aldo Moro** (Italy) 
-- **University of Limerick** (Ireland) 
-- **University of Waterloo** (Canada) 
