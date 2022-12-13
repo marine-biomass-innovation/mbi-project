@@ -60,12 +60,12 @@ menu:
     url:               /etuaptmumk/
   - title:             Research Teams
     url:               /research-teams/
-  - title:             Community Partners
-    url:               /community-partners/
-  - title:             Industry Partners
-    url:               /industry-partners/
-  - title:             Academic Partners
-    url:               /academic-partners/
+  - title:             Community
+    url:               /community/
+  - title:             Industry
+    url:               /industry/
+  - title:             Academia
+    url:               /academia/
   - title:             Blog
     url:               /blog/
   - title:             Contact Us
