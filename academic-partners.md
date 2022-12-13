@@ -1,3 +1,10 @@
+---
+title: Academic Partners
+---
+
+* this ordered seed list will be replaced by the toc
+{:toc}
+
 # Academic Project Partners
 
 - **Australian National University** (Australia) 
