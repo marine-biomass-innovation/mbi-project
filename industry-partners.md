@@ -1,3 +1,10 @@
+---
+title: Industry Partners
+---
+
+* this ordered seed list will be replaced by the toc
+{:toc}
+
 # Industry Project Partners
 
 - **ABRI-Tech** 
