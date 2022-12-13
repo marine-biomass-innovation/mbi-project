@@ -1,0 +1,12 @@
+# Industry Project Partners
+
+- **ABRI-Tech** 
+- **Carino Processing** 
+- **Clearwater Seafoods** 
+- **Kean Marine**
+- **Newfoundland Aquaculture Industry Association** (NAIA)
+- **Newfoundland Seaweed Company**
+- **North Atlantic Aquaponics/Growing for Life**
+- **Ocean Frontiers Institute**
+- **Qalipu Development Corporation** (QDC)
+- **St. Anthony Basin Resources Incorporated** (SABRI)
