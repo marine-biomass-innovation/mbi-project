@@ -8,9 +8,9 @@ date: 14 Dec 2022
 image: 
   path: /assets/img/projects/qwtel.jpg
   srcset: 
-    1920w: /assets/img/projects/qwtel.jpg
-    960w:  /assets/img/projects/qwtel@0,5x.jpg
-    480w:  /assets/img/projects/qwtel@0,25x.jpg
+    1920w: /assets/img/project-partners/academic.png
+    960w:  /assets/img/project-partners/academic@0,5x.png
+    480w:  /assets/img/project-partners/academic@0,25x.png
 
 sitemap: false
 ---
