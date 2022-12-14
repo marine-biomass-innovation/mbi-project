@@ -6,7 +6,7 @@ description: >
   Breakdown of Academic Partners working with the MBI Project
 date: 14 Dec 2022
 image: 
-  path: /assets/img/projects/qwtel.jpg
+  path: assets/img/project-partners/academic.png
   srcset: 
     1920w: /assets/img/project-partners/academic.png
     960w:  /assets/img/project-partners/academic@0,5x.png
