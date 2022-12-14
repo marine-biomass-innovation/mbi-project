@@ -1,8 +1,7 @@
 ---
 layout: projects
-title: Project Partners
+title: project-partners
 show_collection: projects
 description: >
   Marine Biomass Innovation Project Partners
-no_groups: true
 ---
