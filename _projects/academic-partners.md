@@ -2,7 +2,7 @@
 layout: project
 title: 'Academic Partners'
 caption: MBI Project Academic Partners
-authour: authour3
+author: author4
 description: >
   Breakdown of Academic Partners working with the MBI Project
 date: 14 Dec 2022
