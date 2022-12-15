@@ -311,6 +311,12 @@ collections:
     output:            true
 
   projects:
+    permalink:         /projects/:path/
+    output:            true
+    
+  # Our new projects collection
+  project_partners:
+    # Make sure the permalink path is different!
     permalink:         /project-partners/:path/
     output:            true
 
