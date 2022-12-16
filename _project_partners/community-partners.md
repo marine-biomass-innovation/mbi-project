@@ -24,7 +24,7 @@ Invaluable to their local communities, Mi'kmaw community partners are at the cor
 
 Bay St. George is a unique area on the southwest corner of Newfoundland, with vibrant Mi'kmaw communities surrounding the ocean and a picturesque landscape nearly as beautiful as its people. The long rich history of Mi'kmaw use and occupancy of Newfoundland starts in Bay St. George. This portion of the island was visible, and navigable by the sea in ocean-going canoes, from Cape Breton. 
 
-![Bay St. George](assets/img/BSG.png)
+![Bay St. George](/assets/img/BSG.png)
 
   
 
@@ -72,7 +72,7 @@ The Band strives to provide food hampers for seniors, do wellness checks, purcha
 
 The Bay of Islands is a mountainous region in Western Newfoundland with longstanding connection to Mi'kmaw culture. A sheltered bay with ample fishing opportunity and easy access to excellent inland hunting grounds has provided a safe haven and bounty for all those who have chosen to call the Bay of Islands home.  
 
-![Bay of Islands](assets/img/BOI.png)
+![Bay of Islands](/assets/img/BOI.png)
 
 
 
@@ -88,4 +88,4 @@ With the formation of Qalipu Mi’kmaq First Nation, the local Band became a les
 
 The Great Northern Peninsula (GNP) is the largest and longest peninsula in Newfoundland, ranging from Bonne Bay to Cape Bauld, roughly 17,500 square km in size. The region has connections to many Indigenous groups, both past, and present, including Mi’kmaq, Beothuk, Inuit, Southern Inuit, and Innu. The peninsula is divided by the Long Range Mountains which run almost its entire length. On either side of the peninsula, there are many fishing ports deeply ingrained with Indigenous history. Unfortunately, many of the historic fishing communities on the GNP have been resettled over the past 100 years. There are numerous historical sites located along the coast, including UNESCO World Heritage Sites in St. Anthony and Gros Morne National Park.  
 
-![Great Northern Penisula](assets/img/NORPEN.png)
+![Great Northern Penisula](/assets/img/NORPEN.png)
