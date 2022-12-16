@@ -19,7 +19,7 @@ sitemap: false
 # Industry Project Partners
 
 ## [ABRI-Tech](https://abritechinc.com/en/home/)
-    ABRI-Tech's mission is to make the production and use of bioenergy accessible and economically viable for any company wishing to reduce its environmental footprint. Given the potential use of wood and plant by-products from multiple industries (forestry, agriculture, recycling, etc.), ABRI-Tech’s objective is to add value and convert these bi-products into bio-oil, which can serve as an alternative to fossil fuels.
+ABRI-Tech's mission is to make the production and use of bioenergy accessible and economically viable for any company wishing to reduce its environmental footprint. Given the potential use of wood and plant by-products from multiple industries (forestry, agriculture, recycling, etc.), ABRI-Tech’s objective is to add value and convert these bi-products into bio-oil, which can serve as an alternative to fossil fuels.
 ## [Carino Processing](https://carino.ca/)
    - Carino Processing Limited is an industry partner focused on sustainable harvesting and manufacturing of seal-based products primarily for the human and animal health markets. A primary focus of Carino Processing Limited is the sustainable development of seal oil products with validated human health benefits for the commercial market.
 ## [Clearwater Seafoods](https://www.clearwater.ca/en/)
