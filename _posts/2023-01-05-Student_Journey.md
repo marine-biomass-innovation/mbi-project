@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Supporting the Journeys and Inquiries of Students
-image: /assets/img/tcashen.png
+image: /assets/img/blog/tcashen.jpg
 tags: [etuaptmumk,Netukulimk,blog]
 author: author8
 description: >
