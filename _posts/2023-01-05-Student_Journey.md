@@ -5,7 +5,7 @@ image: /assets/img/blog/tcashen.jpg
 tags: [etuaptmumk,Netukulimk,blog]
 author: author8
 description: >
-  testing the description
+  First-person reflection of working on the MBI project
 ---
 # Supporting the Journeys and Inquiries of Students
 
