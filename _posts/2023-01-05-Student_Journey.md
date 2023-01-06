@@ -9,7 +9,7 @@ description: >
 ---
 # Supporting the Journeys and Inquiries of Students
 
-> Photo Source: Cashen, T. (2022). View of a rainbow over the Bay of Islands from Meadows. [Photograph]
+> Photo Source: Cashen, T. (2022). View of a rainbow over the Bay of Islands from Meadows.
 
 My name is Tara, I am an undergraduate student at Grenfell. I started working with the Marine Biomass Innovation Project Work Package 1 in the Fall of 2022. I was drawn to this project for its embrace of Etuaptmumk (Two-Eyed Seeing), and by a curiosity about how this principle can guide a diversity of researchers in a vast region. I am also a strong believer that waste is an unused resource limited only by creativity, and as such, I was thrilled to see innovative community solutions breathing life into the project.
 
