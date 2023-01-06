@@ -20,6 +20,8 @@ Since beginning with the MBI project, I have felt supported to explore how these
 With the emergence of Western scientific transdisciplinarity as well as increased interest in Etuaptmumk, there is more invitation than ever to co-produce knowledge and solutions. Guided by Etuaptmumk and Netukulimk, a strength-based approach can enable the project to investigate the nuance of local contexts and be responsive to place. Woven throughout these collaborative processes is the invitation I answered, for students to shape and be shaped by the project. Let us continue to engage in reciprocal relationships, between students and employers, between researchers and communities, and between humans and the natural world.
 Please note that this depiction of the Mi’kmaq principles of Etuaptmumk and Netukulimk is my own interpretation. I would like to thank the generous people from whom these interpretations rose. I take full responsibility for any missteps.
 
+_____________________
+
 *Please note that this depiction of the Mi’kmaq principles Etuaptmumk and Netukulimk is my own interpretation. I would like to thank the generous people from which these interpretations rose. I take full responsibility for any missteps.*
 
 
