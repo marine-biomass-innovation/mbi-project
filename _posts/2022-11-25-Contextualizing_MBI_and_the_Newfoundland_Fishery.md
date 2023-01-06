@@ -9,7 +9,7 @@ description: >
 ---
 # Why have the MBI Project in Newfoundland?
 
-> Photo Source: Mclean, E. (2021). [Unsplash.com](https://unsplash.com/photos/yY86zQ7thjg). [Photograph]
+> Photo Source: Mclean, E. (2021). Published on [unsplash.com](https://unsplash.com/photos/yY86zQ7thjg). [Photograph]
 
 Historically, the ocean-based industry has formed the economic backbone of coastal, remote, and rural regions. This is especially true in Newfoundland and Labrador, where the fishing industry attracted local and international fishing fleets for centuries before the resulting near extinction of cod forced the Canadian government to shut down the fishing industry in 1992. Many coastal and rural communities in Newfoundland and Labrador have still not recovered economically, and the resulting outmigration and population decline makes their future uncertain.   
 
