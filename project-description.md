@@ -1,5 +1,5 @@
 ---
-title: About the Marine Biomass Innovation Project
+title: Project Description
 layout: page
 ---
 
