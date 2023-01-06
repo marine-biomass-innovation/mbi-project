@@ -1,6 +1,6 @@
 ---
 layout: plain
-sitemap: true
+sitemap: false
 ---
 
 # CHANGELOG
