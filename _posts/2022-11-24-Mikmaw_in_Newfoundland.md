@@ -7,8 +7,8 @@ author: author4
 description: >
   A brief recount of Mi'kmaq History
 ---
-> Source: Artist: Marcus Gosse, Title: "Ktaqmkuk (Newfoundland) - A Part of Mi'kma'ki (Mi'kmaq Territory)"(© 2017).
-Description: Several communities and areas of Newfoundland were translated to Mi'kmaq using old maps, resources, and people
+> Source: Artist: Marcus Gosse, Title: "Ktaqmkuk (Newfoundland) - A Part of Mi'kma'ki (Mi'kmaq Territory)"(© [2017](https://www.facebook.com/decolonialatlas/photos/a-new-mikmaq-map-of-newfoundlandartist-marcus-gossetitle-ktaqmkuk-newfoundland-a/813700798796993/)).
+
 
 Grandmother to Grandchild, father to son, cousin to cousin; storytelling and oral tradition have been the way that Mi’kmaw history has been passed down from generation to generation. Oral histories reccount that Mi’kmaq people have been in Newfoundland since time immortal. Today’s society values the written word over oral recounts. The earliest journals and logs of European Explorers document the presence of Mi’kmaq on the shores of Newfoundland. While these logs can state the existence of a “savage” onshore, they certainly do not document or record the intricacies of Mi’kmaw history, culture, and presence on the Island of Newfoundland. 
 
