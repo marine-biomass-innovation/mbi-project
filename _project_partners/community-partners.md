@@ -17,7 +17,7 @@ sitemap: false
 # Indigenous Community Partners
 Invaluable to their local communities, Mi'kmaw community partners are at the core the the MBI Project. Etuaptmumk is founded on the principal that all ways of knowing are coexistant. Following Etuaptmumk is to practice and show that respect, relationship, reverence, reciprocity, ritual, repetition and responsibility can, and should, exist alongside the scientific method (hypothesis), data collection, and testing, model theory and construction. Colloboration, inclusion and sharing with community partners ensures accountibility of the MBI project research team to practice Etuaptmumk and to good in the local communituies the project is working in.
 
-
+____________
 
 ## Bay St. George
 
@@ -37,7 +37,7 @@ Duly elected by the democratic process in June 1971, and incorporated in 1974, F
 
 The Flat Bay Band mission is to maintain a self-governance structure, to deliver social development, environmental heritage, wellness, and community economic initiatives, and to preserve Mi’kmaw culture by restoring identity, encouraging pride, and unity, and supporting spiritual and artistic expression. 
 
-
+_____________
 
 ### [Benoit First Nation](http://www.benoitfirstnation.ca/) 
 
@@ -49,7 +49,7 @@ Since time immemorial, Lnu'k/Mi'kmaq have had a prominent presence in St. George
 
 As a result of being penciled out of the 1949 Confederation with Canada along with all other Indigenous Groups in Newfoundland and Labrador, the Lnu'k/Mi'kmaq were not registered and without official rights. Since then, the Indigenous Peoples of Newfoundland and Labrador have come together to protect their rights and heritage. 
 
-
+________________
 
 ### St. George’s Band
 
@@ -61,7 +61,7 @@ The community of St. George’s is an area rich in Mi’kmaw history. The earlie
 
 The Band currently represents approximately 1700 members inside the province of Newfoundland and Labrador, with another 500 outside of the province. St. George's Band's spiritual grounds are located in different areas throughout Bay St. George including Steel Mountain, Mendueuge (Devil’s Place), Calvary Hill, Hell’s Gulch, Hungry Grove, Seal Rocks, Molly Ann’s Cove, and the Mouth of Barachois.  
 
-
+_______________
 
 ### Three Rivers Mi’kmaq Band 
 
@@ -73,7 +73,7 @@ The Three Rivers Mi’kmaq Band was incorporated as a non-profit organization an
 
 The Band strives to provide food hampers for seniors, do wellness checks, purchase computers for kids, help people navigate paperwork they may need to complete, and participate in drives to provide food for members at no cost. The Band has opened a trading post, which includes a convenience store, a gas station, and a used clothing store. Those enterprises have employed people and provided them with reasons to stay in the area. 
 
-
+___________
 
 ## Bay of Islands
 
@@ -81,7 +81,7 @@ The Bay of Islands is a mountainous region in Western Newfoundland with longstan
 
 ![Bay of Islands](/assets/img/BOI.png)
 
-
+___________
 
 ### Elmastukwek First Nation (Benoit's Cove Indian Band)
 
@@ -91,12 +91,15 @@ Benoit’s Cove Indian Band has been incorporated since 1992 and is one of the o
 
 With the formation of Qalipu Mi’kmaq First Nation, the local Band became a lesser priority in the community and was inactive for more than 10 years. During this period of inactivity, there was a loss of sense of identity and recognition as a historical Indigenous community. In March 2022, a new generation of Indigenous community members took on the task of reviving the once thriving Band to bring back gatherings and educational teachings to the local communities. The current membership of Elmastukwek First Nation is over 1,200. The Band’s governing structure consists of a Chief, Vice Chief, Treasurer, Secretary, and Member at Large. The Band is committed to the restoration and preservation of their traditional ways, and to protecting Mother Earth as guided by the seven sacred teachings: Wisdom, Honesty, Respect, Bravery, Truth, Humility and Love. Consistent with the Band’s commitment to restoring and preserving its traditions and protecting mother earth, it has sought and participated in several different activities to meet these objectives.  
 
+______________
 
 ### Corner Brook Ward [(Qalipu First Nation)](https://qalipu.ca/)
 
-- **Ward Councillor:** Sherry Dean
+> **Ward Councillor:** Sherry Dean
 
 The Corner Brook Ward.....
+
+___________________
 
 ## Great Northern Peninsula
 
@@ -108,7 +111,7 @@ The Great Northern Peninsula (GNP) is the largest and longest peninsula in Newfo
 
 ### Mekap’sk (Northern Peninsula) Mi’kmaq Band 
 
-- **Mekap’sk (Northern Peninsula) Mi’kmaq Band Chief:** Chief Mildred Lavers
+> **Mekap’sk (Northern Peninsula) Mi’kmaq Band Chief:** Chief Mildred Lavers
 
 The Northern Peninsula (Mekap’sk) Mi’kmaq Band includes members living on the Great Northern Peninsula of Newfoundland or members having connections to the GNP. Mekap’sk is a non-profit Mi’kmaq organization that was incorporated in 2015, although the band was operational a few years before this date. The band has a Chief, a Vice-Chief, and four directors. It encompasses roughly 600 kilometers of territory which essentially includes everything north of Deer Lake; the eastern side of the Northern Peninsula, and the southern side of the Bonne Bay area. In March 2018, the Band filed a Section 35 with the provincial and federal governments. The Section 35 land claim included all of the GNP; the research for this case is still ongoing.  
 
