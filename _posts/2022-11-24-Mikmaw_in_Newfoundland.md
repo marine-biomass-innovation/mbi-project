@@ -4,8 +4,8 @@ title: Mi'kmaw in Newfoundland
 image: /assets/img/mgosseart.jpg
 tags: [mikmaw, blog, newfoundland, history, culture, indigenous, aboriginal]
 author: author4
-description:
-  > A brief recount of Mi'kmaq History
+description: >
+  A brief recount of Mi'kmaq History
 ---
 > Source: Artist: Marcus Gosse, Title: "Ktaqmkuk (Newfoundland) - A Part of Mi'kma'ki (Mi'kmaq Territory)"(© 2017).
 Description: Several communities and areas of Newfoundland were translated to Mi'kmaq using old maps, resources, and people
