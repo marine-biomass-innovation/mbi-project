@@ -91,11 +91,11 @@ The purpose and goals of work package 5 are to assess the health benefits of raw
 ![Work Package 6 Team](/assets/img/WPT6.png)
 
 **WPT6 Purpose:**
+Work Package 6 aims to support industry partners and communities by exploring the commercial applications for marine biomass. Specifically, this works package works with industry partners through initial-stage market research to help determine the market potential for products they are interested in commercialising. The aim of this process is eliminate some of the uncertainty around initial stages of the search process in new product development. 
 
-Advancement of opportunities through:
-1) governance structure and ongoing engagement processes to facilitate co-construction of knowledge; 
-2) integrate findings to assess their socio-economic potential and community interest/acceptance for foundation of pilot commercialization; 
-3) evaluate the process/incorporate capacity building.
+Work Package 6 also aims to support communities in creating their own entrepreneurial opportunities through enterprises stemming from the use of marine biomass. Communities are unique groups of people, with their own cultures and histories. Therefore, they have unique sets of skills, knowledge, people, and resources at their disposal; meaning some opportunities that work for one community would not work another community. In conjunction with work package 1, this work package will also explore communities’ views on entrepreneurship and help create more entrepreneurs through workshops and community events. 
+
+Finally, this work package will also explore how other regions in the North Atlantic periphery have come to develop strong cultures and clusters of entrepreneurs developing sustainable businesses around marine biomass, that also preserve traditional knowledge and culture. The aim of this exercise will be to suggest how this can be applied to the communities in this project to help foster sustainable economic development  in similar ways
 
 **WPT6 Objectives:**
 1. Determine the potential value of the proposed products in WPT2-5, and the customer segments to whom this value would apply.
