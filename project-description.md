@@ -30,7 +30,7 @@ The MBI Project is guided by Etuaptmumk (Two-Eyed Seeing). Etuaptmumk We should 
 
 The total budget for the project is $15,891,023 over six years. The MBI project draws upon research supported by the Government of Canada’s New Frontiers in Research Fund (NFRF) and contributions from collaborators.
 
-
+____________________________
 
 # Governance Structure
 
