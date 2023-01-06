@@ -38,7 +38,7 @@ The Flat Bay Band mission is to maintain a self-governance structure, to deliver
 
 
 
-### Benoit First Nation 
+### [Benoit First Nation](http://www.benoitfirstnation.ca/) 
 
 Benoit First Nation is a L’nui’suti Regional Cultural and Language Band. Benoit First Nation was established in 2005 to revive the original Port au Port Indian Band from the 1970s under a new name. The Band provides regional and local Lnu'k/Mi'kmaq programming and activities in culture, language, traditions, and more. Benoit First Nation works to strengthen their community and educate their children, exposing them to the true Mi'kmaw history of the region. The Band also works to provide Elder support and food security for vulnerable households. Although supportive of regional cooperation, involvement, interaction, communication, sharing, and partnerships, Benoit First Nation is an independent regional Lnu'k/Mi'kmaq Community.  
 
@@ -83,6 +83,9 @@ Benoit’s Cove Indian Band has been incorporated since 1992 and is one of the o
 With the formation of Qalipu Mi’kmaq First Nation, the local Band became a lesser priority in the community and was inactive for more than 10 years. During this period of inactivity, there was a loss of sense of identity and recognition as a historical Indigenous community. In March 2022, a new generation of Indigenous community members took on the task of reviving the once thriving Band to bring back gatherings and educational teachings to the local communities. The current membership of Elmastukwek First Nation is over 1,200. The Band’s governing structure consists of a Chief, Vice Chief, Treasurer, Secretary, and Member at Large. The Band is committed to the restoration and preservation of their traditional ways, and to protecting Mother Earth as guided by the seven sacred teachings: Wisdom, Honesty, Respect, Bravery, Truth, Humility and Love. Consistent with the Band’s commitment to restoring and preserving its traditions and protecting mother earth, it has sought and participated in several different activities to meet these objectives.  
 
 
+### Corner Brook Ward [(Qalipu First Nation)](https://qalipu.ca/)
+
+The Corner Brook Ward.....
 
 ## Great Northern Peninsula 
 
