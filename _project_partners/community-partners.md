@@ -28,7 +28,7 @@ Bay St. George is a unique area on the southwest corner of Newfoundland, with vi
 
   
 
-### Flat Bay Band
+### [Flat Bay Band](http://flatbayband.ca/)
 
 Flat Bay Band/No'kmaq Village is a non-profit village council encompassing the Mi’kmaw communities of Flat Bay East, West & St. Teresa. The Band is over 50 years old and is the oldest surviving band in the province outside of the Miawpukek First Nation, which Flat Bay helped form. Historically, Flat Bay Mi’kmaq managed their community affairs through a process whereby the most senior and knowledgeable person would take charge of dealing with the resolution process; this remains the case to this day. Flat Bay is the only community in Canada that self-governs without a government budget or municipal support such as a town council, or local service district. For the past 50 years, Flat Bay has avoided colonial-style government, where policies are developed, passed down, and imposed on the people. The unique system originates from the Mi'kmaw of Flat Bay and is carried out by the Band Council. 
 
