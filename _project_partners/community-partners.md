@@ -97,7 +97,7 @@ ______________
 
 > **Ward Councillor:** Sherry Dean
 
-The Corner Brook Ward.....
+The Corner Brook Ward is an electoral area of Qalipu Mi'kmaq First Nation. The Corner Brook Ward encompasses all areas of the Bay of Islands except for Halfway Point to Lark Harbour (this area is part of Elmastukwek First Nation as well as the Qalipu First Nation Benoit's Cove Ward). From Mount Moriah to Cox's Cove, there is currently no Local/Community Band. Previous to the disbanding of the FNI (Federation of Newfoundland Indians) There was a Corner Brook Indian Band Council. Because there is no Local/Community Band for this area of the Bay of Islands, Qalipu First Nation Corner Brook Ward Councellior, Sherry Dean has been elected to represent the needs and desires of the Mi'kmaw people wihtin this area on behalf of the MBI Project. 
 
 ___________________
 
