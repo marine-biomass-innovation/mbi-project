@@ -6,6 +6,8 @@ layout: page
 * this ordered seed list will be replaced by the toc
 {:toc}
 
+![MBI Logo](assets/img/projectdescription.png)
+
 The Marine Biomass Innovation (MBI) project is a multi-year transdisciplinary research project working to develop sustainable marine based entrepreneurship for local industries and community-based organizations through repurposing of marine biomass in Newfoundland, Canada.
 
 ## What is Biomass? 
