@@ -10,6 +10,9 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 3.8"
 
+# adding jeckyll-seo-tag
+gem 'jekyll-seo-tag'
+
 # Fixes `jekyll serve` in ruby 3
 gem "webrick"
 
