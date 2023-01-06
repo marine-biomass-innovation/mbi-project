@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Contextualizing MBI and the Newfoundland Fishery
-image: /assets/img/cod.jpg
+image: /assets/img/blog/emclean2021.jpg
 tags: [fishery, blog]
 author: author7
 ---
