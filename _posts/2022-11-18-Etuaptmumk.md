@@ -4,6 +4,8 @@ title: Etuaptmumk
 image: /assets/img/etuaptmumk_puzzle.png
 tags: [etuaptmumk, blog]
 author: author3
+description: >
+  A first-person informative reflection on Etuaptmumk
 ---
 # What is Etuaptmumk
 
