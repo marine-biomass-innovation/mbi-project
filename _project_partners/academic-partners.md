@@ -17,12 +17,12 @@ sitemap: false
 
 # Academic Project Partners
 
-- **Australian National University** (Australia) 
-- **Cape Breton University** (Canada) 
-- **Dalhousie University** (Canada) 
-- **Memorial University of Newfoundland (Grenfell Campus & St. John's Campus)** (Canada) 
-- **Mount Saint Vincent University** (Canada) 
-- **RIKEN** (Japan) 
-- **University of Bari Aldo Moro** (Italy) 
-- **University of Limerick** (Ireland) 
-- **University of Waterloo** (Canada) 
+- **[Australian National University](https://www.anu.edu.au/)** (Australia) 
+- **[Cape Breton University](https://www.cbu.ca/)** (Canada) 
+- **[Dalhousie University](https://www.dal.ca/)** (Canada) 
+- **[Memorial University of Newfoundland (Grenfell Campus & St. John's Campus)](https://www.mun.ca/)** (Canada) 
+- **[Mount Saint Vincent University](https://www.msvu.ca/)** (Canada) 
+- **[RIKEN](https://www.riken.jp/en/)** (Japan) 
+- **[University of Bari Aldo Moro](https://www.uniba.it/en)** (Italy) 
+- **[University of Limerick](https://www.ul.ie/)** (Ireland) 
+- **[University of Waterloo](https://uwaterloo.ca/)** (Canada) 
