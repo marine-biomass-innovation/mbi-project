@@ -14,7 +14,7 @@ sitemap: false
 * this ordered seed list will be replaced by the toc
 {:toc}
 
-# Mi'kmaw Community Project Partners
+# Indigenous Community Partners
 Invaluable to their local communities, Mi'kmaw community partners are at the core the the MBI Project. Etuaptmumk is founded on the principal that all ways of knowing are coexistant. Following Etuaptmumk is to practice and show that respect, relationship, reverence, reciprocity, ritual, repetition and responsibility can, and should, exist alongside the scientific method (hypothesis), data collection, and testing, model theory and construction. Colloboration, inclusion and sharing with community partners ensures accountibility of the MBI project research team to practice Etuaptmumk and to good in the local communituies the project is working in.
 
 
@@ -29,7 +29,7 @@ Bay St. George is a unique area on the southwest corner of Newfoundland, with vi
 
 ### [Flat Bay Band](http://flatbayband.ca/)
 
-- **Chief:** Joanne Miles
+> **Flat Bay Band Chief:** Chief Joanne Miles
 
 Flat Bay Band/No'kmaq Village is a non-profit village council encompassing the Mi’kmaw communities of Flat Bay East, West & St. Teresa. The Band is over 50 years old and is the oldest surviving band in the province outside of the Miawpukek First Nation, which Flat Bay helped form. Historically, Flat Bay Mi’kmaq managed their community affairs through a process whereby the most senior and knowledgeable person would take charge of dealing with the resolution process; this remains the case to this day. Flat Bay is the only community in Canada that self-governs without a government budget or municipal support such as a town council, or local service district. For the past 50 years, Flat Bay has avoided colonial-style government, where policies are developed, passed down, and imposed on the people. The unique system originates from the Mi'kmaw of Flat Bay and is carried out by the Band Council. 
 
@@ -41,7 +41,7 @@ The Flat Bay Band mission is to maintain a self-governance structure, to deliver
 
 ### [Benoit First Nation](http://www.benoitfirstnation.ca/) 
 
-- **Chief:** Jasen Benwah
+> **Benoit First Nation Chief:** Chief Jasen Benwah
 
 Benoit First Nation is a L’nui’suti Regional Cultural and Language Band. Benoit First Nation was established in 2005 to revive the original Port au Port Indian Band from the 1970s under a new name. The Band provides regional and local Lnu'k/Mi'kmaq programming and activities in culture, language, traditions, and more. Benoit First Nation works to strengthen their community and educate their children, exposing them to the true Mi'kmaw history of the region. The Band also works to provide Elder support and food security for vulnerable households. Although supportive of regional cooperation, involvement, interaction, communication, sharing, and partnerships, Benoit First Nation is an independent regional Lnu'k/Mi'kmaq Community.  
 
@@ -53,7 +53,7 @@ As a result of being penciled out of the 1949 Confederation with Canada along wi
 
 ### St. George’s Band
 
-- **Chief:** Rhonda Sheppard 
+> **St. George's Band Chief:** Chief Rhonda Sheppard 
 
 The St. George’s Indian Band is a non-profit Mi’kmaq organization established in 1989 and incorporated in 2003. The Band is comprised of a Chief, Vice-Chief, secretary, treasurer, four directors, an Elder, and a youth representative who are elected in a democratic process every four years. As a First Nation’s Band Council, the St. George’s Indian Band strives to promote cultural awareness and a sense of pride in Mi’kmaq heritage. Band priorities include education, health, economic development, improved housing, cultural enhancement, tourism, and recreation.  
 
@@ -65,7 +65,7 @@ The Band currently represents approximately 1700 members inside the province of 
 
 ### Three Rivers Mi’kmaq Band 
 
-- **Chief:** Peggy White
+> **Three Rivers Mi'kmaq Chief:** Chief Peggy White
 
 People living in the stretch of Bay St. George South from Heatherton to Highlands are represented by the Three Rivers Mi'kmaq Band Chief and Council. The Band serves the communities of Heatherton, Robinsons, Cartyville, McKay’s, Jeffrey’s, St. David’s, St. Fintan’s, Loch Leven, and Highlands. The Band’s mandate is to help lead communities toward sustainability and a brighter future.  
 
@@ -85,7 +85,7 @@ The Bay of Islands is a mountainous region in Western Newfoundland with longstan
 
 ### Elmastukwek First Nation (Benoit's Cove Indian Band)
 
-- **Chief:** Terri Greene
+> **Elmastukwek First Nation Chief:** Chief Terri Greene
 
 Benoit’s Cove Indian Band has been incorporated since 1992 and is one of the original Bands of the Federation of Newfoundland Indians (FNI). In recent years the Band has been known as Elmastukwek First Nation (Bay of Islands First Nation). Elmastukwek First Nation is located on the West Coast of Newfoundland on the southern shore of the Bay of Islands, extending from Halfway Point to Lark Harbour. The Band consists of both status and self-identifying members living inside or originally from the Band’s boundaries with a bloodline connection to the Band.  
 
@@ -108,7 +108,7 @@ The Great Northern Peninsula (GNP) is the largest and longest peninsula in Newfo
 
 ### Mekap’sk (Northern Peninsula) Mi’kmaq Band 
 
-- **Chief:** Mildred Lavers
+- **Mekap’sk (Northern Peninsula) Mi’kmaq Band Chief:** Chief Mildred Lavers
 
 The Northern Peninsula (Mekap’sk) Mi’kmaq Band includes members living on the Great Northern Peninsula of Newfoundland or members having connections to the GNP. Mekap’sk is a non-profit Mi’kmaq organization that was incorporated in 2015, although the band was operational a few years before this date. The band has a Chief, a Vice-Chief, and four directors. It encompasses roughly 600 kilometers of territory which essentially includes everything north of Deer Lake; the eastern side of the Northern Peninsula, and the southern side of the Bonne Bay area. In March 2018, the Band filed a Section 35 with the provincial and federal governments. The Section 35 land claim included all of the GNP; the research for this case is still ongoing.  
 
