@@ -4,13 +4,11 @@ title: Contact Us
 
 ### Questions regarding the MBI Project? 
 
-__________________
-
 Send us an email at [mbi@grenfell.mun.ca](mailto:mbi@grenfell.mun.ca)
 
-### Looking for a specific project staff member?
+_____________________
 
-_________________________
+### Looking for a specific project staff member?
 
 **Zachary Robson** - Project Manager - [zrobson@grenfell.mun.ca](mailto:zrobson@grenfell.mun.ca)
 
