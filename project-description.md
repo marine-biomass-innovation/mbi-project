@@ -38,6 +38,8 @@ The MBI Project is guided by a governance plan. The governance plan describes th
 
 To ensure both effective communication across the team, and that the project remains focused on its goals and guiding frameworks, the project has a well-established management structure consisting of a Project Management Committee (PMC), Administration Leadership Team (ALT), Monitoring and Evaluation Advisory Committee (MEAC), three Regional Community Advisory Committees (RCAC), and eight Work Package Teams (WPTs).
 
+***
+
 ![Governance Structure](/assets/img/govt.png)
 > Governance Structure Diagram detailing the Project Management Committee (PMC), Administration Leadership Team (ALT), Monitoring and Evaluation Advisory Committee (MEAC), three Regional Community Advisory Committees (RCAC), and eight Work Package Teams (WPTs).
 
