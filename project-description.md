@@ -24,7 +24,7 @@ In partnership with coastal, rural and Mi’kmaw communities across three region
 
 ## Innovation 
 
-The MBI Project is guided by Etuaptmumk (Two-Eyed Seeing). Etuaptmumk We should link to Ivan's copy about this here is a Mi’kmaw framework for research conceptualized by Elder Albert Marshall. Etuaptmumk refers to learning to see from one eye with the strengths of Indigenous knowledge and ways of knowing, and from the other eye with the strengths of Western knowledge and ways of knowing and learning to use both eyes for the benefit of all. The MBI Project brings together coastal, rural, and Mi’kmaw communities, academic researchers, and industry partners to employ a collaborative research approach.   
+The MBI Project is guided by [Etuaptmumk](https://mbiproject.ca/etuaptmumk/) (Two-Eyed Seeing). Etuaptmumk refers to learning to see from one eye with the strengths of Indigenous knowledge and ways of knowing, and from the other eye with the strengths of Western knowledge and ways of knowing and learning to use both eyes for the benefit of all. The MBI Project brings together coastal, rural, and Mi’kmaw communities, academic researchers, and industry partners to employ a collaborative research approach.   
 
 ## Budget 
 
