@@ -17,7 +17,7 @@ _____________________
 **Owen Bursey** - Indigenous Community Liasion (Great Northen Peninsula) - [obursey@grenfell.mun.ca](mailto:obursey@grenfell.mun.ca)
 _____________________________
 
-### Does something on our website need updating? 
+### Suggestion or edit for this website? 
 
 Send us an email at [mbi@grenfell.mun.ca](mailto:mbi@grenfell.mun.ca)
 
