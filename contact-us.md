@@ -4,6 +4,8 @@ title: Contact Us
 
 ### Questions regarding the MBI Project? 
 
+**Suggestion or edit for this website?** 
+
 Send us an email at [mbi@grenfell.mun.ca](mailto:mbi@grenfell.mun.ca)
 
 _____________________
@@ -18,5 +20,4 @@ _____________________
 
 _____________________________
 
-**Suggestion or edit for this website?** Send us an email at [mbi@grenfell.mun.ca](mailto:mbi@grenfell.mun.ca)
 
