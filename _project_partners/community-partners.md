@@ -87,7 +87,9 @@ ___________
 
 > **Elmastukwek First Nation Chief:** Chief Terri Greene
 
-Benoit’s Cove 
+Benoit’s Cove Indian Band has been incorporated since 1992 and is one of the original Bands of the Federation of Newfoundland Indians (FNI). In recent years the Band has been known as Elmastukwek First Nation (Bay of Islands First Nation). Elmastukwek First Nation is located on the West Coast of Newfoundland on the southern shore of the Bay of Islands, extending from Halfway Point to Lark Harbour. The Band consists of both status and self-identifying members living inside or originally from the Band’s boundaries with a bloodline connection to the Band.  
+
+With the formation of Qalipu Mi’kmaq First Nation, the local Band became a lesser priority in the community and was inactive for over ten years. During this period of inactivity, there was a loss of sense of identity and recognition as a historical Indigenous community. In March 2022, a new generation of Indigenous community members took on the task of reviving the once thriving Band to bring back gatherings and educational teachings to the local communities. The current membership of Elmastukwek First Nation is over 1,200. The Band’s governing structure consists of a Chief, Vice Chief, Treasurer, Secretary, and Member at Large. The Band is committed to the restoration and preservation of their traditional ways, and to protecting Mother Earth as guided by the 7 sacred teachings: Wisdom, Honesty, Respect, Bravery, Truth, Humility, and Love. Consistent with the Band’s commitment to restoring and preserving its traditions and protecting mother earth, it has sought and participated in several different activities to meet these objectives.
 
 ______________
 
