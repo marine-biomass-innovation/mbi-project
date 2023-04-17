@@ -14,7 +14,7 @@ _____________________
 
 **Kathryn White** - Indigenous Community Liasion (Bay of Islands) - [kathrynw@grenfell.mun.ca](mailto:kathrynw@grenfell.mun.ca) - (709) 639-6537
 
-**Owen Bursey** - Indigenous Community Liasion (Great Northen Peninsula) - [obursey@grenfell.mun.ca](mailto:obursey@grenfell.mun.ca)
+**Nina Tourett-Retieffe** - Indigenous Community Liasion (Bay St. George) - [nTourettRetieffe@grenfell.mun.ca](mailto:ntourettretieffe@grenfell.mun.ca)
 
 _____________________________
 
