@@ -103,20 +103,3 @@ ______________
 
 The Corner Brook Ward is an electoral area of Qalipu Mi'kmaq First Nation. The Corner Brook Ward encompasses all areas of the Bay of Islands except for Halfway Point to Lark Harbour (this area is part of Elmastukwek First Nation as well as the Qalipu First Nation Benoit's Cove Ward). From Mount Moriah to Cox's Cove, there is currently no Local/Community Band. Previous to the disbanding of the FNI (Federation of Newfoundland Indians) There was a Corner Brook Indian Band Council. Because there is no Local/Community Band for this area of the Bay of Islands, Qalipu First Nation Corner Brook Ward Councellior, Sherry Dean has been elected to represent the needs and desires of the Mi'kmaw people wihtin this area on behalf of the MBI Project. 
 
-___________________
-
-## Great Northern Peninsula
-
-The Great Northern Peninsula (GNP) is the largest and longest peninsula in Newfoundland, ranging from Bonne Bay to Cape Bauld, roughly 17,500 square km in size. The region has connections to many Indigenous groups, both past, and present, including Mi’kmaq, Beothuk, Inuit, Southern Inuit, and Innu. The peninsula is divided by the Long Range Mountains which run almost its entire length. On either side of the peninsula, there are many fishing ports deeply ingrained with Indigenous history. Unfortunately, many of the historic fishing communities on the GNP have been resettled over the past 100 years. There are numerous historical sites located along the coast, including UNESCO World Heritage Sites in St. Anthony and Gros Morne National Park.  
-
-![Great Northern Penisula](/assets/img/NORPEN.png)
-
-
-
-### Mekap’sk (Northern Peninsula) Mi’kmaq Band 
-
-> **Mekap’sk (Northern Peninsula) Mi’kmaq Band Chief:** Chief Mildred Lavers
-
-The Northern Peninsula (Mekap’sk) Mi’kmaq Band includes members living on the Great Northern Peninsula of Newfoundland or members having connections to the GNP. Mekap’sk is a non-profit Mi’kmaq organization that was incorporated in 2015, although the band was operational a few years before this date. The band has a Chief, a Vice-Chief, and four directors. It encompasses roughly 600 kilometers of territory which essentially includes everything north of Deer Lake; the eastern side of the Northern Peninsula, and the southern side of the Bonne Bay area. In March 2018, the Band filed a Section 35 with the provincial and federal governments. The Section 35 land claim included all of the GNP; the research for this case is still ongoing.  
-
-Band members of Mekap’sk include First Nations People, both status and non-status members of Qalipu First Nation. Many people living on the GNP became disenfranchised under the 2013 Federal Supplemental Agreement, which made rulings on the eligibility criteria to be status-holding members of Qalipu First Nation. Many Mekap’sk members are also members of the Newfoundland Indigenous Peoples Alliance. Mekap’sk members are very proud of their land and area; they strive to ensure it is valued and protected. Mekap’sk members also work to ensure that all groups or bodies that are using their area do so in the proper manner by respecting the land and waters.  
