@@ -16,13 +16,15 @@ sitemap: false
 {:toc}
 
 # Indigenous Community Partners
-Invaluable to their local communities, Mi'kmaw community partners are at the core the the MBI Project. Etuaptmumk is founded on the principal that all ways of knowing are coexistant. Following Etuaptmumk is to practice and show that respect, relationship, reverence, reciprocity, ritual, repetition and responsibility can, and should, exist alongside the scientific method (hypothesis), data collection, and testing, model theory and construction. Colloboration, inclusion and sharing with community partners ensures accountibility of the MBI project research team to practice Etuaptmumk and to good in the local communituies the project is working in.
+Invaluable to their local communities, Mi'kmaw community partners are at the core the the MBI Project. Etuaptmumk is founded on the principal that all ways of knowing are coexistant. Following Etuaptmumk is to practice and show that respect, relationship, reverence, reciprocity, ritual, repetition and responsibility can, and should, exist alongside the scientific method (hypothesis), data collection, and testing, model theory and construction. Colloboration, inclusion and sharing with community partners ensures accountibility of the MBI project research team to practice Etuaptmumk and to good in the local communities the project is working in.
 
 ____________
 
 ## Bay St. George
 
-Bay St. George is a unique area on the southwest corner of Newfoundland, with vibrant Mi'kmaw communities surrounding the ocean and a picturesque landscape nearly as beautiful as its people. The long rich history of Mi'kmaw use and occupancy of Newfoundland starts in Bay St. George. This portion of the island was visible, and navigable by the sea in ocean-going canoes, from Cape Breton. 
+> **Indigenous Community Liaison:** Nina Tourett-Retieffe
+
+Bay St. George is a unique area on the southwest corner of Newfoundland, with vibrant Mi'kmaw communities surrounding the ocean and a picturesque landscape nearly as beautiful as its people. The long rich history of Mi'kmaw use and occupancy of Newfoundland starts in Bay St. George. This portion of the island was visible, and navigable by the sea in ocean-going canoes, from Cape Breton.
 
 ![Bay St. George](/assets/img/BSG.png)
 
@@ -78,7 +80,8 @@ ___________
 
 ## Bay of Islands
 
-The Bay of Islands is a mountainous region in Western Newfoundland with longstanding connection to Mi'kmaw culture. A sheltered bay with ample fishing opportunity and easy access to excellent inland hunting grounds has provided a safe haven and bounty for all those who have chosen to call the Bay of Islands home.  
+> **Indigenous Community Liaison:** Matthew Perrier
+The Bay of Islands is a mountainous region in Western Newfoundland with longstanding connection to Mi'kmaw culture. A sheltered bay with ample fishing opportunity and easy access to excellent inland hunting grounds has provided a safe haven and bounty for all those who have chosen to call the Bay of Islands home. 
 
 ![Bay of Islands](/assets/img/BOI.png)
 
