@@ -10,11 +10,11 @@ _____________________
 
 ### Looking for a specific project staff member?
 
-**Zachary Robson** - Project Manager - [zrobson@grenfell.mun.ca](mailto:zrobson@grenfell.mun.ca)
+**Jonathan Luedee** - Project Manager - [jonathan.luedee@gmail.com](mailto:jonathan.luedee@gmail.com)
 
-**Kathryn White** - Indigenous Community Liasion (Bay of Islands) - [kathrynw@grenfell.mun.ca](mailto:kathrynw@grenfell.mun.ca) - (709) 639-6537
+**Matthew Perrier** - Indigenous Community Liasion (Bay of Islands) - [mperrier@mun.ca](mailto:mperrier@mun.ca) 
 
-**Nina Tourett-Retieffe** - Indigenous Community Liasion (Bay St. George) - [nTourettRetieffe@grenfell.mun.ca](mailto:ntourettretieffe@grenfell.mun.ca)
+**Nina Tourett-Retieffe** - Indigenous Community Liasion (Bay St. George) - [ntourett@mun.ca](mailto:ntourett@mun.ca)
 
 _____________________________
 
