@@ -81,6 +81,7 @@ ___________
 ## Bay of Islands
 
 > **Indigenous Community Liaison:** Matthew Perrier
+
 The Bay of Islands is a mountainous region in Western Newfoundland with longstanding connection to Mi'kmaw culture. A sheltered bay with ample fishing opportunity and easy access to excellent inland hunting grounds has provided a safe haven and bounty for all those who have chosen to call the Bay of Islands home. 
 
 ![Bay of Islands](/assets/img/BOI.png)
