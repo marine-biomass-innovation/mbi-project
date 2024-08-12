@@ -54,15 +54,15 @@ As a result of being penciled out of the 1949 Confederation with Canada along wi
 
 ________________
 
-### St. George’s Band
+### St. George’s Indian Band
 
-> **St. George's Band Chief:** Chief Rhonda Sheppard 
+> **St. George's Indian Band Chief:** Chief Rhonda Sheppard 
 
 The St. George’s Indian Band is a non-profit Mi’kmaq organization established in 1989 and incorporated in 2003. The Band is comprised of a Chief, Vice-Chief, secretary, treasurer, four directors, an Elder, and a youth representative who are elected in a democratic process every four years. As a First Nation’s Band Council, the St. George’s Indian Band strives to promote cultural awareness and a sense of pride in Mi’kmaq heritage. Band priorities include education, health, economic development, improved housing, cultural enhancement, tourism, and recreation.  
 
 The community of St. George’s is an area rich in Mi’kmaw history. The earliest occupation of the area is uncertain, however, the area known as Seal Rocks which is now a part of the community of St. George’s is well documented as being the largest and principal Mi’kmaq settlement in the 17th, 18th, and 19th centuries. St. George's was established in 1804 as the first permanent settlement of Mi’kmaq People in Newfoundland for the resettlement of the Mi’kmaq of Nova Scotia. Mi’kmaq oral tradition maintains that the Mi’kmaq occupation of the area is ancient.  
 
-The Band currently represents approximately 1700 members inside the province of Newfoundland and Labrador, with another 500 outside of the province. St. George's Band's spiritual grounds are located in different areas throughout Bay St. George including Steel Mountain, Mendueuge (Devil’s Place), Calvary Hill, Hell’s Gulch, Hungry Grove, Seal Rocks, Molly Ann’s Cove, and the Mouth of Barachois.  
+The Band currently represents approximately 1700 members inside the province of Newfoundland and Labrador, with another 500 outside of the province. St. George's Indian Band's spiritual grounds are located in different areas throughout Bay St. George including Steel Mountain, Mendueuge (Devil’s Place), Calvary Hill, Hell’s Gulch, Hungry Grove, Seal Rocks, Molly Ann’s Cove, and the Mouth of Barachois.  
 
 _______________
 
