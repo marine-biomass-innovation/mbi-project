@@ -80,7 +80,7 @@ legal:
  #   url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2023. All rights reserved.
+copyright:             © 2024. All rights reserved.
 
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/
@@ -273,7 +273,7 @@ hydejack:
   # Buyers of the PRO version can opt to hide all dates from the theme.
   # Frequent consumers of online content will know that nothing devalues a post like
   # seeing an old date. 
-  hide_dates:          true
+  hide_dates:          false
 
   # TODO
   hide_last_modified:  false
