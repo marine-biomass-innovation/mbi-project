@@ -1,7 +1,7 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
-author1:
+MBIproject:
   name:              MBI Project
   email:             mbi@grenfell.mun.ca
   # Used at the bottom of each page and at the top of the `about` layout
@@ -79,9 +79,9 @@ author2:
   # twitter:           <username>
   # github:            <username> 
   
-author3:
+IvanWhite:
   name:              Ivan J. White
-  email:             <ijwhite@mun.ca>
+  email:             ijwhite@mun.ca
   about:             Ivan J. White (he/him) is an emissary for his culture, heritage, and people. Ivan works as the Indigenous Education Specialist for Memorial University in St. John's.
   picture:           https://qalipu.ca/qalipu/wp-content/uploads/2016/01/ivan_white_3957_llpike-200x300.jpg
   
