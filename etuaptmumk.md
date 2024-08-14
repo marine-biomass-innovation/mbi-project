@@ -1,7 +1,7 @@
 ---
 title: Etuaptmumk
 author: IvanWhite
-layout: page
+layout: about
 ---
 **Etuaptmumk** (Ay-doo-ap-duh-mumk) is knowledge coexistence for the benefit of all people. It is a Mi'kmaw Guiding Principle coined and developed by Mi'kmaq Elders and knowledge keepers Albert and Murdena Marshall. It rejects the idea of dominance, tokenism, bias, and the integration of perspectives to allow for coexistence. To practice Etuaptmumk we all have to see that our knowledge systems can overlap. however, also remain distinct.  It is a philosophical concept, not a research method, that guides Indigenous and non-Indigenous people to work together and question if their respect for each other's perspectives is stronger than their reliance on their own viewpoint.
 
@@ -31,7 +31,7 @@ Generally, Western views seek to understand how the universe works, and then, an
 > > *Please note that this is my own (Ivan J. White) interpretation of Etuaptmumk informed through personal experience, reflections, and reading/researching its application in other fields. I experience it from a very different perspective in relation to its creator for the most part. Elder Albert Marshall was able to conceptualize this concept despite the weight of surviving residential school and I cannot fathom how much patience, courage and wisdom that had to have taken.*
 
 
----
+
 
 
 <!--author-->
