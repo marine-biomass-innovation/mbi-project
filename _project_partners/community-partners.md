@@ -16,7 +16,7 @@ sitemap: false
 {:toc}
 
 # Indigenous Community Partners
-Invaluable to their local communities, Mi'kmaw community partners are at the core the the MBI Project. Etuaptmumk is founded on the principal that all ways of knowing are coexistant. Following Etuaptmumk is to practice and show that respect, relationship, reverence, reciprocity, ritual, repetition and responsibility can, and should, exist alongside the scientific method (hypothesis), data collection, and testing, model theory and construction. Colloboration, inclusion and sharing with community partners ensures accountibility of the MBI project research team to practice Etuaptmumk and to good in the local communities the project is working in.
+Invaluable to their local communities, Mi'kmaw community partners are at the core the the MBI Project. [Etuaptmumk](https://mbiproject.ca/etuaptmumk/), a Mi'kmaw Guiding Principle coined and developed by Mi'kmaq Elders and knowledge keepers Albert and Murdena Marshall, is founded on the principal that all ways of knowing are coexistant. Following Etuaptmumk is to practice and show that respect, relationship, reverence, reciprocity, ritual, repetition and responsibility can, and should, exist alongside the scientific method (hypothesis), data collection, and testing, model theory and construction. Colloboration, inclusion and sharing with community partners ensures accountibility of the MBI project research team to practice Etuaptmumk and to good in the local communities the project is working in.
 
 ____________
 
@@ -68,7 +68,7 @@ _______________
 
 ### Three Rivers Mi’kmaq Band 
 
-> **Three Rivers Mi'kmaq Chief:** Chief Peggy White
+> **Three Rivers Mi'kmaq Band Chief:** Chief Peggy White
 
 People living in the stretch of Bay St. George South from Heatherton to Highlands are represented by the Three Rivers Mi'kmaq Band Chief and Council. The Band serves the communities of Heatherton, Robinsons, Cartyville, McKay’s, Jeffrey’s, St. David’s, St. Fintan’s, Loch Leven, and Highlands. The Band’s mandate is to help lead communities toward sustainability and a brighter future.  
 
@@ -92,9 +92,9 @@ ___________
 
 > **Elmastukwek First Nation Chief:** Chief Terri Greene
 
-The Benoit’s Cove Indian Band is one of the original Bands under the Federation of Indians (FNI). In recent years the Band has been known as Elmastukwek(Bay of Islands) First Nation. The Band is located on the West Coast of Newfoundland on the southern shore of the Bay of Islands, extending from Halfway Point to Lark Harbour. The Band consists of both status and self-identifying members living inside or originally from the Band’s boundaries with a bloodline connection to the Band.
+The Benoit’s Cove Indian Band is one of the original Bands under the Federation of Indians (FNI). In recent years the Band has been known as Elmastukwek (Bay of Islands) First Nation. The Band is located on the West Coast of Newfoundland on the southern shore of the Bay of Islands, extending from Halfway Point to Lark Harbour. The Band consists of both status and self-identifying members living inside or originally from the Band’s boundaries with a bloodline connection to the Band.
 
-Over the last 10 years the local band wasn’t active causing a loss of sense of identity and recognition as a historical Indigenous community. A new generation of Indigenous community members took on the task of reviving the once thriving Band to bring back gatherings and teachings to the local communities to restore our ways of life.
+Over the last 10 years the local Band wasn’t active causing a loss of sense of identity and recognition as a historical Indigenous community. A new generation of Indigenous community members took on the task of reviving the once thriving Band to bring back gatherings and teachings to the local communities to restore our ways of life.
 
 The mandate of the Band is to promote social, cultural, and economic development of the membership. The Band is committed to the restoration and preservation of their traditional ways, and to protecting Mother Earth as guided by the seven sacred teachings: Wisdom, Honesty, Respect, Bravery, Truth, Humility and Love. Consistent with the commitment to restoring and preserving its traditions and protecting Mother Earth, it has sought and participated in several different activities to meet these objectives.
 
@@ -105,5 +105,5 @@ ______________
 
 > **Ward Councillor:** Sherry Dean
 
-The Corner Brook Ward is an electoral area of Qalipu Mi'kmaq First Nation. The Corner Brook Ward encompasses all areas of the Bay of Islands except for Halfway Point to Lark Harbour (this area is part of Elmastukwek First Nation as well as the Qalipu First Nation Benoit's Cove Ward). From Mount Moriah to Cox's Cove, there is currently no Local/Community Band. Previous to the disbanding of the FNI (Federation of Newfoundland Indians) There was a Corner Brook Indian Band Council. Because there is no Local/Community Band for this area of the Bay of Islands, Qalipu First Nation Corner Brook Ward Councellior, Sherry Dean has been elected to represent the needs and desires of the Mi'kmaw people wihtin this area on behalf of the MBI Project. 
+The Corner Brook Ward is an electoral area of Qalipu Mi'kmaq First Nation. The Corner Brook Ward encompasses all areas of the Bay of Islands except for Halfway Point to Lark Harbour (this area is part of Elmastukwek First Nation as well as the Qalipu First Nation Benoit's Cove Ward). From Mount Moriah to Cox's Cove, there is currently no Local/Community Band. Previous to the disbanding of the FNI (Federation of Newfoundland Indians) There was a Corner Brook Indian Band Council. Because there is no Local/Community Band for this area of the Bay of Islands, Qalipu First Nation Corner Brook Ward Councellior, Sherry Dean has been elected to represent the needs and desires of the Mi'kmaw people within this area on behalf of the MBI Project. 
 
