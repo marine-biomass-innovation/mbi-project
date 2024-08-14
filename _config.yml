@@ -192,7 +192,7 @@ kramdown:
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
-tinyletter:            <MBIProject>
+# tinyletter:            <MBIProject>
 
 
 # Hydejack Settings
