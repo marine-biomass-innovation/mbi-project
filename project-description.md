@@ -24,7 +24,7 @@ In partnership with coastal, rural and Mi’kmaw communities across two regions 
 
 ## Innovation 
 
-The MBI Project is guided by [Etuaptmumk](https://mbiproject.ca/etuaptmumk/) (Two-Eyed Seeing), a Mi’kmaw Guiding Principle coined and developed by Mi’kmaq Elders and knowledge keepers Albert and Mardena Marshall. Etuaptmumk refers to learning to see from one eye with the strengths of Indigenous knowledge and ways of knowing, and from the other eye with the strengths of Western knowledge and ways of knowing and learning to use both eyes for the benefit of all. The MBI Project brings together coastal, rural, and Mi’kmaw communities, academic researchers, and industry partners to employ a collaborative research approach.
+The MBI Project is guided by [Etuaptmumk](https://mbiproject.ca/etuaptmumk/) (Two-Eyed Seeing), a Mi’kmaw Guiding Principle coined and developed by Mi’kmaq Elders and knowledge keepers Albert and Murdena Marshall. Etuaptmumk refers to learning to see from one eye with the strengths of Indigenous knowledge and ways of knowing, and from the other eye with the strengths of Western knowledge and ways of knowing and learning to use both eyes for the benefit of all. The MBI Project brings together coastal, rural, and Mi’kmaw communities, academic researchers, and industry partners to employ a collaborative research approach.
 
 ## Budget 
 
