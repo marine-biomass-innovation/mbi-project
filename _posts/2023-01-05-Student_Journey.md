@@ -3,7 +3,7 @@ layout: post
 title: Supporting the Journeys and Inquiries of Students
 image: /assets/img/blog/tcashen.jpg
 tags: [etuaptmumk,Netukulimk,blog]
-author: author8
+author: TaraCashen
 description: >
   A first-person reflection of working on the MBI project
 ---
