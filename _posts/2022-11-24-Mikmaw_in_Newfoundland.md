@@ -3,7 +3,7 @@ layout: post
 title: Mi'kmaw in Newfoundland
 image: /assets/img/mgosseart.jpg
 tags: [mikmaw, blog, newfoundland, history, culture, indigenous, aboriginal]
-author: author4
+author: KathrynWhite
 description: >
   A brief recount of Mi'kmaq History
 ---
