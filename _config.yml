@@ -25,8 +25,8 @@ title:                 MARINE BIOMASS INNOVATION PROJECT
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-    In partnership with coastal rural and Mi’kmaq Communities across three regions on the 
-    Western portion of the Island of Newfoundland (Bay St. George, Bay of Islands, and Northern Peninsula), 
+    In partnership with coastal rural and Mi’kmaq Communities across two regions on the 
+    Western portion of the Island of Newfoundland (Bay St. George and Bay of Islands), 
     we seek to collaborate and co-develop sustainable, innovative, marine based entrepreneurship opportunities 
     and technologies for local industries and community-based organizations. 
     We will work in partnership with community partners and enterprises to develop products that are sustainable, 
@@ -287,7 +287,7 @@ hydejack:
     dynamic:           false
 
     # Set to `true` to allow visitors to switch between light and dark mode.
-    icon:              false
+    icon:              true
 
   # ⚡️ DANGER ZONE ⚡️
   # ----------------
