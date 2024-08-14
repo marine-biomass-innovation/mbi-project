@@ -26,12 +26,9 @@ I personally understand Etuaptmumk through three equal tenets, or pillars:
 
 Generally, Western views seek to understand how the universe works, and then, and I say this with the utmost respect, try to find control or domain over those things that we think we understand. Indigenous views come from participation in the universes relationships and how we can understand them insofar as we can protect and preserve those relationships for future generations.
 
+> > *Author's note that this is my own (Ivan J. White) interpretation of Etuaptmumk informed through personal experience, reflections, and reading/researching its application in other fields. I experience it from a very different perspective in relation to its creator for the most part. Elder Albert Marshall was able to conceptualize this concept despite the weight of surviving residential school and I cannot fathom how much patience, courage and wisdom that had to have taken.*
+
+
 ## About the Author
-> Ivan J. White (he/him) is an emissary for his culture, heritage, and people. He works as the Indigenous Education Specialist for Memorial University in St. John’s. 
-> > *Please note that this is my own (Ivan J. White) interpretation of Etuaptmumk informed through personal experience, reflections, and reading/researching its application in other fields. I experience it from a very different perspective in relation to its creator for the most part. Elder Albert Marshall was able to conceptualize this concept despite the weight of surviving residential school and I cannot fathom how much patience, courage and wisdom that had to have taken.*
-
-
-
-
 
 <!--author-->
