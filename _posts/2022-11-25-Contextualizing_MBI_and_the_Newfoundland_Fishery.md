@@ -3,7 +3,7 @@ layout: post
 title: Contextualizing MBI and the Newfoundland Fishery
 image: /assets/img/blog/emclean2021.jpg
 tags: [fishery, blog]
-author: author7
+author: AkseliVirratvuori
 description: >
   Explaining why the MBI Project is based in Newfoundland
 ---
