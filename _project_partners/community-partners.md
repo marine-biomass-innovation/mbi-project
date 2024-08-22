@@ -2,13 +2,13 @@
 layout: project
 title: 'Community Partners'
 caption: MBI Project Community Partners
-author: author4
+author: KathrynWhite
 description: >
   Breakdown of Mi'kmaw Community Partners working with the MBI Project
 date: 14 Dec 2022
 image: 
   path: /assets/img/project-partners/community.png
-
+no_groups: true
 sitemap: false
 ---
 
