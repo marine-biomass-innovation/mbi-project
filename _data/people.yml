@@ -1,9 +1,40 @@
 # based on https://github.com/reconhub/reconhub.github.io
-general:
+projectmanagement:
 - name: Holly Massacci
   desc: | 
     WPT8
     PhD Student
   email: holly.massacci@thekids.org.au
-wpt1:
-- name: testwp1
+liaisons:
+- name: Nina Tourette-Reiteiffe
+  desc: |
+    Indigenous Community Liaison
+    Bay St George
+wpt1_leads:
+- name: Heather Hall
+  desc: |
+    Co-lead
+- name: Kelly Vodden
+  desc: |
+    Co-lead
+- name: Erica Samms Hurley
+  desc: |
+    Co-lead
+wpt1_CI:
+- name: Billy Newell
+  desc: |
+  Business
+wpt1_researchers:
+- name: Brennan Lowery
+  desc: |
+  Postdoctoral Researcher
+- name: Brady Reid
+  desc: |
+  PhD Student
+wpt2_leads:
+- name: Kelly Hawboldt
+  desc: |
+  Co-lead
+- name: Stephanie MacQuarrie
+  desc: |
+  Co-lead
