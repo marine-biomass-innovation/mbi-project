@@ -4,10 +4,10 @@ layout: base
 
 {% include header.html type="page" %}
 
-<div class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}" role="main" align="center">
-  <div class="row" align="center" text-align="center">
+<div class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}" role="main" align="left">
+  <div class="row" align="left" text-align="left">
       {% if page.before-content %}
-        <div class="before-content" align="center">
+        <div class="before-content" align="left">
           {% for file in page.before-content %}
             {% include {{ file }} %}
           {% endfor %}
@@ -17,7 +17,7 @@ layout: base
       {{ content }}
 
       {% if page.after-content %}
-        <div class="after-content" align="center">
+        <div class="after-content" align="left">
           {% for file in page.after-content %}
             {% include {{ file }} %}
           {% endfor %}
