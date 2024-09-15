@@ -29,26 +29,18 @@ layout: team
 
 <html>
   <body>
-<h1>Project Management</h1><br>
-{% include list-circles.html items=site.data.people.projectmanagement %}
-  </body>
-</html>
-
-
-<html>
-  <body>
 <h1>Work Package 1</h1>
     <h2>Team Leads</h2>
     <br>
-{% include list-circles.html items=site.data.people.wpt1_leads %}
+{% include list-circles.html items=site.data.people.wpt1leads %}
     <br>
     <h2>Collaborators and Co-Investigators</h2>
     <br>
-{% include list-circles.html items=site.data.people.wpt1_CI %}
+{% include list-circles.html items=site.data.people.wpt1CI %}
     <br>
     <h2>Researchers</h2>
     <br>
-{% include list-circles.html items=site.data.people.wpt1_researchers %}
+{% include list-circles.html items=site.data.people.wpt1researchers %}
     <br>
   </body>
 </html>
