@@ -1,6 +1,5 @@
 ---
 title: Team
-layout: team
 ---
 
 
