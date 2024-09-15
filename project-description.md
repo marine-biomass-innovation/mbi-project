@@ -8,7 +8,7 @@ layout: page
 
 ![MBI Logo](assets/img/projectdescription.png)
 
-The Marine Biomass Innovation (MBI) project is a multi-year transdisciplinary research project working to develop sustainable marine based entrepreneurship for local industries and community-based organizations through repurposing of marine biomass in Newfoundland, Canada.
+The Marine Biomass Innovation (MBI) Project is working to develop sustainable marine-based entrepreneurship with rural and coastal Mi’kmaw communities and local industries through repurposing of marine biomass in western Newfoundland.”
 
 ## What is Biomass? 
 
@@ -16,19 +16,19 @@ For MBI, biomass refers to material that comes from the natural world or from a 
 
 ## Problem 
 
-Historically, marine industries have been key economic drivers in coastal, remote, and rural regions. However, communities in such regions are often left ill-equipped to achieve the full benefit of ocean-based economic opportunities emerging from innovative technology because of capacity issues, lack of capital to invest, outmigration of youth or skilled workers, among other factors. The lack of full and efficient utilization of marine biomass is unsustainable. We recognize that cultural sustainability and healthy populations are integral to resilient rural regions and that eco-innovation is key to the economic resilience of these communities.    
+Historically, marine industries have been key economic drivers in rural, coastal and Indigenous communities. However, communities in such regions are often left ill-equipped to achieve the full benefit of ocean-based economic opportunities emerging from innovative technology because of capacity issues, lack of capital to invest, outmigration of youth or skilled workers, among other factors. The lack of full and efficient utilization of marine biomass is unsustainable. We recognize that cultural sustainability and healthy populations are integral to resilient rural regions and that eco-innovation is key to the economic resilience of these communities.    
 
 ## Solution 
 
-In partnership with coastal, rural and Mi’kmaw communities across two regions on the western portion of the island of Newfoundland (Bay St. George and Bay of Islands), we seek to collaborate and co-develop sustainable, innovative, marine-based entrepreneurship opportunities and technologies for local industries and community-based organizations. We will work in partnership with community partners and industry partners to develop innovative products that are sustainable, globally competitive, and economically and technically feasible.  
+In partnership with Mi’kmaw communities across two regions on the western portion of the island of Newfoundland (Bay St. George and Bay of Islands), we seek to collaborate and co-develop sustainable, innovative, marine-based entrepreneurship opportunities and technologies for local industries and community-based organizations. We will work in partnership with community partners and industry partners to develop innovative products that are sustainable, globally competitive, and economically and technically feasible.  
 
 ## Innovation 
 
-The MBI Project is guided by [Etuaptmumk](https://mbiproject.ca/etuaptmumk/) (Two-Eyed Seeing), a Mi’kmaw Guiding Principle coined and developed by Mi’kmaq Elders and knowledge keepers Albert and Murdena Marshall. Etuaptmumk refers to learning to see from one eye with the strengths of Indigenous knowledge and ways of knowing, and from the other eye with the strengths of Western knowledge and ways of knowing and learning to use both eyes for the benefit of all. The MBI Project brings together coastal, rural, and Mi’kmaw communities, academic researchers, and industry partners to employ a collaborative research approach.
+The MBI Project is guided by [Etuaptmumk](https://mbiproject.ca/etuaptmumk/) (Two-Eyed Seeing), a Mi’kmaw Guiding Principle developed by Mi’kmaq Elders and knowledge keepers Albert and Murdena Marshall. Etuaptmumk refers to learning to see from one eye with the strengths of Indigenous knowledge and ways of knowing, and from the other eye with the strengths of Western knowledge and ways of knowing and learning to use both eyes for the benefit of all. The MBI Project brings together coastal, rural, and Mi’kmaw communities, academic researchers, and industry partners to employ a collaborative research approach.
 
-## Budget 
+## Funding
 
-The total budget for the project is $15,891,023 over six years. The MBI project draws upon research supported by the Government of Canada’s New Frontiers in Research Fund (NFRF) and contributions from collaborators.
+The MBI Project is supported by the Government of Canada’s New Frontiers in Research Fund (NFRF) and contributions from collaborators. It has received almost $16M in funding over six years
 
 ____________________________
 
@@ -42,10 +42,7 @@ To ensure both effective communication across the team, and that the project rem
 
 ![Governance Structure](/assets/img/govt.png)
 > Governance Structure Diagram detailing the Project Management Committee (PMC), Administration Leadership Team (ALT), Monitoring and Evaluation Advisory Committee (MEAC), two Regional Community Advisory Committees (RCAC), and eight Work Package Teams (WPTs).
-
-The project partners are at the core of the project’s management structure. This includes representatives from industry, Mi’kmaq, and other community partners and stakeholders. Additional individuals and entities who may not be officially linked to the project, such as government representatives, entrepreneurs, and others, will be invited to join the MEAC and RCACs. This will add to the project’s capacity, as well as the impact of its outcomes among an extensive network of regional stakeholders.  
-
-A strong relationship of collaboration will also be required within and between the different WPTs since data and materials will inform subsequent WPT research in reciprocal ways. An online yearly meeting (or in-person when possible) of all committees and teams will be held to facilitate integration and monitor progress. Additional full team meetings, including partners, will be held as needed.  
+  
 
 
 | **ROLE**                                           | **RESPONSIBILITY**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
