@@ -1,0 +1,79 @@
+<!--taken from https://github.com/reconhub/reconhub.github.io-->
+<div class="flexbox">
+  {% for item in include.items %}
+    <div class="flexbox-item">
+      {% if item.img %}
+        {% if item.url %}
+          <a href="{{ item.url }}"><img src="{{ item.img }}" class="item-img" /></a>
+        {% else %}
+          <img src="{{ item.img }}" class="item-img" />
+        {% endif %}
+      {% else %}
+          <img src="{{ page.default_profile_img }}" class="item-img" />
+      {% endif %}
+      {% if item.name %}
+        <h4 class="item-name">{{ item.name }}</h4>
+      {% endif %}
+      {% if item.desc %}
+        <div class="item-desc">{{ item.desc }}</div>
+      {% endif %}
+      <div class="item-links">
+      {% if item.email %}
+          <a class="list-inline-item">
+    <a href="mailto:{{ item.email }}" title="Email">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Email</span>
+   </a>
+        </a>
+      {% endif %}
+      {% if item.website %}
+          <a class="list-inline-item">
+        <a href="{{ item.website }}" title="Website">
+          <span class="fa-stack fa-lg" aria-hidden="true">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fas fa-globe fa-stack-1x fa-inverse"></i>
+          </span>
+          <span class="sr-only">Website</span>
+      </a>
+        </a>
+      {% endif %}
+        {% if item.github %}
+          <a class="list-inline-item">
+    <a href="https://github.com/{{ item.github }}" title="GitHub">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">GitHub</span>
+   </a>
+        </a>
+        {% endif %}
+        {% if item.twitter %}
+          <a class="list-inline-item">
+    <a href="https://twitter.com/{{ item.twitter }}" title="Twitter">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">Twitter</span>
+   </a>
+        </a>
+        {% endif %}
+        {% if item.linkedin %}
+          <a class="list-inline-item">
+    <a href="{{ item.linkedin }}" title="LinkedIn">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
+      </span>
+      <span class="sr-only">LinkedIn</span>
+   </a>
+        </a>
+        {% endif %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
