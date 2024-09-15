@@ -6,29 +6,17 @@ layout: team
 
 <html>
   <body>
-<h2 class="center">Project Management</h2>
-    <br>
+<h2>Project Management</h2>
 {% include list-circles.html items=site.data.people.projectmanagement %}
-    <br>
-
-<h2 class="center">Indigenous Community Liaisons</h2>
-    <br>
+<h2>Indigenous Community Liaisons</h2>
 {% include list-circles.html items=site.data.people.liaisons %}
-    <br>
-
-<h2 class="center">Work Package 1</h2>
+<h2>Work Package 1</h2>
     <h3 class="center">Team Leads</h3>
-    <br>
 {% include list-circles.html items=site.data.people.wpt1leads %}
-    <br>
-    <h3 class="center">Collaborators and Co-Investigators</h3>
-    <br>
+    <h3>Collaborators and Co-Investigators</h3>
 {% include list-circles.html items=site.data.people.wpt1CI %}
-    <br>
-    <h3 class="center">Researchers</h3>
-    <br>
+    <h3>Researchers</h3>
 {% include list-circles.html items=site.data.people.wpt1researchers %}
-    <br>
   </body>
 </html>
 
