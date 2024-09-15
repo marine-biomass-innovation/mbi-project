@@ -27,18 +27,18 @@ wpt1leads:
 wpt1CI:
 - name: Billy Newell
   desc: |
-  Business
+    Business
 wpt1researchers:
 - name: Brennan Lowery
   desc: |
-  Postdoctoral Researcher
+    Postdoctoral Researcher
 - name: Brady Reid
   desc: |
-  PhD Student
+    PhD Student
 wpt2leads:
 - name: Kelly Hawboldt
   desc: |
-  Co-lead
+    Co-lead
 - name: Stephanie MacQuarrie
   desc: |
-  Co-lead
+    Co-lead
