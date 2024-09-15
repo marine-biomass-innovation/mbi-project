@@ -8,15 +8,11 @@ layout: team
   <header>
 <h2>Project Management</h2>
   </header>
-  <section>
     {% include list-circles.html items=site.data.people.projectmanagement %}
-  </section>
   <header>
     <h2>Indigenous Community Liaisons</h2>
   </header>
-  <section>
     {% include list-circles.html items=site.data.people.liaisons %}
-  </section>
     <h2>Work Package 1</h2>
     <h3 class="center">Team Leads</h3>
     {% include list-circles.html items=site.data.people.wpt1leads %}
