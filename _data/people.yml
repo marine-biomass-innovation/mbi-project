@@ -10,7 +10,7 @@ liaisons:
   desc: |
     Indigenous Community Liaison
     Bay St George
-wpt1_leads:
+wpt1leads:
 - name: Heather Hall
   desc: |
     Co-lead
@@ -20,18 +20,18 @@ wpt1_leads:
 - name: Erica Samms Hurley
   desc: |
     Co-lead
-wpt1_CI:
+wpt1CI:
 - name: Billy Newell
   desc: |
   Business
-wpt1_researchers:
+wpt1researchers:
 - name: Brennan Lowery
   desc: |
   Postdoctoral Researcher
 - name: Brady Reid
   desc: |
   PhD Student
-wpt2_leads:
+wpt2leads:
 - name: Kelly Hawboldt
   desc: |
   Co-lead
