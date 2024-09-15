@@ -4,6 +4,7 @@ title: Team
 
 
 <html>
+  <body>
   <header>
 <h2>Project Management</h2>
   </header>
@@ -13,7 +14,7 @@ title: Team
   </header>
     {% include list-circles.html items=site.data.people.liaisons %}
     <h2>Work Package 1</h2>
-    <h3 class="center">Team Leads</h3>
+    <h3>Team Leads</h3>
     {% include list-circles.html items=site.data.people.wpt1leads %}
     <h3>Collaborators and Co-Investigators</h3>
     {% include list-circles.html items=site.data.people.wpt1CI %}
