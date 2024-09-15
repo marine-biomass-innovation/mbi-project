@@ -2,14 +2,18 @@
 projectmanagement:
 - name: Holly Massacci
   desc: | 
-    WPT8
+    WPT8 <br>
     PhD Student
   email: holly.massacci@thekids.org.au
 liaisons:
-- name: Nina Tourette-Reiteiffe
+- name: Nina Tourett-Retieffe
   desc: |
-    Indigenous Community Liaison
-    Bay St George
+    Indigenous Community Liaison <br>
+    Bay St. George
+- name: Matthew Perrier
+  desc: |
+    Indigenous Community Liaison <br>
+    Bay of Islands
 wpt1leads:
 - name: Heather Hall
   desc: |
