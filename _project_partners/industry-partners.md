@@ -2,7 +2,6 @@
 layout: project
 title: 'Industry Partners'
 caption: MBI Project Industry Partners
-author: KathrynWhite
 description: >
   Breakdown of Industry Partners working with the MBI Project
 date: 13 Dec 2022
