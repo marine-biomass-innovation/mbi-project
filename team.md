@@ -2,6 +2,8 @@
 title: Team
 ---
 
+1. this ordered seed list will be replaced by the toc
+{:toc}
 
 <html>
   <body>
