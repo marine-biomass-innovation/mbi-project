@@ -1,19 +1,20 @@
 # based on https://github.com/reconhub/reconhub.github.io
 projectmanagement:
-- name: Holly Massacci
+- name: Jonathan Luedee
   desc: | 
-    WPT8 <br>
-    PhD Student
-  email: holly.massacci@thekids.org.au
+    Project Manager
+  email: jluedee@mun.ca
 liaisons:
 - name: Nina Tourett-Retieffe
   desc: |
     Indigenous Community Liaison <br>
     Bay St. George
+  email: ntourett@mun.ca
 - name: Matthew Perrier
   desc: |
     Indigenous Community Liaison <br>
     Bay of Islands
+  email: mperrier@mun.ca
 wpt1leads:
 - name: Heather Hall
   desc: |
