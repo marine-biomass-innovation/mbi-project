@@ -80,8 +80,7 @@ Research conducted by this work package seeks to assess the quality and safety o
 
 | **Postdoctoral Researchers** | **PhD Students** | **Masters Students** |
 | :-----------:| :-----------: | :----------: |
-| Septila Renata<br>Postdoctoral Researcher | Abayomi Taiwo<br>PhD Student<br><br>Brian Christiani<br>PhD Student<br><br>Elham Momeny<br>PhD Student
- | Grace Callahan<br>Masters Student |
+| Septila Renata<br>Postdoctoral Researcher | Abayomi Taiwo<br>PhD Student<br><br>Brian Christiani<br>PhD Student<br><br>Elham Momeny<br>PhD Student | Grace Callahan<br>Masters Student |
 
 
 ### Work Package 4
