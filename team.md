@@ -32,9 +32,14 @@ Assessment of the socio-economic and community development context for product i
 
 ### WPT1 Team Members
 
-| **Team Leads**   | **Co-Investigators and Collaborators**   | **Researchers** | **Trainee Network<br>PhD Students** | **Trainee Network<br>Masters Students**
-| ---------- | ----------- | ---------- | ----------- | ----------- |
-| Erica Samms Hurley<br>WPT1 Co-lead<br>s96ejs@mun.ca<br><br>Heather Hall<br>WPT1 Co-lead<br>h.hall@uwaterloo.ca<br><br>Kelly Vodden<br>WPT1 Co-lead<br>k.vodden@mun.ca  | Billy Newell<br>Business | Brennan Lowery<br>Postdoctoral Researcher<br><br>Jason Penney<br>Research Coordinator<br>Seyi Awosiyan<br>Research Assistant<br><br>Tara Cashen<br>Research Assistant | Avery Velez<br>PhD Student<br><br>Bensonm Gihangange<br>PhD Student & Research Assistant<br><br>Brady Reid<br>PhD Student<br><br>Chantal Pennell<br>PhD Student<br><br>Mostaem Billah<br>PhD Student | Lawrence Nditsi<br>Masters Student & Research Assistant<br><br>Lisa Huang<br>Masters Student<br><br>Sophie Bucholz<br>Masters Student & Research Assistant |
+| **Team Leads**   | **Co-Investigators and Collaborators** 
+| ---------- | ----------- |
+| Erica Samms Hurley<br>WPT1 Co-lead<br>s96ejs@mun.ca<br><br>Heather Hall<br>WPT1 Co-lead<br>h.hall@uwaterloo.ca<br><br>Kelly Vodden<br>WPT1 Co-lead<br>k.vodden@mun.ca  | Billy Newell<br>Business | 
+
+### WPT1 Trainee Network
+| **Postdoctoral Researchers** | **Research Assistants** | **PhD Students** | **Masters Students** |
+| ----------- | ---------- | ----------- | ----------- |
+Brennan Lowery<br>Postdoctoral Researcher | Jason Penney<br>Research Coordinator & Research Assistant<br>Seyi Awosiyan<br>Research Assistant<br><br>Tara Cashen<br>Research Assistant | Avery Velez<br>PhD Student<br><br>Bensonm Gihangange<br>PhD Student & Research Assistant<br><br>Brady Reid<br>PhD Student<br><br>Chantal Pennell<br>PhD Student<br><br>Mostaem Billah<br>PhD Student | Lawrence Nditsi<br>Masters Student & Research Assistant<br><br>Lisa Huang<br>Masters Student<br><br>Sophie Bucholz<br>Masters Student & Research Assistant |
 
 
 ## Work Package 2
