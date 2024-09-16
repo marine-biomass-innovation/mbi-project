@@ -5,8 +5,21 @@ title: Team
 1. this ordered seed list will be replaced by the toc
 {:toc}
 
+
+
+
+
+## Project Management Team
+Jonathan Leudee (jluedee@mun.ca) is the Project Manager for the MBI project. 
+
+### Indigenous Community Liaisons
+Nina Tourett-Retieffe (ntourett@mun.ca) is the Indigenous Community Liaison for the Bay St. George region, working closely with the following communities: Flat Bay Band, Benoit First Nation, St. George's Indian Band and Three Rivers Mi'kmaq Band.
+Matthew Perrier (mperrier@mun.ca) is the Indigenous Community Liaison for the Bay of Islands region, working closely with the following communities: Elmastukwek First Nation (Benoit’s Cove Indian Band) and Corner Brook Ward (Qalipu First Nation). 
+
 ## Work Package Teams
-There are eight different Work Package Teams (WPTs) working together on the MBI Project. The interrelated WPTs, which establish an integrated approach to assess, repurpose, and develop biomass products. Each Work Packages' team members, purpose and objectives are detailed below.
+The MBI project is highly collaborative with research partners around the world. The researchers on this project are split across eight 'work packages', each with their own focus, goals and methodologies. There are eight different Work Package Teams (WPTs) working together on the MBI Project. The interrelated WPTs, which establish an integrated approach to assess, repurpose, and develop biomass products. Each Work Packages' team members, purpose and objectives are detailed below.
+
+![Work Package Structure](assets/img/MBI_WPT_structure.png "This image details the Work Package Structure of the MBI Project, on the left is a circle")
 
 ## Work Package 1
 ### WPT1 Purpose
