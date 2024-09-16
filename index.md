@@ -1,7 +1,6 @@
 ---
 layout: welcome
 title: Welcome
-cover: false
 posts_page: /blog/
 ---
 
