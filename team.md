@@ -78,5 +78,5 @@ Identify the types of organizational and governance structures that will advance
 | **ROLE**   | **PEOPLE**   |
 | ---------- | ----------- |
 | **Team Leads**   | Erica Samms Hurley<br>Co-lead WPT1<br>s96ejs@mun.ca<br><br>Heather Hall<br>Co-lead WPT1<br>h.hall@uwaterloo.ca<br><br>Kelly Vodden<br>WPT1 Co-lead<br>k.vodden@mun.ca |
-| **Co-Investigators and Collaborators** | Billy Newell<br>Business|
+| **Co-Investigators and**<br>**Collaborators** | Billy Newell<br>Business|
 | **Researchers** | Brennan Lowery<br>Postdoctoral Researcher<br><br>Brady Reid<br>PhD Student
