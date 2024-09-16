@@ -19,7 +19,7 @@ Matthew Perrier (mperrier@mun.ca) is the Indigenous Community Liaison for the Ba
 ## Work Package Teams
 The MBI project is highly collaborative with research partners around the world. The researchers on this project are split across eight 'work packages', each with their own focus, goals and methodologies. There are eight different Work Package Teams (WPTs) working together on the MBI Project. The interrelated WPTs, which establish an integrated approach to assess, repurpose, and develop biomass products. Each Work Packages' team members, purpose and objectives are detailed below.
 
-<img src="assets/img/MBI_WPT_structure.png"  title="Diagram of the structure of the Work Package Teams in the MBI project."/>
+<img src="/assets/img/MBI_WPT_structure.png"  title="Diagram of the structure of the Work Package Teams in the MBI project."/>
 
 ## Work Package 1
 ### WPT1 Purpose
