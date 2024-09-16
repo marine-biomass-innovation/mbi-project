@@ -128,7 +128,7 @@ Work Package 6 also aims to support communities in creating their own entreprene
 
 Finally, this work package will also explore how other regions in the North Atlantic periphery have come to develop strong cultures and clusters of entrepreneurs developing sustainable businesses around marine biomass, that also preserve traditional knowledge and culture. The aim of this exercise will be to suggest how this can be applied to the communities in this project to help foster sustainable economic development in similar ways
 
-### Objectives
+#### Objectives
 1. Determine the potential value of the proposed products in WPT2-5, and the customer segments to whom this value would apply.
 2. Examine the alignment between these commercial opportunities and the community assests, identities, and socio-cultural contexts explored in WPT1.
 3. Explore how the commercialization of these potential products/processes boost existing economic capacities and support the launch of new entrepreneurial possibilities.
