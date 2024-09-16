@@ -12,6 +12,10 @@ title: Team
     {% include list-circles.html items=site.data.people.projectmanagement %}
 </html>
 
+<html>
+    {% include author.html items=site.data.people.projectmanagement %}
+</html>
+
 ## Indigenous Community Liaisons
 
 <html>
