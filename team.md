@@ -10,11 +10,11 @@ title: Team
 
 
 ## Project Management Team
-Jonathan Leudee (jluedee@mun.ca) is the Project Manager for the MBI project. 
+Jonathan Leudee ([jluedee@mun.ca](mailto:jluedee@mun.ca)) is the Project Manager for the MBI project. 
 
 ### Indigenous Community Liaisons
-Nina Tourett-Retieffe (ntourett@mun.ca) is the Indigenous Community Liaison for the Bay St. George region, working closely with the following communities: Flat Bay Band, Benoit First Nation, St. George's Indian Band and Three Rivers Mi'kmaq Band.
-Matthew Perrier (mperrier@mun.ca) is the Indigenous Community Liaison for the Bay of Islands region, working closely with the following communities: Elmastukwek First Nation (Benoit’s Cove Indian Band) and Corner Brook Ward (Qalipu First Nation). 
+Nina Tourett-Retieffe ([ntourett@mun.ca](mailto:ntourett@mun.ca)) is the Indigenous Community Liaison for the Bay St. George region, working closely with the following communities: Flat Bay Band, Benoit First Nation, St. George's Indian Band and Three Rivers Mi'kmaq Band.
+Matthew Perrier ([mperrier@mun.ca](mailto:mperrier@mun.ca)) is the Indigenous Community Liaison for the Bay of Islands region, working closely with the following communities: Elmastukwek First Nation (Benoit’s Cove Indian Band) and Corner Brook Ward (Qalipu First Nation). 
 
 ## Work Package Teams
 The MBI project is highly collaborative with research partners around the world. The researchers on this project are split across eight 'work packages', each with their own focus, goals and methodologies. There are eight different Work Package Teams (WPTs) working together on the MBI Project. The interrelated WPTs, which establish an integrated approach to assess, repurpose, and develop biomass products. Each Work Packages' team members, purpose and objectives are detailed below.
@@ -34,7 +34,7 @@ Assessment of the socio-economic and community development context for product i
 
 | **Team Leads**   | **Co-Investigators and Collaborators** 
 | :----------: | :-----------: |
-| Erica Samms Hurley<br>WPT1 Co-lead<br>s96ejs@mun.ca<br><br>Heather Hall<br>WPT1 Co-lead<br>h.hall@uwaterloo.ca<br><br>Kelly Vodden<br>WPT1 Co-lead<br>k.vodden@mun.ca  | Billy Newell<br>Business | 
+| Erica Samms Hurley<br>WPT1 Co-lead<br>[s96ejs@mun.ca](mailto:s96ejs@mun.ca)<br><br>Heather Hall<br>WPT1 Co-lead<br>[h.hall@uwaterloo.ca](mailto:h.hall@uwaterloo.ca)<br><br>Kelly Vodden<br>WPT1 Co-lead<br>[k.vodden@mun.ca](mailto:k.vodden@mun.ca)  | Billy Newell<br>Business | 
 
 ### WPT1 Trainee Network
 
