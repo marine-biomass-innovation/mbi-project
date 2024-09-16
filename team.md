@@ -5,10 +5,6 @@ title: Team
 1. this ordered seed list will be replaced by the toc
 {:toc}
 
-
-
-
-
 ## Project Management Team
 Jonathan Leudee ([jluedee@mun.ca](mailto:jluedee@mun.ca)) is the Project Manager for the MBI project. 
 
@@ -32,29 +28,37 @@ Assessment of the socio-economic and community development context for product i
 
 #### Team Members
 
-| **Team Leads**   | **Co-Investigators and Collaborators** 
+| **Team Leads**   | **Co-Investigators and Collaborators** |
 | :----------: | :-----------: |
-| Erica Samms Hurley<br>WPT1 Co-lead<br>[s96ejs@mun.ca](mailto:s96ejs@mun.ca)<br><br>Heather Hall<br>WPT1 Co-lead<br>[h.hall@uwaterloo.ca](mailto:h.hall@uwaterloo.ca)<br><br>Kelly Vodden<br>WPT1 Co-lead<br>[k.vodden@mun.ca](mailto:k.vodden@mun.ca)  | Billy Newell<br>Business | 
+| Erica Samms Hurley<br>WPT1 Co-lead<br>[s96ejs@mun.ca](mailto:s96ejs@mun.ca)<br><br>Heather Hall<br>WPT1 Co-lead<br>[h.hall@uwaterloo.ca](mailto:h.hall@uwaterloo.ca)<br><br>Kelly Vodden<br>WPT1 Co-lead<br>[k.vodden@mun.ca](mailto:k.vodden@mun.ca)  | Billy Newell<br>Business<br>[wnewell@grenfell.mun.ca](mailto:wnewell@grenfell.mun.ca) | 
 
 #### Trainee Network
 
 | **Postdoctoral Researchers** | **Research Assistants** | **PhD Students** | **Masters Students** |
 | :-----------: | :----------: | :-----------: | :----------: |
-| Brennan Lowery<br>Postdoctoral Researcher | Jason Penney<br>Research Coordinator & Research Assistant<br><br>Seyi Awosiyan<br>Research Assistant<br><br>Tara Cashen<br>Research Assistant | Avery Velez<br>PhD Student<br><br>Bensonm Gihangange<br>PhD Student & Research Assistant<br><br>Brady Reid<br>PhD Student<br><br>Chantal Pennell<br>PhD Student<br><br>Mostaem Billah<br>PhD Student | Lawrence Nditsi<br>Masters Student & Research Assistant<br><br>Lisa Huang<br>Masters Student<br><br>Sophie Bucholz<br>Masters Student & Research Assistant |
+| Brennan Lowery<br>Postdoctoral Researcher | Jason Penney<br>Post-Graduate Research Assistant<br><br>Seyi Awosiyan<br>Research Assistant<br><br>Tara Cashen<br>Research Assistant<br><br>Marie Lopez Cruz<br>Research Assistant | Avery Velez<br>PhD Student & Research Assistant<br><br>Bensonm Gihangange<br>PhD Student & Research Assistant<br><br>Brady Reid<br>PhD Student & Research Assistant<br><br>Chantal Pennell<br>PhD Student & Research Assistant<br><br>Mostaem Billah<br>PhD Student & Research Assistant | Lawrence Nditsi<br>Masters Student & Research Assistant<br><br>Lisa Huang<br>Masters Student<br><br>Prashansa Kooshna<br>Masters Student & Research Assistant<br><br>Sophie Bucholz<br>Masters Student & Research Assistant |
 
 
-## Work Package 2
+### Work Package 2
 
-### WPT2 Purpose
+#### Purpose
 Develop innovative processing approaches for extracting value from marine raw materials which can help to create economic and entrepreneurial opportunities for the project regions. Shellfish (e.g., crab, mussels, shrimp) and finfish processing by-products (i.e., guts, trimmings, bones, shell), sea cucumber, and seaweed are the primary feedstocks being considered. Existing processes which can extract high value compounds from such materials are limited to lab scale, use toxic chemicals or aggressive operating conditions, and/or are not appropriate for remote and rural locations.
 
-### WPT2 Objectives
+#### Objectives
 1. Develop innovative ‘green’ processes that can extract or convert fish processing by-products and raw materials - primarily feedstocks identified by work packages 3-5 into value added secondary products ranging from nutraceuticals to biomaterials.
 2. Act as a resource for processors and regions to build a sustainable fishery and export knowledge and processes created nationally and internationally.
 
-| **Team Leads**   | **Co-Investigators and Collaborators**   | **Researchers** | **Trainee Network<br>PhD Students** | **Trainee Network<br>Masters Students**
-| ---------- | ----------- | ---------- | ----------- | ----------- |
-| | | | | |
+#### Team members
+
+| **Team Leads**   | **Co-Investigators and Collaborators** |
+| :----------: | :-----------: |
+| Kelly Hawboldt<br>Co-lead<br>[khawboldt@mun.ca](mailto:khawboldt@mun.ca)<br><br>Stephanie MacQuarrie<br>Co-lead<br>[stephanie_macquarrie@cbu.ca](mailto:stephanie_macquarrie@cbu.ca)| Raymond Thomas<br>Principal Investigator<br><br>Alexandro Tsoupras<br>Bioactive Ingredients for Nutraceuticals |
+
+#### Trainee Network
+
+| **Postdoctoral Researchers** | **PhD Students** | **Masters Students** |
+| :-----------:| :-----------: | :----------: |
+| Sarah Ahmadkelaye<br>Postdoctoral Research Fellow | Ali Shafiee<br>PhD Student<br><br>David Hopkins<br>PhD Student<br><br>Julia Pohling<br>PhD Student<br><br>Willy Benson Gihangange<br>PhD Student & Research Assistant<br><br>Yuna Zhang<br>PhD Student & Research Assistant<br>br>  | Yuana Yeusika<br>M.Eng Student & Research Assistant |
 
 ### Work Package 3
 
@@ -66,9 +70,19 @@ Research conducted by this work package seeks to assess the quality and safety o
 2. Assess the safety of raw materials or extracts to determine contaminant levels for product development by WPT4-5.
 3. Support and guide other work package teams with product development and market development.
 
-| **Team Leads**   | **Co-Investigators and Collaborators**   | **Researchers** | **Trainee Network<br>PhD Students** | **Trainee Network<br>Masters Students**
-| ---------- | ----------- | ---------- | ----------- | ----------- |
-| | | | | |
+#### Team members
+
+| **Team Leads**   | **Co-Investigators and Collaborators** |
+| :----------: | :-----------: |
+| Raymond Thomas<br>Principal Investigator<br>[rthoma2@uwo.ca](mailto:rthoma2@uwo.ca) | Alexandro Tsoupras<br>Bioactive Ingredients for Nutraceuticals<br><br>Atushi Miyawaki<br>Bioimaging and biosensor development<br><br>Bohdan Luhovyy<br>Applied human nutrition<br><br>Ioannis Zebetakis<br>Functional Foods and Nutraceuticals<br><br>Svetlana Yurgel<br>Plant growth and development|
+
+#### Trainee Network
+
+| **Postdoctoral Researchers** | **PhD Students** | **Masters Students** |
+| :-----------:| :-----------: | :----------: |
+| Septila Renata<br>Postdoctoral Researcher | Abayomi Taiwo<br>PhD Student<br><br>Brian Christiani<br>PhD Student<br><br>Elham Momeny<br>PhD Student
+ | Grace Callahan<br>Masters Student |
+
 
 ### Work Package 4
 #### Purpose
@@ -81,9 +95,17 @@ The goals will be to investigate the development, formulation and testing of fun
 4. Develop fishery residues as feed ingredients for aquaculture.
 5. Develop bio-materials and biosensors from marine-based organisms such as eels.
 
-| **Team Leads**   | **Co-Investigators and Collaborators**   | **Researchers** | **Trainee Network<br>PhD Students** | **Trainee Network<br>Masters Students**
-| ---------- | ----------- | ---------- | ----------- | ----------- |
-| | | | | |
+#### Team members
+
+| **Team Leads**   | **Co-Investigators and Collaborators** |
+| :----------: | :-----------: |
+| Javier Santander<br>Co-lead<br><br>Lord Abbey<br>Co-lead<br><br>Mumtaz Cheema<br>Co-lead | Lakshman Galagedara<br>Land and Water Management<br><br>Sukhinder Cheema<br>Biochemistry<br><br>Svetlana Yurgel<br>Plant Growth and Development |
+
+#### Trainee Network
+| **Postdoctoral Researchers** | **PhD Students** | **Masters Students** |
+| :-----------:| :-----------: | :----------: |
+| Rabia Javed<br>Postdoctoral Fellow<br><br> Vimbie Machimbirike<br>Postdoctoral Fellow | Uzma Sharafat<br>PhD Student | |
+
 
 ### Work Package 5
 #### Purpose
