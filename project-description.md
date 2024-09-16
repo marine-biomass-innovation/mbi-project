@@ -8,7 +8,7 @@ layout: page
 
 ![MBI Logo](assets/img/projectdescription.png)
 
-The Marine Biomass Innovation (MBI) Project is working to develop sustainable marine-based entrepreneurship with rural and coastal Mi’kmaw communities and local industries through repurposing of marine biomass in western Newfoundland.”
+The Marine Biomass Innovation (MBI) Project is working to develop sustainable marine-based entrepreneurship with rural and coastal Mi’kmaw communities and local industries through repurposing of marine biomass in western Newfoundland.
 
 ## What is Biomass? 
 
