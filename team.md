@@ -58,7 +58,7 @@ Develop innovative processing approaches for extracting value from marine raw ma
 
 | **Postdoctoral Researchers** | **PhD Students** | **Masters Students** |
 | :-----------:| :-----------: | :----------: |
-| Sarah Ahmadkelaye<br>Postdoctoral Research Fellow | Ali Shafiee<br>PhD Student<br><br>David Hopkins<br>PhD Student<br><br>Julia Pohling<br>PhD Student<br><br>Willy Benson Gihangange<br>PhD Student & Research Assistant<br><br>Yuna Zhang<br>PhD Student & Research Assistant<br>br>  | Yuana Yeusika<br>M.Eng Student & Research Assistant |
+| Sarah Ahmadkelaye<br>Postdoctoral Research Fellow | Ali Shafiee<br>PhD Student<br><br>David Hopkins<br>PhD Student<br><br>Julia Pohling<br>PhD Student<br><br>Willy Benson Gihangange<br>PhD Student & Research Assistant<br><br>Yuna Zhang<br>PhD Student & Research Assistant<br><br>  | Yuana Yeusika<br>M.Eng Student & Research Assistant |
 
 ### Work Package 3
 
