@@ -13,7 +13,7 @@ title: Team
 </html>
 
 <html>
-    {% include author.html items=site.data.people.projectmanagement %}
+    {% include components/author.html items=site.data.people.projectmanagement %}
 </html>
 
 ## Indigenous Community Liaisons
