@@ -15,7 +15,7 @@ sitemap: false
 {:toc}
 
 # Indigenous Community Partners
-Invaluable to their local communities, Mi'kmaw community partners are at the core the the MBI Project. [Etuaptmumk](https://mbiproject.ca/etuaptmumk/), a Mi'kmaw Guiding Principle developed by Mi'kmaq Elders and knowledge keepers Albert and Murdena Marshall, is founded on the principal that all ways of knowing are coexistant. Following Etuaptmumk is to practice and show that respect, relationship, reverence, reciprocity, ritual, repetition and responsibility can, and should, exist alongside the scientific method (hypothesis), data collection, and testing, model theory and construction. Colloboration, inclusion and sharing with community partners ensures accountibility of the MBI project research team to practice Etuaptmumk and to good in the local communities the project is working in.
+Invaluable to their local communities, Mi'kmaw community partners are at the core the the MBI Project. [Etuaptmumk](https://mbiproject.ca/etuaptmumk/), a Mi'kmaw Guiding Principle developed by Mi'kmaq Elders and knowledge keepers Albert and Murdena Marshall, is founded on the principal that all ways of knowing are coexistant. Following Etuaptmumk is to practice and show that respect, relationship, reverence, reciprocity, ritual, repetition and responsibility can, and should, exist alongside the scientific method (hypothesis), data collection, and testing, model theory and construction. Collaboration, inclusion and sharing with community partners ensures accountibility of the MBI project research team to practice Etuaptmumk and to good in the local communities the project is working in.
 
 ____________
 
