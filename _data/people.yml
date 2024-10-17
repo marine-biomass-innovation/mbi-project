@@ -1,0 +1,45 @@
+# based on https://github.com/reconhub/reconhub.github.io
+projectmanagement:
+- name: Jonathan Luedee
+  desc: | 
+    Project Manager
+  email: jluedee@mun.ca
+liaisons:
+- name: Nina Tourett-Retieffe
+  desc: |
+    Indigenous Community Liaison <br>
+    Bay St. George
+  email: ntourett@mun.ca
+- name: Matthew Perrier
+  desc: |
+    Indigenous Community Liaison <br>
+    Bay of Islands
+  email: mperrier@mun.ca
+wpt1leads:
+- name: Heather Hall
+  desc: |
+    Co-lead
+- name: Kelly Vodden
+  desc: |
+    Co-lead
+- name: Erica Samms Hurley
+  desc: |
+    Co-lead
+wpt1CI:
+- name: Billy Newell
+  desc: |
+    Business
+wpt1researchers:
+- name: Brennan Lowery
+  desc: |
+    Postdoctoral Researcher
+- name: Brady Reid
+  desc: |
+    PhD Student
+wpt2leads:
+- name: Kelly Hawboldt
+  desc: |
+    Co-lead
+- name: Stephanie MacQuarrie
+  desc: |
+    Co-lead

@@ -2,7 +2,6 @@
 layout: project
 title: 'Academic Partners'
 caption: MBI Project Academic Partners
-author: KathrynWhite
 description: >
   Breakdown of Academic Partners working with the MBI Project
 date: 14 Dec 2022
@@ -25,4 +24,5 @@ sitemap: false
 - **[RIKEN](https://www.riken.jp/en/)** (Japan) 
 - **[University of Bari Aldo Moro](https://www.uniba.it/en)** (Italy) 
 - **[University of Limerick](https://www.ul.ie/)** (Ireland) 
-- **[University of Waterloo](https://uwaterloo.ca/)** (Canada) 
+- **[University of Waterloo](https://uwaterloo.ca/)** (Canada)
+- **[University of Western Ontario](https://www.uwo.ca/)** (Canada) - Administering Institution

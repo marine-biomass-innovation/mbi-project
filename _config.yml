@@ -25,16 +25,11 @@ title:                 MARINE BIOMASS INNOVATION PROJECT
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-    In partnership with coastal rural and Mi’kmaq Communities across two regions on the 
-    Western portion of the Island of Newfoundland (Bay St. George and Bay of Islands), 
-    we seek to collaborate and co-develop sustainable, innovative, marine based entrepreneurship opportunities 
-    and technologies for local industries and community-based organizations. 
-    We will work in partnership with community partners and enterprises to develop products that are sustainable, 
-    globally competitive, economically, and technically feasible with existing local infrastructure.
+    Repurposing marine biomass for sustainable marine-based development with Mi’kmaw communities in Ktaqmkuk (Newfoundland).
 
 
 # A shorter description for the sidebar.
-tagline:               Developing sustainable marine based entrepreneurship for local industries and community-based organizations in Newfoundland and Labrador, Canada.
+tagline:               Repurposing marine biomass for sustainable marine-based development with Mi’kmaw communities in Ktaqmkuk (Newfoundland).
 
 # A list of keywords for your blog
 keywords:              [marine, biomass, innovation, indigenous, Mi'kmaw, sustainability, Canada, Newfoundland and Labrador, two-eyed seeing, etuaptmumk, NL, Newfoundland]
@@ -48,7 +43,7 @@ logo:                  /assets/img/logo.png
 author:
   # Used by `jekyll-feed`:
   name:                MBI Project
-  email:               mbi@grenfell.mun.ca
+  email:               jluedee@mun.ca
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -64,8 +59,6 @@ menu:
     url:               /project-partners/
   - title:             Blog
     url:               /blog/
-  - title:             Contact Us
-    url:               /contact-us/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
