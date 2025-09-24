@@ -26,12 +26,6 @@ Assessment of the socio-economic and community development context for product i
 2. Conduct a community asset assessment to identify existing capacities, entrepreneurial interests, and physical assets.
 3. Identify the types of organizational and governance structures that will advance product innovation.
 
-#### Team
-
-| **Team Leads**   | **Co-Investigators and Collaborators** | **Postdoctoral Researchers** | **Research Assistants** | **PhD Students** | **Masters Students** |
-| :----------: | :-----------: | :-----------: | :----------: | :-----------: | :----------: |
-| Erica Samms Hurley<br>WPT1 Co-lead<br>[s96ejs@mun.ca](mailto:s96ejs@mun.ca)<br><br>Heather Hall<br>WPT1 Co-lead<br>[h.hall@uwaterloo.ca](mailto:h.hall@uwaterloo.ca)<br><br>Kelly Vodden<br>WPT1 Co-lead<br>[k.vodden@mun.ca](mailto:k.vodden@mun.ca)  | Billy Newell<br>Business<br>[wnewell@grenfell.mun.ca](mailto:wnewell@grenfell.mun.ca) | Brennan Lowery<br>Postdoctoral Researcher | Jason Penney<br>Post-Graduate Research Assistant<br><br>Seyi Awosiyan<br>Research Assistant<br><br>Tara Cashen<br>Research Assistant<br><br>Marie Lopez Cruz<br>Research Assistant | Avery Velez<br>PhD Student & Research Assistant<br><br>Bensonm Gihangange<br>PhD Student & Research Assistant<br><br>Brady Reid<br>PhD Student & Research Assistant<br><br>Chantal Pennell<br>PhD Student & Research Assistant<br><br>Mostaem Billah<br>PhD Student & Research Assistant | Lawrence Nditsi<br>Masters Student & Research Assistant<br><br>Lisa Huang<br>Masters Student<br><br>Prashansa Kooshna<br>Masters Student & Research Assistant<br><br>Sophie Bucholz<br>Masters Student & Research Assistant |
-
 | Role | Team |
 |------|--------------|
 | Team Leads                         | Erica Samms Hurley ([s96ejs@mun.ca](mailto:s96ejs@mun.ca))<br>Heather Hall ([h.hall@uwaterloo.ca](mailto:h.hall@uwaterloo.ca))<br>Kelly Vodden ([k.vodden@mun.ca](mailto:k.vodden@mun.ca)) |
@@ -50,12 +44,6 @@ Develop innovative processing approaches for extracting value from marine raw ma
 #### Objectives
 1. Develop innovative ‘green’ processes that can extract or convert fish processing by-products and raw materials - primarily feedstocks identified by work packages 3-5 into value added secondary products ranging from nutraceuticals to biomaterials.
 2. Act as a resource for processors and regions to build a sustainable fishery and export knowledge and processes created nationally and internationally.
-
-#### Team members
-
-| **Team Leads**   | **Co-Investigators and Collaborators** | **Postdoctoral Researchers** | **PhD Students** | **Masters Students** |
-| :----------: | :-----------: | :-----------:| :-----------: | :----------: |
-| Kelly Hawboldt<br>Co-lead<br>[khawboldt@mun.ca](mailto:khawboldt@mun.ca)<br><br>Stephanie MacQuarrie<br>Co-lead<br>[stephanie_macquarrie@cbu.ca](mailto:stephanie_macquarrie@cbu.ca)| Raymond Thomas<br>Principal Investigator<br><br>Alexandro Tsoupras<br>Bioactive Ingredients for Nutraceuticals | Sarah Ahmadkelaye<br>Postdoctoral Research Fellow | Ali Shafiee<br>PhD Student<br><br>David Hopkins<br>PhD Student<br><br>Julia Pohling<br>PhD Student<br><br>Willy Benson Gihangange<br>PhD Student & Research Assistant<br><br>Yuna Zhang<br>PhD Student & Research Assistant<br><br>  | Yuana Yeusika<br>M.Eng Student & Research Assistant |
 
 | Role | Team |
 |------|--------------|
@@ -76,10 +64,6 @@ Research conducted by this work package seeks to assess the quality and safety o
 3. Support and guide other work package teams with product development and market development.
 
 #### Team members
-
-| **Team Leads**   | **Co-Investigators and Collaborators** | **Postdoctoral Researchers** | **PhD Students** | **Masters Students** |
-| :----------: | :-----------: | :-----------:| :-----------: | :----------: |
-| Raymond Thomas<br>Principal Investigator<br>[rthoma2@uwo.ca](mailto:rthoma2@uwo.ca) | Alexandro Tsoupras<br>Bioactive Ingredients for Nutraceuticals<br><br>Atushi Miyawaki<br>Bioimaging and biosensor development<br><br>Bohdan Luhovyy<br>Applied human nutrition<br><br>Ioannis Zebetakis<br>Functional Foods and Nutraceuticals<br><br>Svetlana Yurgel<br>Plant growth and development |  Septila Renata<br>Postdoctoral Researcher | Abayomi Taiwo<br>PhD Student<br><br>Brian Christiani<br>PhD Student<br><br>Elham Momeny<br>PhD Student | Grace Callahan<br>Masters Student |
 
 | Role | Team |
 |------|--------------|
@@ -102,10 +86,6 @@ The goals will be to investigate the development, formulation and testing of fun
 
 #### Team Members
 
-| **Team Leads**   | **Co-Investigators and Collaborators** | **Postdoctoral Researchers** | **PhD Students** | **Masters Students** |
-| :----------: | :-----------: | :-----------:| :-----------: | :----------: |
-| Javier Santander<br>Co-lead<br><br>Lord Abbey<br>Co-lead<br><br>Mumtaz Cheema<br>Co-lead | Lakshman Galagedara<br>Land and Water Management<br><br>Sukhinder Cheema<br>Biochemistry<br><br>Svetlana Yurgel<br>Plant Growth and Development | Zia-ul Islam<br>Postdoctoral Fellow<br><br> Vimbie Machimbirike<br>Postdoctoral Fellow | Uzma Sharafat<br>PhD Student |
-
 | Role | Team |
 |------|--------------|
 | Team Leads                         | Javier Santander<br>Lord Abbey<br>Mumtaz Cheema |
@@ -124,11 +104,6 @@ The purpose and goals of work package 5 are to assess the health benefits of raw
 4. Share functional foods/nutraceuticals showing promise with WPT1/6-8 and support them to determine markets for novel isolates and bioactives identified.
 
 #### Team Members
-
-| **Team Leads**   | **Co-Investigators and Collaborators** | **Research Assistants** | **PhD Students** | **Masters Students** |
-| ---------- | ----------- |  ---------- | ----------- |  ----------- | 
-| Sukhinder Cheema<br>Lead | Jacqueline Blundell<br>Brain Health and Cognitive Function<br><br>Karen Doody<br>Cell Biology of Ageing and Inflammation<br><br>Atsushi Miyawaki<br>Bioimaging and Biosensor Development<br><br>Fabien Basset<br>Effect of Food on Disease in Human Clinical Studies<br><br>Ionnis Zebetakis<br>Functional Foods and Nutraceuticals<br><br>Edward Randell<br>Biochemical Markers of Disease<br><br>Bohdan Luhovyy<br>Applied Human Nutrition | Cecilia Uzca Sornoza | Sakshi Hans |  Narmada Weerakkody<br>Shima Hajipour |
-
 
 | Role | Team |
 |------|--------------|
@@ -153,10 +128,6 @@ Finally, this work package will also explore how other regions in the North Atla
 
  #### Team Members
 
-| **Team Lead**   | **Co-Investigators and Collaborators** | **Post-Doctoral Researcher** | **Research Assistant** |
-| ---------- | ----------- | ---------- | ----------- |
-| Billy Newell<br>Lead | Heather Hall<br>Environment, Enterprise and Development<br><br>Kelly Vodden<br>Environmental Policy<br><br>Leo-Paul Dana<br>Entrepreneurship | Julie Mallet | Ashtin King | 
-
 | Role | Team |
 |------|--------------|
 | Team Leads                         | Billy Newell |
@@ -174,12 +145,6 @@ Facilitate interconnection between other work packages, following Memorial Unive
 2. Design, implement and support knowledge exchange and mobilization activities for diverse audiences within and across project regions.
 3. Conduct and support overall project and WPT assessment, monitoring, and evaluation activities that will ensure continuous project improvement and attainment of project goals and WPT objectives.
 
- #### Team Members
-
-| **Team Leads** | **PhD Students** | **Masters Students** |
-| ---------- | ---------- | ---------- |
-| Mery Perez<br>Co-lead<br><br>Kelly Vodden<br>Co-lead<br><br>Erica Hurley<br>Co-lead | Abdul-Latif Alhassan<br><br>Benson Gihangange | Mauricio Rodriguez |
-
 | Role | Team |
 |------|--------------|
 | Team Leads                         | Mery Perez ([maperez@mun.ca](mailto:maperez@mun.ca))<br>Kelly Vodden ([kvodden@mun.ca](mailto:kvodden@mun.ca))<br>Erica Hurley ([s96ejs@mun.ca](mailto:s96ejs@mun.ca)) |
@@ -194,14 +159,8 @@ Establish a data management system that upholds the OCAP principles of Indigenou
 1. Develop data management systems capable of holding and analysing databases created across all work packages and sites.
 2. Develop multivariate analysis solutions to assess the value of marine products.
 
- #### Team Members
-
-| **Team Leads**   | **Co-Investigators and Collaborators** | **Research Assistant** |
-| ---------- | ----------- |  ---------- |
-| Jimmy Breen<br>Co-lead<br><br>Flavia Esposito<br>Co-lead | Nicoletta Del Buono<br>Numerical Analysis | Holly Massacci |
-
 | Role | Team |
 |------|--------------|
 | Team Leads                         | Jimmy Breen ([jimmy.breen@thekids.org.au](mailto:jimmy.breen@thekids.org.au))<br>Flavia Esposito ([flavia.esposito@uniba.it](mailto:flavia.esposito@uniba.it))  |
 | Co-Investigators and Collaborators | Nicoletta Del Buono - Numerical Analysis<br>Adam Heterick - Indigenous Data Sovereignty and Data Systems |
-| Research Assistant                | Holly Massacci |
+| Research Assistant                 | Holly Massacci |
