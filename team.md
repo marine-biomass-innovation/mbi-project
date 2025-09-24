@@ -17,7 +17,7 @@ The MBI project is highly collaborative with research partners around the world.
 
 <img src="/assets/img/MBI_WPT_structure.png"  title="Diagram of the structure of the Work Package Teams in the MBI project."/>
 
-### Work Package 1
+### Work Package 1: Community Histories, Strengths and Priorities
 #### Purpose
 Assessment of the socio-economic and community development context for product innovation. The purpose of this work package is to develop an understanding of the economic and cultural histories of coastal communities, especially in relation to fish waste. The Chiefs from Mi’kmaw partner communities and the Indigenous Community Liaisons are all key members of the WP1 research team.
 
@@ -30,13 +30,13 @@ Assessment of the socio-economic and community development context for product i
 |------|--------------|
 | Team Leads                         | Erica Samms Hurley ([s96ejs@mun.ca](mailto:s96ejs@mun.ca))<br>Heather Hall ([h.hall@uwaterloo.ca](mailto:h.hall@uwaterloo.ca))<br>Kelly Vodden ([k.vodden@mun.ca](mailto:k.vodden@mun.ca)) |
 | Co-Investigators and Collaborators | Billy Newell - Business ([wnewell@grenfell.mun.ca](mailto:wnewell@grenfell.mun.ca)) |
-| Postdoctoral Researchers           | Brennan Lowery |
+| Postdoctoral Researchers           | Brennan Lowery ([blowery@grenfell.mun.ca](mailto:blowery@grenfell.mun.ca)|
 | Research Assistants                | Jason Penney<br>Seyi Awosiyan<br>Tara Cashen<br>Marie Lopez Cruz |
 | PhD Students                       | Avery Velez<br>Bensonm Gihangange<br>Brady Reid<br>Chantal Pennell<br>Mostaem Billah |
 | Masters Students                   | Lawrence Nditsi<br>Lisa Huang<br>Prashansa Kooshna<br>Sophie Bucholz<br> |
 
 
-### Work Package 2
+### Work Package 2: Green Processing and Engineering
 
 #### Purpose
 Develop innovative processing approaches for extracting value from marine raw materials which can help to create economic and entrepreneurial opportunities for the project regions. Shellfish (e.g., crab, mussels, shrimp) and finfish processing by-products (i.e., guts, trimmings, bones, shell), sea cucumber, and seaweed are the primary feedstocks being considered. Existing processes which can extract high value compounds from such materials are limited to lab scale, use toxic chemicals or aggressive operating conditions, and/or are not appropriate for remote and rural locations.
@@ -48,12 +48,12 @@ Develop innovative processing approaches for extracting value from marine raw ma
 | Role | Team |
 |------|--------------|
 | Team Leads                         | Kelly Hawboldt ([khawboldt@mun.ca](mailto:khawboldt@mun.ca))<br>Stephanie MacQuarrie ([stephanie_macquarrie@cbu.ca](mailto:stephanie_macquarrie@cbu.ca)) |
-| Co-Investigators and Collaborators | Raymond Thomas<br>Principal Investigator<br>Alexandro Tsoupras<br>Bioactive Ingredients for Nutraceuticals |
+| Co-Investigators and Collaborators | Raymond Thomas - Principal Investigator<br>Alexandro Tsoupras<br>Bioactive Ingredients for Nutraceuticals |
 | Postdoctoral Researchers           | Sarah Ahmadkelaye |
 | PhD Students                       | Ali Shafiee<br>David Hopkins<br>Julia Pohling<br>Benson Gihangange<br>Yuna Zhang |
 | Masters Students                   | Yuana Yeusika |
 
-### Work Package 3
+### Work Package 3: Product Analysis
 
 #### Purpose
 Research conducted by this work package seeks to assess the quality and safety of marine-derived materials using a multimodal metabolomic approach. Various analytical techniques will be employed, including molecular genetics, vibrational spectroscopy, chromatography, and mass spectrometry. Results obtained are expected to provide insight into marine-derived materials’ spatial, qualitative and quantitative composition. Such insight will facilitate targeted product development for applications, including functional foods, nutraceuticals, cosmetics, and biofertilizers.
@@ -63,8 +63,6 @@ Research conducted by this work package seeks to assess the quality and safety o
 2. Assess the safety of raw materials or extracts to determine contaminant levels for product development by WPT4-5.
 3. Support and guide other work package teams with product development and market development.
 
-#### Team members
-
 | Role | Team |
 |------|--------------|
 | Team Leads                         | Raymond Thomas ([rthoma2@uwo.ca](mailto:rthoma2@uwo.ca)) |
@@ -73,7 +71,7 @@ Research conducted by this work package seeks to assess the quality and safety o
 | PhD Students                       | Abayomi Taiwo<br>Brian Christiani<br>Elham Momeny |
 | Masters Students                   | Grace Callahan |
 
-### Work Package 4
+### Work Package 4: Product Development
 #### Purpose
 The goals will be to investigate the development, formulation and testing of functional foods, biomaterials and nano-biofertilizers from the extracts and waste/residues.
 
@@ -84,16 +82,14 @@ The goals will be to investigate the development, formulation and testing of fun
 4. Develop fishery residues as feed ingredients for aquaculture.
 5. Develop bio-materials and biosensors from marine-based organisms such as eels.
 
-#### Team Members
-
 | Role | Team |
 |------|--------------|
-| Team Leads                         | Javier Santander<br>Lord Abbey<br>Mumtaz Cheema |
+| Team Leads                         | Javier Santander ([jsantander@mun.ca](mailto:jsantander@mun.ca))<br>Lord Abbey ([LAbbey@dal.ca](mailto:LAbbey@dal.ca))<br>Mumtaz Cheema ([macheema@mun.ca](mailto:macheema@mun.ca)) |
 | Co-Investigators and Collaborators | Lakshman Galagedara - Land and Water Management<br>Sukhinder Cheema - Biochemistry<br>Svetlana Yurgel - Plant Growth and Development |
 | Postdoctoral Researchers           | Zia-ul Islam<br>Vimbie Machimbirike |
 | PhD Students                       | Uzma Sharafat |
 
-### Work Package 5
+### Work Package 5: Product Health Benefits
 #### Purpose
 The purpose and goals of work package 5 are to assess the health benefits of raw materials, novel extracts, and other bioactives from marine biomass. Targeted diseases are: diabetes, obesity, cardiovascular diseases, arthritis, cancer, brain health, inflammation, cell-cycle regulation, and other related metabolic disorders. In-vitro cell culture models will be used for rapid screening of extracts / isolates / bioactives for their potential health benefits. Marine isolates and bioactives showing potential for health benefits will then be tested in animal models to establish dose, duration, sex-specific effects, safety, efficacy, and toxicity. Specialized techniques (bioluminescence imaging) will be used to study brain function. Furthermore, the health benefits of developed functional foods and nutraceuticals will be confirmed in specific animal models. Human clinical trials will be conducted to evaluate the efficacy of existing and/or newly developed functional foods and nutraceticals to bring niche products to market. Data generated will be shared with other work packages to ensure the informatics database developed by the consortium is comprehensive, useful and translational to project-partners and industry. In collaboration with community and industry partners, novel products will be launched to improve population and community health, particularly in rural, coastal and Indigenous communities.
 
@@ -103,17 +99,15 @@ The purpose and goals of work package 5 are to assess the health benefits of raw
 3. Work with WPT4 to develop functional foods and nutraceuticals, conduct animal studies and human clinical trials to establish health benefits.
 4. Share functional foods/nutraceuticals showing promise with WPT1/6-8 and support them to determine markets for novel isolates and bioactives identified.
 
-#### Team Members
-
 | Role | Team |
 |------|--------------|
-| Team Leads                         | Sukhinder Cheema |
+| Team Leads                         | Sukhinder Cheema ([skaur@mun.ca](mailto:skaur@mun.ca))|
 | Co-Investigators and Collaborators | Jacqueline Blundell - Brain Health and Cognitive Function<br>Karen Doody - Cell Biology of Ageing and Inflammation<br>Atsushi Miyawaki - Bioimaging and Biosensor Development<br>Fabien Basset - Effect of Food on Disease in Human Clinical Studies<br>Ionnis Zebetakis - Functional Foods and Nutraceuticals<br>Edward Randell - Biochemical Markers of Disease<br>Bohdan Luhovyy - Applied Human Nutrition |
 | Research Assistants                | Cecilia Uzca Sornoza |
 | PhD Students                       | Sakshi Hans |
 | Masters Students                   | Narmada Weerakkody<br>Shima Hajipour |
 
-### Work Package 6
+### Work Package 6: Entrepreneurship and Business Development
 #### Purpose
 Work Package 6 aims to support industry partners and communities by exploring the commercial applications for marine biomass. Specifically, this works package works with industry partners through initial-stage market research to help determine the market potential for products they are interested in commercialising. The aim of this process is eliminate some of the uncertainty around initial stages of the search process in new product development.
 
@@ -126,16 +120,14 @@ Finally, this work package will also explore how other regions in the North Atla
 2. Examine the alignment between these commercial opportunities and the community assests, identities, and socio-cultural contexts explored in WPT1.
 3. Explore how the commercialization of these potential products/processes boost existing economic capacities and support the launch of new entrepreneurial possibilities.
 
- #### Team Members
-
 | Role | Team |
 |------|--------------|
-| Team Leads                         | Billy Newell |
-| Co-Investigators and Collaborators | Heather Hall<br>Environment, Enterprise and Development<br><br>Kelly Vodden<br>Environmental Policy<br><br>Leo-Paul Dana<br>Entrepreneurship |
+| Team Leads                         | Billy Newell ([r34wjn@mun.ca](mailto:r34wjn@mun.ca)) |
+| Co-Investigators and Collaborators | Heather Hall - Environment, Enterprise and Development<br>Kelly Vodden - Environmental Policy<br>Leo-Paul Dana - Entrepreneurship |
 | Postdoctoral Researchers           | Julie Mallet |
 | Research Assistants                | Ashtin King |
 
-### Work Package 7
+### Work Package 7: Evaluation, Engagement and Governance
 
 #### Purpose
 Facilitate interconnection between other work packages, following Memorial University’s public engagement model which upholds that engagement is built on mutual contribution, is based on mutual respect, and ought to generate mutual benefit.
@@ -151,7 +143,7 @@ Facilitate interconnection between other work packages, following Memorial Unive
 | PhD Students                       | Abdul-Latif Alhassan<br><br>Benson Gihangange |
 | Masters Students                   | Mauricio Rodriguez |
 
-### Work Package 8
+### Work Package 8: Data Management
 #### Purpose
 Establish a data management system that upholds the OCAP principles of Indigenous Data Sovereignty for the project such that data generated by all research teams are consolidated for integration and collaboration between WPTs. The team aims to help in the understanding of the relationships between the data collected across the various disciplines and support other work packages to make more informed coordinated project decisions.
 
