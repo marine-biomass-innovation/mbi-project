@@ -9,8 +9,8 @@ title: Team
 
 | Role | Team |
 | ---- | ---- |
-| Project Manager | Jonathan Leudee ([jluedee@mun.ca](mailto:jluedee@mun.ca)) |
-| Indigenous Community Liaisons | **Bay St George**<br>Nina Tourett-Retieffe ([ntourett@mun.ca](mailto:ntourett@mun.ca)) is the Indigenous Community Liaison for the Bay St. George region. Nina works closely with the following communities: Flat Bay Band, Benoit First Nation, St. George's Indian Band and Three Rivers Mi'kmaq Band.<br><br>**Bay of Islands**<br>Matthew Perrier ([mperrier@mun.ca](mailto:mperrier@mun.ca)) is the Indigenous Community Liaison for the Bay of Islands region, working closely with the following communities: Elmastukwek First Nation (Benoit’s Cove Indian Band) and Corner Brook Ward (Qalipu First Nation). 
+| Project Manager | [Jonathan Leudee](mailto:jluedee@mun.ca) |
+| Indigenous Community Liaisons | **Bay St George**<br>[Nina Tourett-Retieffe](mailto:ntourett@mun.ca) is the Indigenous Community Liaison for the Bay St. George region. Nina works closely with the following communities: Flat Bay Band, Benoit First Nation, St. George's Indian Band and Three Rivers Mi'kmaq Band.<br><br>**Bay of Islands**<br>[Matthew Perrier](mailto:mperrier@mun.ca) is the Indigenous Community Liaison for the Bay of Islands region, working closely with the following communities: Elmastukwek First Nation (Benoit’s Cove Indian Band) and Corner Brook Ward (Qalipu First Nation). 
 
 ## Work Package Teams
 The MBI project is highly collaborative with research partners around the world. The researchers on this project are split across eight 'work packages', each with their own focus, goals and methodologies. There are eight different Work Package Teams (WPTs) working together on the MBI Project. The interrelated WPTs, which establish an integrated approach to assess, repurpose, and develop biomass products. Each Work Packages' team members, purpose and objectives are detailed below.
@@ -28,9 +28,9 @@ Assessment of the socio-economic and community development context for product i
 
 | Role | Team |
 |------|--------------|
-| Team Leads                         | Erica Samms Hurley ([s96ejs@mun.ca](mailto:s96ejs@mun.ca))<br>Heather Hall ([h.hall@uwaterloo.ca](mailto:h.hall@uwaterloo.ca))<br>Kelly Vodden ([k.vodden@mun.ca](mailto:k.vodden@mun.ca)) |
-| Co-Investigators and Collaborators | Billy Newell - Business ([wnewell@grenfell.mun.ca](mailto:wnewell@grenfell.mun.ca)) |
-| Postdoctoral Researchers           | Brennan Lowery ([blowery@grenfell.mun.ca](mailto:blowery@grenfell.mun.ca)|
+| Team Leads                         | [Erica Samms Hurley](mailto:s96ejs@mun.ca)<br>[Heather Hall](mailto:h.hall@uwaterloo.ca)<br>[Kelly Vodden](mailto:k.vodden@mun.ca) |
+| Co-Investigators and Collaborators | [Billy Newell](mailto:wnewell@grenfell.mun.ca) - Business |
+| Postdoctoral Researchers           | [Brennan Lowery](mailto:blowery@grenfell.mun.ca) |
 | Research Assistants                | Jason Penney<br>Seyi Awosiyan<br>Tara Cashen<br>Marie Lopez Cruz |
 | PhD Students                       | Avery Velez<br>Bensonm Gihangange<br>Brady Reid<br>Chantal Pennell<br>Mostaem Billah |
 | Masters Students                   | Lawrence Nditsi<br>Lisa Huang<br>Prashansa Kooshna<br>Sophie Bucholz<br> |
@@ -47,7 +47,7 @@ Develop innovative processing approaches for extracting value from marine raw ma
 
 | Role | Team |
 |------|--------------|
-| Team Leads                         | Kelly Hawboldt ([khawboldt@mun.ca](mailto:khawboldt@mun.ca))<br>Stephanie MacQuarrie ([stephanie_macquarrie@cbu.ca](mailto:stephanie_macquarrie@cbu.ca)) |
+| Team Leads                         | [Kelly Hawboldt](mailto:khawboldt@mun.ca)<br>[Stephanie MacQuarrie](mailto:stephanie_macquarrie@cbu.ca) |
 | Co-Investigators and Collaborators | Raymond Thomas - Principal Investigator<br>Alexandro Tsoupras<br>Bioactive Ingredients for Nutraceuticals |
 | Postdoctoral Researchers           | Sarah Ahmadkelaye |
 | PhD Students                       | Ali Shafiee<br>David Hopkins<br>Julia Pohling<br>Benson Gihangange<br>Yuna Zhang |
@@ -65,7 +65,7 @@ Research conducted by this work package seeks to assess the quality and safety o
 
 | Role | Team |
 |------|--------------|
-| Team Leads                         | Raymond Thomas ([rthoma2@uwo.ca](mailto:rthoma2@uwo.ca)) |
+| Team Leads                         | [Raymond Thomas](mailto:rthoma2@uwo.ca) |
 | Co-Investigators and Collaborators | Alexandro Tsoupras - Bioactive Ingredients for Nutraceuticals<br>Atushi Miyawaki - Bioimaging and biosensor development<br>Bohdan Luhovyy - Applied human nutrition<br>Ioannis Zebetakis - Functional Foods and Nutraceuticals<br>Svetlana Yurgel - Plant growth and development |
 | Postdoctoral Researchers           | Septila Renata |
 | PhD Students                       | Abayomi Taiwo<br>Brian Christiani<br>Elham Momeny |
@@ -84,7 +84,7 @@ The goals will be to investigate the development, formulation and testing of fun
 
 | Role | Team |
 |------|--------------|
-| Team Leads                         | Javier Santander ([jsantander@mun.ca](mailto:jsantander@mun.ca))<br>Lord Abbey ([LAbbey@dal.ca](mailto:LAbbey@dal.ca))<br>Mumtaz Cheema ([macheema@mun.ca](mailto:macheema@mun.ca)) |
+| Team Leads                         | [Javier Santander](mailto:jsantander@mun.ca)<br>[Lord Abbey](mailto:LAbbey@dal.ca)<br>[Mumtaz Cheema](mailto:macheema@mun.ca)) |
 | Co-Investigators and Collaborators | Lakshman Galagedara - Land and Water Management<br>Sukhinder Cheema - Biochemistry<br>Svetlana Yurgel - Plant Growth and Development |
 | Postdoctoral Researchers           | Zia-ul Islam<br>Vimbie Machimbirike |
 | PhD Students                       | Uzma Sharafat |
@@ -101,7 +101,7 @@ The purpose and goals of work package 5 are to assess the health benefits of raw
 
 | Role | Team |
 |------|--------------|
-| Team Leads                         | Sukhinder Cheema ([skaur@mun.ca](mailto:skaur@mun.ca))|
+| Team Leads                         | [Sukhinder Cheema](mailto:skaur@mun.ca)|
 | Co-Investigators and Collaborators | Jacqueline Blundell - Brain Health and Cognitive Function<br>Karen Doody - Cell Biology of Ageing and Inflammation<br>Atsushi Miyawaki - Bioimaging and Biosensor Development<br>Fabien Basset - Effect of Food on Disease in Human Clinical Studies<br>Ionnis Zebetakis - Functional Foods and Nutraceuticals<br>Edward Randell - Biochemical Markers of Disease<br>Bohdan Luhovyy - Applied Human Nutrition |
 | Research Assistants                | Cecilia Uzca Sornoza |
 | PhD Students                       | Sakshi Hans |
@@ -122,7 +122,7 @@ Finally, this work package will also explore how other regions in the North Atla
 
 | Role | Team |
 |------|--------------|
-| Team Leads                         | Billy Newell ([r34wjn@mun.ca](mailto:r34wjn@mun.ca)) |
+| Team Leads                         | [Billy Newell](mailto:r34wjn@mun.ca) |
 | Co-Investigators and Collaborators | Heather Hall - Environment, Enterprise and Development<br>Kelly Vodden - Environmental Policy<br>Leo-Paul Dana - Entrepreneurship |
 | Postdoctoral Researchers           | Julie Mallet |
 | Research Assistants                | Ashtin King |
@@ -138,10 +138,10 @@ Facilitate interconnection between other work packages, following Memorial Unive
 3. Conduct and support overall project and WPT assessment, monitoring, and evaluation activities that will ensure continuous project improvement and attainment of project goals and WPT objectives.
 
 | Role | Team |
-|------|--------------|
-| Team Leads                         | Mery Perez ([maperez@mun.ca](mailto:maperez@mun.ca))<br>Kelly Vodden ([kvodden@mun.ca](mailto:kvodden@mun.ca))<br>Erica Hurley ([s96ejs@mun.ca](mailto:s96ejs@mun.ca)) |
-| PhD Students                       | Abdul-Latif Alhassan<br><br>Benson Gihangange |
-| Masters Students                   | Mauricio Rodriguez |
+|------|-------------|
+| Team Leads         | [Mery Perez](mailto:maperez@mun.ca)<br>[Kelly Vodden](mailto:kvodden@mun.ca)<br>[Erica Hurley](mailto:s96ejs@mun.ca) |
+| PhD Students       | Abdul-Latif Alhassan<br><br>Benson Gihangange |
+| Masters Students   | Mauricio Rodriguez |
 
 ### Work Package 8: Data Management
 #### Purpose
@@ -153,6 +153,6 @@ Establish a data management system that upholds the OCAP principles of Indigenou
 
 | Role | Team |
 |------|--------------|
-| Team Leads                         | Jimmy Breen ([jimmy.breen@thekids.org.au](mailto:jimmy.breen@thekids.org.au))<br>Flavia Esposito ([flavia.esposito@uniba.it](mailto:flavia.esposito@uniba.it))  |
+| Team Leads                         | [Jimmy Breen](mailto:jimmy.breen@thekids.org.au)<br>[Flavia Esposito](mailto:flavia.esposito@uniba.it)  |
 | Co-Investigators and Collaborators | Nicoletta Del Buono - Numerical Analysis<br>Adam Heterick - Indigenous Data Sovereignty and Data Systems |
-| Research Assistant                 | Holly Massacci |
+| Research Assistants                | Holly Massacci<br>Sehaj Dhariwal<br>Allison Foster |
