@@ -83,7 +83,7 @@ The goals will be to investigate the development, formulation and testing of fun
 5. Develop bio-materials and biosensors from marine-based organisms such as eels.
 
 | Role | Team |
-|------|--------------|
+|------|------|
 | Team Leads                         | [Javier Santander](mailto:jsantander@mun.ca)<br>[Lord Abbey](mailto:LAbbey@dal.ca)<br>[Mumtaz Cheema](mailto:macheema@mun.ca)) |
 | Co-Investigators and Collaborators | Lakshman Galagedara - Land and Water Management<br>Sukhinder Cheema - Biochemistry<br>Svetlana Yurgel - Plant Growth and Development |
 | Postdoctoral Researchers           | Zia-ul Islam<br>Vimbie Machimbirike |
@@ -91,21 +91,22 @@ The goals will be to investigate the development, formulation and testing of fun
 
 ### Work Package 5: Product Health Benefits
 #### Purpose
-The purpose and goals of work package 5 are to assess the health benefits of raw materials, novel extracts, and other bioactives from marine biomass. Targeted diseases are: diabetes, obesity, cardiovascular diseases, arthritis, cancer, brain health, inflammation, cell-cycle regulation, and other related metabolic disorders. In-vitro cell culture models will be used for rapid screening of extracts / isolates / bioactives for their potential health benefits. Marine isolates and bioactives showing potential for health benefits will then be tested in animal models to establish dose, duration, sex-specific effects, safety, efficacy, and toxicity. Specialized techniques (bioluminescence imaging) will be used to study brain function. Furthermore, the health benefits of developed functional foods and nutraceuticals will be confirmed in specific animal models. Human clinical trials will be conducted to evaluate the efficacy of existing and/or newly developed functional foods and nutraceticals to bring niche products to market. Data generated will be shared with other work packages to ensure the informatics database developed by the consortium is comprehensive, useful and translational to project-partners and industry. In collaboration with community and industry partners, novel products will be launched to improve population and community health, particularly in rural, coastal and Indigenous communities.
+The purpose of WPT5 is to establish health benefits of isolates, functional foods and nutraceuticals (FFN) from marine products. WPT5 will contribute to this project’s broad goals by assessing the health benefits of raw materials, novel extracts, and other bioactives from marine biomass identified by WPT2-4.
 
 #### Objectives
-1. Identify marine biomass for potential health benefits. Work with WPT2 to generate isolates/bioactives and to determine if scale-up is warranted.
-2. Work with WPT3 to conduct qualitative/quantitative analysis of targeted isolates, and conduct cell culture (rapid testing), and animal studies (safety, dose, efficacy) to establish health benefits.
-3. Work with WPT4 to develop functional foods and nutraceuticals, conduct animal studies and human clinical trials to establish health benefits.
-4. Share functional foods/nutraceuticals showing promise with WPT1/6-8 and support them to determine markets for novel isolates and bioactives identified.
+- 5.1. Identify marine biomass that can be explored for potential health benefits
+- 5.2. Work closely with WPT2 to generate isolates/bioactives, and to determine whether scale-up is warranted.
+- 5.3. Work with WPT3 to conduct qualitative/quantitative analysis of targeted isolates, and conduct in-vitro and in-vivo studies.
+- 5.4. Working with WPT4, develop FFN, and conduct animal studies and human clinical trials.
+- 5.5. Share FFN showing promise with WPT1/6-8, and support them to determine markets for novel isolates and bioactives identified.
 
 | Role | Team |
 |------|--------------|
-| Team Leads                         | [Sukhinder Cheema](mailto:skaur@mun.ca)|
-| Co-Investigators and Collaborators | Jacqueline Blundell - Brain Health and Cognitive Function<br>Karen Doody - Cell Biology of Ageing and Inflammation<br>Atsushi Miyawaki - Bioimaging and Biosensor Development<br>Fabien Basset - Effect of Food on Disease in Human Clinical Studies<br>Ionnis Zebetakis - Functional Foods and Nutraceuticals<br>Edward Randell - Biochemical Markers of Disease<br>Bohdan Luhovyy - Applied Human Nutrition |
+| Team Leads                         | [Sukhinder Cheema](mailto:skaur@mun.ca)<br>[Karen Doody](mailto:u06kmd@mun.ca) |
+| Co-Investigators and Collaborators | Atsushi Miyawaki - Bioimaging and Biosensor Development<br>Fabien Basset - Effect of Food on Disease in Human Clinical Studies<br>Ionnis Zebetakis - Functional Foods and Nutraceuticals<br>Edward Randell - Biochemical Markers of Disease<br>Bohdan Luhovyy - Applied Human Nutrition |
 | Research Assistants                | Cecilia Uzca Sornoza |
-| PhD Students                       | Sakshi Hans |
-| Masters Students                   | Narmada Weerakkody<br>Shima Hajipour |
+| PhD Students                       | Sakshi Hans<br>Farinaz Aarabi Najvani |
+| Masters Students                   | Narmada Weerakkody<br>Shima Hajipour<br>Mahya Akbari |
 
 ### Work Package 6: Entrepreneurship and Business Development
 #### Purpose
