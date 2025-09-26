@@ -9,7 +9,6 @@ title: Industry Partners
 
 - **ABRI-Tech** 
 - **Carino Processing** 
-- **Clearwater Seafoods** 
 - **Kean Marine**
 - **Newfoundland Aquaculture Industry Association** (NAIA)
 - **Newfoundland Seaweed Company**
