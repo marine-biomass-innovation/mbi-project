@@ -1,6 +1,6 @@
 ---
 title: Project Description
-layout: page
+layout: welcome
 ---
 
 * this ordered seed list will be replaced by the toc
@@ -8,7 +8,8 @@ layout: page
 
 ![MBI Logo](assets/img/projectdescription.png)
 
-The Marine Biomass Innovation (MBI) Project is working to develop sustainable marine-based entrepreneurship with rural and coastal Mi’kmaw communities and local industries through repurposing of marine biomass in western Newfoundland.
+# What is the Marine Biomass Innovation project?
+The Marine Biomass Innovation (MBI) is a multi-year transdisciplinary research project funded by the federal New Frontiers Research Fund-Transformation (NFRF). MBI is a collaborative project involving researchers from nine Canadian and international universities, and five Mi’kmaw governing organizations (Flat Bay Band, Benoit First Nation, St. George's Indian Band, Three Rivers Mi’kmaq Band, and Elmastukwek First Nation - Benoit's Cove Indian Band). MBI seeks to apply a novel integrated approach for repurposing marine biomass to improve economic sustainability of rural coastal, remote, and Indigenous communities in two specific sub-regions of Western Newfoundland (Bay St. George and Bay of Islands).
 
 ## What is Biomass? 
 
