@@ -49,8 +49,6 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Project Description
-    url:               /project-description/
   - title:             Etuaptmumk
     url:               /etuaptmumk/
   - title:             Research Teams
