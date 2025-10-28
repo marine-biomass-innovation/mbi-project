@@ -96,13 +96,3 @@ The Benoit’s Cove Indian Band is one of the original Bands under the Federatio
 Over the last 10 years the local Band wasn’t active causing a loss of sense of identity and recognition as a historical Indigenous community. A new generation of Indigenous community members took on the task of reviving the once thriving Band to bring back gatherings and teachings to the local communities to restore our ways of life.
 
 The mandate of the Band is to promote social, cultural, and economic development of the membership. The Band is committed to the restoration and preservation of their traditional ways, and to protecting Mother Earth as guided by the seven sacred teachings: Wisdom, Honesty, Respect, Bravery, Truth, Humility and Love. Consistent with the commitment to restoring and preserving its traditions and protecting Mother Earth, it has sought and participated in several different activities to meet these objectives.
-
-
-______________
-
-### Corner Brook Ward [(Qalipu First Nation)](https://qalipu.ca/)
-
-> **Ward Councillor:** Sherry Dean
-
-The Corner Brook Ward is an electoral area of Qalipu Mi'kmaq First Nation. The Corner Brook Ward encompasses all areas of the Bay of Islands except for Halfway Point to Lark Harbour (this area is part of Elmastukwek First Nation as well as the Qalipu First Nation Benoit's Cove Ward). From Mount Moriah to Cox's Cove, there is currently no Local/Community Band. Previous to the disbanding of the FNI (Federation of Newfoundland Indians) There was a Corner Brook Indian Band Council. Because there is no Local/Community Band for this area of the Bay of Islands, Qalipu First Nation Corner Brook Ward Councellior, Sherry Dean has been elected to represent the needs and desires of the Mi'kmaw people within this area on behalf of the MBI Project. 
-
