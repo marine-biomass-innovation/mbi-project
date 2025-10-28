@@ -1,11 +1,63 @@
 ---
 layout: welcome
-title: Welcome
+title: Project Description
 cover: true
 posts_page: /blog/
 ---
 
-![MBI_Intro](/assets/img/MBI_Intro.png)
+* this ordered seed list will be replaced by the toc
+{:toc}
+
+![MBI Logo](assets/img/projectdescription.png)
+
+# What is the Marine Biomass Innovation project?
+The Marine Biomass Innovation (MBI) is a multi-year transdisciplinary research project funded by the federal New Frontiers Research Fund-Transformation (NFRF). MBI is a collaborative project involving researchers from nine Canadian and international universities, and five Mi’kmaw governing organizations (Flat Bay Band, Benoit First Nation, St. George's Indian Band, Three Rivers Mi’kmaq Band, and Elmastukwek First Nation - Benoit's Cove Indian Band). MBI seeks to apply a novel integrated approach for repurposing marine biomass to improve economic sustainability of rural coastal, remote, and Indigenous communities in two specific sub-regions of Western Newfoundland (Bay St. George and Bay of Islands).
+
+## What is Biomass? 
+
+For MBI, biomass refers to material that comes from the natural world or from a process that humans use to transform that material. We are particularly interested in biomass from the ocean or marine processes, like fish species, aquatic plants, or materials that connect the ocean with the land. We are interested in both primary biomass materials (e.g. an entire fish) and material left over after processing (e.g. fish skin, shrimp shells, etc.). As we investigate the potential for innovation using these marine biomass sources, we will carefully consider not only their economic value but also their cultural, spiritual, ecological, and social value in evaluating potential opportunities.   
+
+## Problem 
+
+Historically, marine industries have been key economic drivers in rural, coastal and Indigenous communities. However, communities in such regions are often left ill-equipped to achieve the full benefit of ocean-based economic opportunities emerging from innovative technology because of capacity issues, lack of capital to invest, outmigration of youth or skilled workers, among other factors. The lack of full and efficient utilization of marine biomass is unsustainable. We recognize that cultural sustainability and healthy populations are integral to resilient rural regions and that eco-innovation is key to the economic resilience of these communities.    
+
+## Solution 
+
+In partnership with Mi’kmaw communities across two regions on the western portion of the island of Newfoundland (Bay St. George and Bay of Islands), we seek to collaborate and co-develop sustainable, innovative, marine-based entrepreneurship opportunities and technologies for local industries and community-based organizations. We will work in partnership with community partners and industry partners to develop innovative products that are sustainable, globally competitive, and economically and technically feasible.  
+
+## Innovation 
+
+The MBI Project is guided by [Etuaptmumk](https://mbiproject.ca/etuaptmumk/) (Two-Eyed Seeing), a Mi’kmaw Guiding Principle developed by Mi’kmaq Elders and knowledge keepers Albert and Murdena Marshall. Etuaptmumk refers to learning to see from one eye with the strengths of Indigenous knowledge and ways of knowing, and from the other eye with the strengths of Western knowledge and ways of knowing and learning to use both eyes for the benefit of all. The MBI Project brings together coastal, rural, and Mi’kmaw communities, academic researchers, and industry partners to employ a collaborative research approach.
+
+## Funding
+
+The MBI Project is supported by the Government of Canada’s New Frontiers in Research Fund (NFRF) and contributions from collaborators. It has received almost $16M in funding over six years
+
+____________________________
+
+# Governance Structure
+
+The MBI Project is guided by a governance plan. The governance plan describes the overall governance and decision-making process for the MBI Project and its team members, partners, participants, and other individuals and organizations related to the project. The project, and the governance plan, are guided by a multi-faceted, inclusive, participatory, multisectoral, and interdisciplinary approach to governance and project management.  
+
+To ensure both effective communication across the team, and that the project remains focused on its goals and guiding frameworks, the project has a well-established management structure consisting of a Project Management Committee (PMC), Administration Leadership Team (ALT), Monitoring and Evaluation Advisory Committee (MEAC), two Regional Community Advisory Committees (RCAC), and eight Work Package Teams (WPTs).
+
+***
+
+![Governance Structure](/assets/img/govt.png)
+> Governance Structure Diagram detailing the Project Management Committee (PMC), Administration Leadership Team (ALT), Monitoring and Evaluation Advisory Committee (MEAC), two Regional Community Advisory Committees (RCAC), and eight Work Package Teams (WPTs).
+  
+
+
+| **ROLE**                                           | **RESPONSIBILITY**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nominated Principal Investigator (PI)**          | The PI has primary responsibility for the overall intellectual direction of the research and is accountable, with the host institution, for overall coordination of the grant’s overall financial and administrative aspects.                                                                                                                                                                                                                                                                      |
+| **Co-principal Investigator (Co-PI)**              | The Co-PI assumes project leadership when the PI is not available. Shares intellectual leadership with the PI and other team members; plays a significant role in planning and conducting the research.                                                                                                                                                                                                                                                                                                  |
+| **Project Management Committee (PMC)**             | The PMC exists to ensure oversight, reporting, and integration, with the ultimate responsibility to ensure the success of the MBI Project. The PMC meets to establish policy, receive project status updates, ensure decisions and research activities align with the project’s scope, schedule, and budget, and monitor progress against goals to ensure accountability.                                                                                                                                |
+| **Administration Leadership Team (ALT)**           | The ALT exists to ensure the project meets all policies, protocols, and requirements of the institutions, partners, and funding agencies and to guide the implementation of the project with emphasis on ensuring that the goals, objectives, and activities underpinning it always remain central to the initiative.                                                                                                                                                                                    |
+| **Regional Community Advisory Committees (RCACs)** | Two RCACs will support regional components of the project in the Bay of Islands and in Bay St. George. These committees will help to ensure regional engagement with the project, including rural, coastal, and Mi’kmaq communities, academic partners, businesses, organizations, and other partners. The RCACs may also come together occasionally to discuss broader project themes/objectives impacting both regions.                                  |
+| **Monitoring and Evaluation Advisory Committee**   | The MEAC exists to provide input and support to the Marine Biomass Innovation Project in relation to milestones, timelines, Etuaptmumk, and developmental approach on an ongoing basis.                                                                                                                                                                                                                                                                                                                  |
+| **Work Package Teams**                             | The eight WPTs exist to carry out research as outlined in the project proposal. The ultimate goals of the WPTs are specific to the individual WPT. Each WPT is led by a lead or co-leads. The WPT leads and co-leads ensure engagement of all WPT members and update the Project Manager, ALT, and PMC, on their timelines, milestones, and deliverables, and how Etuaptmumk is informing their research.                                                                                                |
+| **Trainee Network**                                | The Trainee Network works alongside communities and industry partners while also engaging with government and other stakeholders, to implement research findings and expose communities and participating stakeholders to new and emerging sustainability opportunities illuminated by the project. The Trainee Network serve as valuable, contributing members of their WPTs and, with the guidance of their respective WPT lead(s), play a key role in helping WPTs attain their goals and objectives. |
 
 
 # Newest Blog Posts
