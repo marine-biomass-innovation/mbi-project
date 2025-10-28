@@ -4,7 +4,7 @@ title: 'Academic Partners'
 caption: MBI Project Academic Partners
 description: >
   Breakdown of Academic Partners working with the MBI Project
-date: 14 Dec 2022
+date: 28 Oct 2025
 image: 
   path: /assets/img/project-partners/academic.png
 no_groups: true
@@ -25,4 +25,4 @@ sitemap: false
 - **[University of Bari Aldo Moro](https://www.uniba.it/en)** (Italy) 
 - **[University of Limerick](https://www.ul.ie/)** (Ireland) 
 - **[University of Waterloo](https://uwaterloo.ca/)** (Canada)
-- **[University of Western Ontario](https://www.uwo.ca/)** (Canada) - Administering Institution
+- **[University of Western Ontario](https://www.uwo.ca/)** (Canada)
