@@ -29,11 +29,11 @@ Assessment of the socio-economic and community development context for product i
 
 | Role | Team |
 |------|--------------|
-| Team Leads                         | [Erica Samms Hurley](mailto:s96ejs@mun.ca)<br>[Heather Hall](mailto:h.hall@uwaterloo.ca)<br>[Kelly Vodden](mailto:k.vodden@mun.ca) |
+| Team Leads                         | [Kelly Vodden](mailto:k.vodden@mun.ca) (Principal Investigator)<br> [Erica Samms Hurley](mailto:s96ejs@mun.ca) (Co-PI)<br>[Heather Hall](mailto:h.hall@uwaterloo.ca) |
 | Postdoctoral Researchers           | [Brennan Lowery](mailto:blowery@grenfell.mun.ca) |
 | Research Assistants                | Jason Penney<br>Seyi Awosiyan<br>Tara Cashen<br>Marie Lopez Cruz |
 | PhD Students                       | Avery Velez<br>Bensonm Gihangange<br>Brady Reid<br>Chantal Pennell<br>Mostaem Billah |
-| Masters Students                   | Lawrence Nditsi<br>Lisa Huang<br>Prashansa Kooshna<br>Sophie Bucholz<br> |
+| Masters Students                   | Lawrence Nditsi<br>Lisa Huang<br>Prashansa Kooshna<br>Sophie Bucholz |
 
 
 ### Work Package 2: Green Processing and Engineering
@@ -47,8 +47,8 @@ Develop innovative processing approaches for extracting value from marine raw ma
 
 | Role | Team |
 |------|--------------|
-| Team Leads                         | [Kelly Hawboldt](mailto:khawboldt@mun.ca)<br>[Stephanie MacQuarrie](mailto:stephanie_macquarrie@cbu.ca) |
-| Co-Investigators and Collaborators | Raymond Thomas - Principal Investigator<br>Alexandro Tsoupras |
+| Team Leads                         | [Kelly Hawboldt](mailto:khawboldt@mun.ca) (Co-PI)<br>[Stephanie MacQuarrie](mailto:stephanie_macquarrie@cbu.ca) |
+| Co-Investigators and Collaborators | Raymond Thomas<br>Alexandro Tsoupras |
 | Postdoctoral Researchers           | Sarah Ahmadkelaye |
 | PhD Students                       | Ali Shafiee<br>David Hopkins<br>Julia Pohling<br>Benson Gihangange<br>Yuna Zhang |
 | Masters Students                   | Yuana Yeusika |
@@ -83,7 +83,7 @@ The goals will be to investigate the development, formulation and testing of fun
 
 | Role | Team |
 |------|------|
-| Team Leads                         | [Javier Santander](mailto:jsantander@mun.ca)<br>[Lord Abbey](mailto:LAbbey@dal.ca)<br>[Mumtaz Cheema](mailto:macheema@mun.ca)) |
+| Team Leads                         | [Javier Santander](mailto:jsantander@mun.ca)<br>[Lord Abbey](mailto:LAbbey@dal.ca)<br>[Mumtaz Cheema](mailto:macheema@mun.ca) |
 | Co-Investigators and Collaborators | Lakshman Galagedara<br>Sukhinder Cheema |
 | Postdoctoral Researchers           | Zia-ul Islam<br>Vimbie Machimbirike |
 | PhD Students                       | Uzma Sharafat |
@@ -122,8 +122,8 @@ Finally, this work package will also explore how other regions in the North Atla
 
 | Role | Team |
 |------|--------------|
-| Team Leads                         | [Billy Newell](mailto:r34wjn@mun.ca) |
-| Co-Investigators and Collaborators | Heather Hall<br>Kelly Vodden<br>Leo-Paul Dana |
+| Team Leads                         | Billy Newell |
+| Co-Investigators and Collaborators | Heather Hall<br>Kelly Vodden (PI)<br>Leo-Paul Dana |
 | Postdoctoral Researchers           | Julie Mallet |
 | Research Assistants                | Ashtin King |
 
@@ -139,7 +139,7 @@ Facilitate interconnection between other work packages, following Memorial Unive
 
 | Role | Team |
 |------|-------------|
-| Team Leads         | [Mery Perez](mailto:maperez@mun.ca)<br>[Kelly Vodden](mailto:kvodden@mun.ca)<br>[Erica Hurley](mailto:s96ejs@mun.ca) |
+| Team Leads         | [Mery Perez](mailto:maperez@mun.ca)<br>[Kelly Vodden](mailto:kvodden@mun.ca) (PI)<br>[Erica Hurley](mailto:s96ejs@mun.ca) (Co-PI) |
 | PhD Students       | Abdul-Latif Alhassan<br><br>Benson Gihangange |
 | Masters Students   | Mauricio Rodriguez |
 
@@ -155,4 +155,4 @@ Establish a data management system that upholds the OCAP principles of Indigenou
 |------|--------------|
 | Team Leads                         | [Jimmy Breen](mailto:jimmy.breen@thekids.org.au)<br>[Flavia Esposito](mailto:flavia.esposito@uniba.it)  |
 | Co-Investigators and Collaborators | Nicoletta Del Buono<br>Adam Heterick |
-| Research Assistants                | Holly Massacci<br>Sehaj Dhariwal<br>Allison Foster |
+| PhD Students                | Holly Massacci<br>Sehaj Dhariwal<br>Allison Foster |
