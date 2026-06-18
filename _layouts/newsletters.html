@@ -1,0 +1,9 @@
+---
+layout: base
+---
+
+{% assign newsletters = site.newsletters | sort: 'date' | reverse %}
+
+{% for newsletter in newsletters %}
+  {% include_cached components/post.html post=newsletter no_link_title=page.no_link_title no_excerpt=page.no_excerpt hide_image=page.hide_image %}
+{% endfor %}

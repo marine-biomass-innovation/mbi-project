@@ -313,6 +313,10 @@ collections:
     permalink:         /project-partners/:path/
     output:            true
 
+  newsletters:
+    permalink:         /newsletter/:path/
+    output:            true
+
 
 # File inclusion/exclusion
 # ----------------------------------------------------------------------------------------
