@@ -55,6 +55,8 @@ menu:
     url:               /team/
   - title:             Project Partners
     url:               /project-partners/
+  - title:             Newsletter
+    url:               /newsletter/
   - title:             Blog
     url:               /blog/
 
