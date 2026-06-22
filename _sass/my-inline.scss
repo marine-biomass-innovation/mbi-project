@@ -1,25 +1,25 @@
 // Uncomment to disable dingbat icons below posts
 // hr.dingbat { display: none }
+
+// PDF embed (pdf.js viewer in an iframe).
+// The iframe must have a DEFINITE height so the pdf.js viewer has a real
+// viewport to render into. A percentage height on the iframe (height: 100%)
+// relies on the parent having a resolved height; when the parent's height
+// comes only from `aspect-ratio`, that chain is unreliable and the iframe can
+// collapse, showing the dark wrap background ("black box"). Use a viewport
+// height instead — it is definite from the first layout pass.
 .pdf-embed-wrap {
-  width: min(90vw, 900px);
-  max-width: 90vw;
-  position: relative;
-  left: 50%;
-  transform: translateX(-50%);
-  aspect-ratio: 210 / 297;
-  overflow: hidden;
+  width: 100%;
+  max-width: 900px;
+  margin: 1.5rem auto;
   background-color: var(--body-bg);
   border: 1px solid var(--border-color);
 }
 
 .pdf-embed {
+  display: block;
   width: 100%;
-  height: 100%;
+  height: 85vh;
+  min-height: 480px;
   border: none;
-}
-
-@media (max-width: 600px) {
-  .pdf-embed-wrap {
-    aspect-ratio: 210 / 297;
-  }
 }

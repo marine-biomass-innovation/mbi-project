@@ -41,6 +41,8 @@ See https://github.com/adobe-type-tools/cmap-resources
 
 <!-- This snippet is used in production (included from viewer.html) -->
 <link rel="resource" type="application/l10n" href="locale/locale.json" />
+<!-- Polyfill for Map.prototype.getOrInsert(Computed); must run before pdf.js modules -->
+<script src="upsert-polyfill.js"></script>
 <script src="../build/pdf.mjs" type="module"></script>
 
     <link rel="stylesheet" href="viewer.css" />
