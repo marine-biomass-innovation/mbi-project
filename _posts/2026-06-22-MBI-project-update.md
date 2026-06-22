@@ -14,9 +14,6 @@ links:
     url: /assets/pdf/2026-06-22-MBI-project-update.pdf
 ---
 
-Please read below to find out the latest news from the MBI project,
-
-
 
 
 
