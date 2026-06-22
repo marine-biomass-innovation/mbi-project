@@ -18,10 +18,9 @@ Learn about the latest news from the MBI project below.
 
 <br>
 <br>
-
-<iframe 
-  src="https://docs.google.com/gview?url=https://github.com/marine-biomass-innovation/mbi-project/tree/newsletter-launch/assets/pdf/2026-06-22-MBI-project-update.pdf&embedded=true" style="width:100%;height:1000px;" frameborder="0">
+<object
+  data="/assets/pdf/2026-06-22-MBI-project-update.pdf" width="100%" height="1000" type='application/pdf'>
 <p>Your browser does not support embedded PDFs.
     <a href="/assets/pdf/2026-06-22-MBI-project-update.pdf">Download the newsletter here.</a>
   </p>
-</iframe>
+  </object>
