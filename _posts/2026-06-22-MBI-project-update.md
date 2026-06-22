@@ -16,7 +16,17 @@ links:
 
 Catch up on the latest updates from the MBI project.
 
+Test: pdfjs
+<div class="pdf-embed-wrap">
+  <iframe
+    src="{{ '/assets/pdfjs/web/viewer.html?file=' | append: site.url | append: site.baseurl | append: '/assets/pdf/2026-06-22-MBI-project-update.pdf' | relative_url }}"
+    class="pdf-embed"
+    frameborder="0">
+  </iframe>
+</div>
 
+
+Original: object/iframe
 <div class="pdf-embed-wrap">
   <object
     data="/assets/pdf/2026-06-22-MBI-project-update.pdf#toolbar=0&navpanes=0&scrollbar=1&view=FitH&zoom=page-width"
