@@ -19,7 +19,7 @@ Catch up on the latest updates from the MBI project.
 
 <div class="pdf-embed-wrap">
   <object
-    data="/assets/pdf/2026-06-22-MBI-project-update.pdf#toolbar=0&navpanes=0&scrollbar=0&view=FitH&pagemode=none"
+    data="/assets/pdf/2026-06-22-MBI-project-update.pdf#toolbar=0&navpanes=0&scrollbar=1&view=FitH&zoom=page-width"
     type="application/pdf"
     class="pdf-embed">
     <iframe
