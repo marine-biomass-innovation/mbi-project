@@ -14,12 +14,12 @@ links:
     url: /assets/pdf/2026-06-22-MBI-project-update.pdf
 ---
 
-Catch up on the latest news from the MBI project.
+Catch up on the latest updates from the MBI project.
 
 
 <div class="pdf-embed-wrap">
   <object
-    data="/assets/pdf/2026-06-22-MBI-project-update.pdf#toolbar=0&navpanes=0&scrollbar=0&view=FitH"
+    data="/assets/pdf/2026-06-22-MBI-project-update.pdf#toolbar=0&navpanes=0&scrollbar=0&view=FitH&pagemode=none"
     type="application/pdf"
     class="pdf-embed">
     <iframe
