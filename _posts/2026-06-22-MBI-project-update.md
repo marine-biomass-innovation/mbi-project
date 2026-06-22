@@ -14,13 +14,21 @@ links:
     url: /assets/pdf/2026-06-22-MBI-project-update.pdf
 ---
 
-Learn about the latest news from the MBI project below.
+Catch up on the latest news from the MBI project.
 
-<br>
-<br>
-<object
-  data="/assets/pdf/2026-06-22-MBI-project-update.pdf" width="100%" height="1000" type='application/pdf'>
-<p>Your browser does not support embedded PDFs.
-    <a href="/assets/pdf/2026-06-22-MBI-project-update.pdf">Download the newsletter here.</a>
-  </p>
+
+<div class="pdf-embed-wrap">
+  <object
+    data="/assets/pdf/2026-06-22-MBI-project-update.pdf#toolbar=0&navpanes=0&scrollbar=0&view=FitH"
+    type="application/pdf"
+    class="pdf-embed">
+    <iframe
+      src="https://docs.google.com/viewer?url={{ site.url }}/assets/pdf/2026-06-22-MBI-project-update.pdf&embedded=true"
+      class="pdf-embed"
+      frameborder="0">
+      <p>Your browser doesn't support embedded PDFs.
+        <a href="/assets/pdf/2026-06-22-MBI-project-update.pdf">Download the PDF</a> to view it.
+      </p>
+    </iframe>
   </object>
+</div>
