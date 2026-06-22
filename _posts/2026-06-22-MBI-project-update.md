@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MBI Project Update
+title: Project Update
 image:
   path:  /assets/img/blog/2026-06-22-MBI-project-update.png
   srcset:
@@ -16,14 +16,21 @@ links:
 
 
 
-
-<iframe
-  src="/assets/pdf/2026-06-22-MBI-project-update.pdf"
+<object
+  data="/assets/pdf/2026-06-22-MBI-project-update.pdf#view=Fit"
+  type="application/pdf"
   width="100%"
-  height="900px"
-  style="border: none;">
+  height="100%"
+>
+  <iframe
+    src="/assets/pdf/2026-06-22-MBI-project-update.pdf#view=Fit"
+    width="100%"
+    height="100%"
+    style="border: none;"
+  >
   <p>Your browser does not support embedded PDFs.
     <a href="/assets/pdf/2026-06-22-MBI-project-update.pdf">Download the newsletter here.</a>
   </p>
 </iframe>
+</object>
 
