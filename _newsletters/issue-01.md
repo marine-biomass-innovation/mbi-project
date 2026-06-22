@@ -14,13 +14,25 @@ links:
     url: /assets/newsletters/pdf/issue-01.pdf
 ---
 
+{% assign pdf_url = '/assets/newsletters/pdf/issue-01.pdf' | relative_url %}
+{% assign viewer_url = '/assets/pdfjs/web/viewer.html' | relative_url %}
 
-<iframe
-  src="/assets/newsletters/pdf/issue-01.pdf"
-  width="100%"
-  height="900px"
-  style="border: none;">
-  <p>Your browser does not support embedded PDFs.
-    <a href="/assets/newsletters/pdf/issue-01.pdf">Download the newsletter here.</a>
-  </p>
-</iframe>
+<div class="pdf-embed-wrap">
+  <iframe id="pdf-viewer" class="pdf-embed" title="Newsletter | Issue 01 — PDF viewer" allowfullscreen></iframe>
+</div>
+
+<script>
+  (function () {
+    var viewer = {{ viewer_url | jsonify }};
+    var file = {{ pdf_url | url_encode | jsonify }};
+    var theme = document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
+    document.getElementById('pdf-viewer').src = viewer + '?file=' + file + '&theme=' + theme;
+  })();
+</script>
+
+<noscript>
+  <p>The PDF viewer needs JavaScript. You can
+    <a href="{{ pdf_url }}">download the PDF</a> instead.</p>
+</noscript>
+
+[Open the PDF in a new tab]({{ pdf_url }}){:target="_blank" rel="noopener"}
