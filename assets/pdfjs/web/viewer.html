@@ -1216,5 +1216,11 @@ See https://github.com/adobe-type-tools/cmap-resources
     </div>
     <!-- outerContainer -->
     <div id="printContainer"></div>
+      <script>
+  const params = new URLSearchParams(window.location.search);
+  if (params.get('theme') === 'dark') {
+    document.documentElement.setAttribute('data-theme', 'dark');
+  }
+</script>
   </body>
 </html>
