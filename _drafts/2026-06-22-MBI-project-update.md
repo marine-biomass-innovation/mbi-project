@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Marine Biomass Innovation (MBI) Project Update
+title: MBI Project Update
 image:
   path:  /assets/img/blog/2026-06-22-MBI-project-update.png
   srcset:
@@ -13,6 +13,12 @@ links:
   - title: Download PDF
     url: /assets/pdf/2026-06-22-MBI-project-update.pdf
 ---
+
+Please read below to find out the latest news from the MBI project,
+
+
+
+
 
 <iframe
   src="/assets/pdf/2026-06-22-MBI-project-update.pdf"
