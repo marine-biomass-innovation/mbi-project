@@ -17,6 +17,16 @@ links:
 Catch up on the latest updates from the MBI project.
 
 Test: pdfjs
+<script>
+  (function() {
+    const theme = document.documentElement.getAttribute('data-theme') || 'light';
+    const base = "{{ '/assets/pdfjs/web/viewer.html?file=' | append: site.url | append: site.baseurl | append: '/assets/pdf/2026-06-22-MBI-project-update.pdf' }}";
+    document.getElementById('pdf-viewer').src = base + '&theme=' + theme;
+  })();
+</script>
+<div class="pdf-embed-wrap">
+  <iframe id="pdf-viewer" class="pdf-embed" frameborder="0"></iframe>
+</div>
 <div class="pdf-embed-wrap">
   <iframe
     src="{{ '/assets/pdfjs/web/viewer.html?file=' | append: site.url | append: site.baseurl | append: '/assets/pdf/2026-06-22-MBI-project-update.pdf' | relative_url }}"
