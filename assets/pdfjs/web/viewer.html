@@ -47,6 +47,12 @@ See https://github.com/adobe-type-tools/cmap-resources
 
     <link rel="stylesheet" href="viewer.css" />
 
+  <style>
+    /* Embedded viewer: show only the zoom controls in the toolbar. */
+    #toolbarViewerLeft,
+    #toolbarViewerRight { display: none !important; }
+  </style>
+
   <script src="viewer.mjs" type="module"></script>
   </head>
 
@@ -1218,11 +1224,5 @@ See https://github.com/adobe-type-tools/cmap-resources
     </div>
     <!-- outerContainer -->
     <div id="printContainer"></div>
-      <script>
-  const params = new URLSearchParams(window.location.search);
-  if (params.get('theme') === 'dark') {
-    document.documentElement.setAttribute('data-theme', 'dark');
-  }
-</script>
   </body>
 </html>

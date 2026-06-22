@@ -18,17 +18,12 @@ links:
 {% assign viewer_url = '/assets/pdfjs/web/viewer.html' | relative_url %}
 
 <div class="pdf-embed-wrap">
-  <iframe id="pdf-viewer" class="pdf-embed" title="Newsletter | Issue 01 — PDF viewer" allowfullscreen></iframe>
+  <iframe
+    class="pdf-embed"
+    title="Newsletter | Issue 01 — PDF viewer"
+    src="{{ viewer_url }}?file={{ pdf_url | url_encode }}#page=1"
+    allowfullscreen></iframe>
 </div>
-
-<script>
-  (function () {
-    var viewer = {{ viewer_url | jsonify }};
-    var file = {{ pdf_url | url_encode | jsonify }};
-    var theme = document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
-    document.getElementById('pdf-viewer').src = viewer + '?file=' + file + '&theme=' + theme;
-  })();
-</script>
 
 <noscript>
   <p>The PDF viewer needs JavaScript. You can

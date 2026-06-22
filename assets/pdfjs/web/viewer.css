@@ -7748,14 +7748,3 @@ dialog :link{
     display:none;
   }
 }
-
-#toolbarContainer,
-#secondaryToolbar,
-#sidebarContainer,
-#loadingBar {
-  display: none !important;
-}
-
-#viewerContainer {
-  top: 0 !important;
-}
