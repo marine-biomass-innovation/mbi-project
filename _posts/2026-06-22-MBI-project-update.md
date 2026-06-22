@@ -18,17 +18,17 @@ Catch up on the latest updates from the MBI project.
 
 
 <div class="pdf-embed-wrap">
+   <iframe
+      src="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/marine-biomass-innovation/mbi-project/newsletter-launch/assets/pdf/2026-06-22-MBI-project-update.pdf&embedded=true"
+      class="pdf-embed"
+      frameborder="0">
   <object
     data="/assets/pdf/2026-06-22-MBI-project-update.pdf#toolbar=0&navpanes=0&scrollbar=1&view=FitH&zoom=page-width"
     type="application/pdf"
-    class="pdf-embed">
-    <iframe
-      src="https://docs.google.com/viewer?url={{ site.url }}/assets/pdf/2026-06-22-MBI-project-update.pdf&embedded=true"
-      class="pdf-embed"
-      frameborder="0">
+    class="pdf-embed">   
       <p>Your browser doesn't support embedded PDFs.
         <a href="/assets/pdf/2026-06-22-MBI-project-update.pdf">Download the PDF</a> to view it.
       </p>
-    </iframe>
   </object>
+  </iframe>
 </div>
