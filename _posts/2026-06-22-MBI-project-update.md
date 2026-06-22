@@ -14,16 +14,11 @@ links:
     url: /assets/pdf/2026-06-22-MBI-project-update.pdf
 ---
 
+<br>
+<br>
 
-
-<object
-  data="/assets/pdf/2026-06-22-MBI-project-update.pdf#view=Fit"
-  type="application/pdf"
-  width="100%"
-  height="100%"
->
   <iframe
-    src="/assets/pdf/2026-06-22-MBI-project-update.pdf#view=Fit"
+    src="/assets/pdf/2026-06-22-MBI-project-update.pdf#toolbar=0&navpanes=0"
     width="100%"
     height="100%"
     style="border: none;"
