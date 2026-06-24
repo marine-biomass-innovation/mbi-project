@@ -807,7 +807,7 @@ const defaultOptions = {
     kind: OptionKind.API + OptionKind.PREFERENCE
   },
   disableFontFace: {
-    value: true,
+    value: false,
     kind: OptionKind.API + OptionKind.PREFERENCE
   },
   disableRange: {
@@ -843,7 +843,7 @@ const defaultOptions = {
     kind: OptionKind.API
   },
   isOffscreenCanvasSupported: {
-    value: false,
+    value: true,
     kind: OptionKind.API
   },
   maxImageSize: {

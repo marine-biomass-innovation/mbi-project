@@ -1,3 +1,24 @@
+// --- BEGIN injected polyfills (mirror of web/polyfills.js; needed in the
+// worker's separate global scope for Safari/older browsers). pdf.js 6 calls
+// Math.sumPrecise (font name-table parsing) and Map.getOrInsert* here. ---
+(function () {
+  "use strict";
+  function defineMethod(obj, name, fn) {
+    if (obj && typeof obj[name] !== "function") {
+      Object.defineProperty(obj, name, { value: fn, writable: true, configurable: true, enumerable: false });
+    }
+  }
+  defineMethod(Math, "sumPrecise", function (iterable) { var s = 0; for (var n of iterable) { s += n; } return s; });
+  [typeof Map !== "undefined" ? Map : null, typeof WeakMap !== "undefined" ? WeakMap : null].forEach(function (Ctor) {
+    if (!Ctor) return;
+    defineMethod(Ctor.prototype, "getOrInsert", function (key, d) { if (this.has(key)) return this.get(key); this.set(key, d); return d; });
+    defineMethod(Ctor.prototype, "getOrInsertComputed", function (key, f) { if (this.has(key)) return this.get(key); var v = f(key); this.set(key, v); return v; });
+  });
+  if (typeof Promise !== "undefined") {
+    defineMethod(Promise, "withResolvers", function () { var resolve, reject; var p = new this(function (res, rej) { resolve = res; reject = rej; }); return { promise: p, resolve: resolve, reject: reject }; });
+  }
+})();
+// --- END injected polyfills ---
 /**
  * @licstart The following is the entire license notice for the
  * JavaScript code in this page
