@@ -843,7 +843,7 @@ const defaultOptions = {
     kind: OptionKind.API
   },
   isOffscreenCanvasSupported: {
-    value: true,
+    value: false,
     kind: OptionKind.API
   },
   maxImageSize: {
