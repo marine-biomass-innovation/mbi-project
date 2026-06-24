@@ -807,7 +807,7 @@ const defaultOptions = {
     kind: OptionKind.API + OptionKind.PREFERENCE
   },
   disableFontFace: {
-    value: false,
+    value: true,
     kind: OptionKind.API + OptionKind.PREFERENCE
   },
   disableRange: {
