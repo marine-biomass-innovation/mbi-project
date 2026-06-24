@@ -55,6 +55,7 @@ layout: base
       </span>
     </p>
 
+    {% unless page.hide_image %}
     {% assign screenshot = project.screenshot | default:project.image %}
     <div class="img-wrapper lead aspect-ratio sixteen-nine {% unless screenshot %}fallback-img{% endunless %}">
       {% if screenshot %}
@@ -68,6 +69,7 @@ layout: base
         %}
       {% endif %}
     </div>
+    {% endunless %}
 
     {% include components/message.html text=project.description hide=page.hide_description property="description" alt="" %}
     {% if project.caption %}<meta property="disambiguatingDescription" content="{{ project.caption }}"/>{% endif %}

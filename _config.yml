@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-# url:                   https://username.github.io
+url:                   https://mbiproject.ca
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -32,7 +32,7 @@ description:           >
 tagline:               Repurposing marine biomass for sustainable marine-based development with Mi’kmaw communities in Ktaqmkuk (Newfoundland).
 
 # A list of keywords for your blog
-keywords:              [marine, biomass, innovation, indigenous, Mi'kmaw, sustainability, Canada, Newfoundland and Labrador, two-eyed seeing, etuaptmumk, NL, Newfoundland]
+keywords:              [marine, biomass, innovation, Indigenous, Mi'kmaw, sustainability, Canada, Newfoundland and Labrador, Two-Eyed Seeing, Etuaptmumk, NL, Newfoundland]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -55,6 +55,8 @@ menu:
     url:               /team/
   - title:             Project Partners
     url:               /project-partners/
+  - title:             Newsletter
+    url:               /newsletter/
   - title:             Blog
     url:               /blog/
 
@@ -311,6 +313,10 @@ collections:
   project_partners:
     # Make sure the permalink path is different!
     permalink:         /project-partners/:path/
+    output:            true
+
+  newsletters:
+    permalink:         /newsletter/:path/
     output:            true
 
 
