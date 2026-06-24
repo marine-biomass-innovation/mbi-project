@@ -43,6 +43,8 @@ See https://github.com/adobe-type-tools/cmap-resources
 <link rel="resource" type="application/l10n" href="locale/locale.json" />
 <!-- Polyfill for Map.prototype.getOrInsert(Computed); must run before pdf.js modules -->
 <script src="upsert-polyfill.js"></script>
+<!-- Embed config: disableFontFace so fonts render consistently (esp. Safari) -->
+<script src="embed-config.js"></script>
 <script src="../build/pdf.mjs" type="module"></script>
 
     <link rel="stylesheet" href="viewer.css" />
