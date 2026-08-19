@@ -4,7 +4,7 @@ title: 'Community Partners'
 caption: MBI Project Community Partners
 description: >
   Breakdown of Mi'kmaw Community Partners working with the MBI Project
-date: 28 Oct 2025
+date: 20 Aug 2026
 image: 
   path: /assets/img/project-partners/community.png
 no_groups: true
@@ -21,7 +21,7 @@ ____________
 
 ## Bay St. George
 
-> **Indigenous Community Liaison:** Nina Tourett-Retieffe
+> **Indigenous Community Liaison:** Brooke Chaisson-Young • [&#9993; bchaissonyou@mun.ca](mailto:bchaissonyou@mun.ca)
 
 Bay St. George is a unique area on the southwest corner of Newfoundland, with vibrant Mi'kmaw communities surrounding the ocean and a picturesque landscape nearly as beautiful as its people. The long rich history of Mi'kmaw use and occupancy of Newfoundland starts in Bay St. George. This portion of the island was visible, and navigable by the sea in ocean-going canoes, from Cape Breton.
 
@@ -79,7 +79,7 @@ ___________
 
 ## Bay of Islands
 
-> **Indigenous Community Liaison:** Matthew Perrier
+> **Indigenous Community Liaison:** Matthew Perrier • [&#9993; mperrier@mun.ca](mailto:mperrier@mun.ca)
 
 The Bay of Islands is a mountainous region in Western Newfoundland with longstanding connection to Mi'kmaw culture. A sheltered bay with ample fishing opportunity and easy access to excellent inland hunting grounds has provided a safe haven and bounty for all those who have chosen to call the Bay of Islands home. 
 
