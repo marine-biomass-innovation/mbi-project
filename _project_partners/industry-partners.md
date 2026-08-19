@@ -4,7 +4,7 @@ title: 'Industry Partners'
 caption: MBI Project Industry Partners
 description: >
   Breakdown of Industry Partners working with the MBI Project
-date: 20 Aug 2026
+date: 28 Oct 2025
 image: 
   path: /assets/img/project-partners/industry.png
 no_groups: true
