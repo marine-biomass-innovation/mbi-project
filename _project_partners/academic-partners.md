@@ -4,7 +4,7 @@ title: 'Academic Partners'
 caption: MBI Project Academic Partners
 description: >
   Breakdown of Academic Partners working with the MBI Project
-date: 20 Aug 2026
+date: 28 Oct 2025
 image: 
   path: /assets/img/project-partners/academic.png
 no_groups: true
