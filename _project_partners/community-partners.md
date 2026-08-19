@@ -4,7 +4,7 @@ title: 'Community Partners'
 caption: MBI Project Community Partners
 description: >
   Breakdown of Mi'kmaw Community Partners working with the MBI Project
-date: 20 Aug 2026
+date: 19 Aug 2026
 image: 
   path: /assets/img/project-partners/community.png
 no_groups: true
