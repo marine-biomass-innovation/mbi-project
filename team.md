@@ -10,10 +10,11 @@ title: Team
 * Nina Tourett-Retieffe, Mi’kmaw Community Engagement Coordinator • [&#9993; ntourett@mun.ca](mailto:ntourett@mun.ca)
 * Brooke Chaisson-Young, Indigenous Community Liaison, Bay St. George • [&#9993; bchaissonyou@mun.ca](mailto:bchaissonyou@mun.ca)
   * Brooke works closely with the following communities: Flat Bay Band, Benoit First Nation, St. George's Indian Band and Three Rivers Mi'kmaq Band.
-* Jacey Bennett, Community-Based Researcher, Bay St. George
 * Matthew Perrier, Indigenous Community Liaison, Bay of Islands • [&#9993; mperrier@mun.ca](mailto:mperrier@mun.ca)
   * Matthew works closely with Elmastukwek First Nation (Benoit’s Cove Indian Band).
+* Jacey Bennett, Community-Based Researcher, Bay St. George
 * Meagan Greene, Community-Based Researcher, Bay of Islands
+
 
 ## Work Package Teams
 The MBI project is highly collaborative with research partners around the world. The researchers on this project are split across eight 'work packages', each with their own focus, goals and methodologies. There are eight different Work Package Teams (WPTs) working together on the MBI Project. The interrelated WPTs, which establish an integrated approach to assess, repurpose, and develop biomass products. Each Work Packages' team members, purpose and objectives are detailed below.
