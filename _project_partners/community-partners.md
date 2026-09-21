@@ -21,13 +21,13 @@ ____________
 
 ## Bay St. George
 
-> **Indigenous Community Liaison:** Brooke Chaisson-Young • [&#9993; bchaissonyou@mun.ca](mailto:bchaissonyou@mun.ca)
+> **Indigenous Community Liaison:** Brooke Chaisson-Young • [&#9993; bchaissonyou@mun.ca](mailto:bchaissonyou@mun.ca) <br>
+> **Community-Based Researcher:** Jacey Bennett
 
 Bay St. George is a unique area on the southwest corner of Newfoundland, with vibrant Mi'kmaw communities surrounding the ocean and a picturesque landscape nearly as beautiful as its people. The long rich history of Mi'kmaw use and occupancy of Newfoundland starts in Bay St. George. This portion of the island was visible, and navigable by the sea in ocean-going canoes, from Cape Breton.
 
 ![Bay St. George](/assets/img/BSG.png)
 
-  
 
 ### [Flat Bay Band](http://flatbayband.ca/)
 
@@ -79,7 +79,8 @@ ___________
 
 ## Bay of Islands
 
-> **Indigenous Community Liaison:** Matthew Perrier • [&#9993; mperrier@mun.ca](mailto:mperrier@mun.ca)
+> **Indigenous Community Liaison:** Matthew Perrier • [&#9993; mperrier@mun.ca](mailto:mperrier@mun.ca) <br>
+> **Community-Based Researcher:** Meagan Greene
 
 The Bay of Islands is a mountainous region in Western Newfoundland with longstanding connection to Mi'kmaw culture. A sheltered bay with ample fishing opportunity and easy access to excellent inland hunting grounds has provided a safe haven and bounty for all those who have chosen to call the Bay of Islands home. 
 
