@@ -9,6 +9,7 @@ title: Team
 * Jonathan Leudee, Project Manager • [&#9993; jluedee@mun.ca](mailto:jluedee@mun.ca)
 * Nova Almine
 * Narges Jalili Kolavani
+
 ## Community Engagement
 ### Mi'kmaw Community Engagement Coordinator
 * Nina Tourett-Retieffe • [&#9993; ntourett@mun.ca](mailto:ntourett@mun.ca)
