@@ -13,9 +13,11 @@ title: Team
 ## Community Engagement
 ### Mi'kmaw Community Engagement Coordinator
 * Nina Tourett-Retieffe • [&#9993; ntourett@mun.ca](mailto:ntourett@mun.ca)
+<br>
 ### Bay St. George
 * Brooke Chaisson-Young, Indigenous Community Liaison • [&#9993; bchaissonyou@mun.ca](mailto:bchaissonyou@mun.ca)
 * Jacey Bennett, Community-Based Researcher
+
 ### Bay of Islands
 * Matthew Perrier, Indigenous Community Liaison • [&#9993; mperrier@mun.ca](mailto:mperrier@mun.ca)
 * Meagan Greene, Community-Based Researcher
