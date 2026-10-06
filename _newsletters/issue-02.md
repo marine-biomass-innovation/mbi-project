@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: newsletters
 title: "Issue 02"
 date: 2026-10-06
 image:
